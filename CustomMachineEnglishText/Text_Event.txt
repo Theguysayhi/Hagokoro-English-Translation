@@ -1,0 +1,1669 @@
+0=Please read "___Readme_forCustomText.txt" in "CustomText" Directry  Before customize the text.
+Sorry,This text is translated by Automatic system.English translation by volunteers is recommended.
+
+="About Custom Text"#
+
+10=
+13/An intruder who masters three weapons ...
+The report of the sights seems to be true. @
+13/[Tennin] ... Once defeated by [Tosyu]
+It was resurrected! @
+13/I won't let you like it anymore. Receive my blade!
+= "Bibi-Encounter" #
+
+51=
+1000/I can hear the voice of [ba] ...@
+3/[Player]... It's important 
+for reconnaissance missions to "look around".@
+3/Anyway, if you find a suspicious place somehow
+"Aim there"!@
+1000/(Or press the displayed number keys such as [1], [2])@
+3/However, if you move too much, you may notice the enemy.@
+3/If you think it's dangerous to be noticed, "Stay still"@
+3/If found ... it would be dangerous.
+="Recon explanation"#
+
+52=
+1000/I can hear the voice of [ba] ...@
+3/Hmm ... It's like this for the time being.@
+3/If you want to know the secret of the battle in more detail
+You should come to me.
+="Exit Tutrial"#
+
+53=
+1000/The state of "breaking clothes" where the enemy's clothes are torn!
+If this happens, the attack on the enemy may fail ...
+Overturn the disadvantages by using tools!
+="Tutorial Armor break"#
+
+54=
+1000/I can hear the voice of [ba] ...@
+3/Those who have an "attack type" are in a fighting spirit.
+If you have practiced, you should be able to see it.@
+3/It's not straightforward, but ... Switch to an "advantageous weapon"
+It's easy to defeat if you fight.@
+3/If you choose a weapon that has the same color as the enemy's aura
+You can fight in your blessing!
+
+="Tutorial Attack Type"#
+
+55=
+1000/I can hear the voice of [ba] ...@
+3/"Defense" is indispensable as a means to prevent enemy attacks.@
+3/No matter how much you trained, your physique ...
+It is possible to lose in a blink of an eye due 
+to the difference in body size with the enemy.@
+3/The method of defense differs 
+depending on the "weapon you are currently using".@
+3/Some weapons are abandoned and have no defenses ...
+Look at the abilities of the weapon and make a good judgment.
+="Tutrial Deffence"#
+
+101=
+999/Wow! You're amazing to come this far.
+But,We are [Boss] 's double.@
+999/You came and
+We will love you! Kufufu...
+="Triple Double?"#
+
+102=
+2001/In the name of the [Tosyu], I shall punish you!
+="VS Mitsuki"#
+
+103=
+0/It wouldn't make sense if the doubles gathered in one place.
+="Double Won"#
+
+104=
+101/...!@
+900/Fufufu ... Can you fight with all your might against the naked?
+="VS Naked Enemy"#
+
+105=
+0/(She is ... "Attack Type : Speed"!)@
+0/(The same "Red Attack Type weapon" is 
+effective for enemies wearing a Red aura.)
+="VS Speed Type"#
+
+106=
+0/(She is ... "Attack Type : Yanagi"!)@
+0/(The same "Blue Attack Type weapon" is 
+effective for enemies wearing a Blue aura.)
+="VS Yanagi Type"#
+
+107=
+0/(She is ... "Attack Type : Strong"!)@
+0/(The same "Green Attack Type weapon" is 
+effective for enemies wearing a Green aura.)
+="VS Strong Type"#
+
+1001=
+]]0016@
+[[020000@
+999/Kufufu, we are Double of [Boss].
+Unfortunately you are a failure.@
+[[000001@
+999/There aren't even three [Boss]!
+That's it! Kyahaha !@
+999/We hurt you and the reward is ours.Kufufu..@
+[[000004@
+999/Fufu!@
+999/It's a nice view.@
+999/Yeah!@
+999/It's great to trample the villains.@
+999/We inherited the technique of [Boss]
+It is an "elite". You are ours
+You should enjoy your feet.@
+[[000002@
+999/Kufufu...@
+999/Yaah! Fufu..@
+999/Ah ... this guy ...@
+[[000003@
+999/The rumors that [Tennin] 
+liked being beaten by a woman were true.@
+999/Let's step on him more together... Kufufu...@
+999/Fufu...@
+999/I wonder what will happen ...? Kyaha.@
+999/Give up immediately...fufu...@
+[[000040@
+999/Ah!@
+999/Wow...@
+999/ Aha...@
+999/A lot is spouting...Fufu...@
+[[000040@
+999/You've sprinkled dirty liquid with Double's feet, right?
+how's your feeling? Kufufu...@
+999/Reply early, loser...Fufu..!@
+[[000040@
+999/Kufufu...@
+100/Uh, oh ...@
+[[000099@
+999/Hmm ... @
+999/You're really perverted ...
+The more you step on it, the more it will come out.@
+999/We are kind, so I will love you a lot.
+Kufufufufu....@
+1000/Thus, the man who was once called [Tennin]
+ defeated by being ridiculed by the target Double ...
+="Defeat Scene - Double"#
+
+1002=
+]]0013@
+[[020000@
+2001/You worked very hard with that petite physique.
+But it looks like the limit.@
+]]]|W1|H1|t0|Y0.43|S0.20@
+2001/ho!@
+0/(uh...!?)@
+2003/Fufu,
+You're petite, so it's easy for me to get you up.@
+2004/Even if I stand up, my head only comes to our waist ...
+It's so small that it looks cute~.@
+2005/But only the dick has become so big ...
+Cute ...@
+]]]|W1|H1|t0|Y0.22|S0.20@
+2001/You were crazy about our legs. 
+I understand @
+100/...@
+2003/The worst person ... 
+Then I have an idea here as well.@
+[[000001@
+2001/We'll hurt you with this leg ...!
+Punish [Tosyu]'s enemies ♪@
+[[000002@
+2003/Hah!@
+2002/ei!ei..!@
+]]]|W0.4|H1|t4|Y1.45|S0.35@
+2005/We know that you are a [Tennin] 
+who has received a lot of "blessings" in the past.@
+2005/There is no precedent for fighting with a "blessed" body ...
+Only that obsession is fine, but this is the reality.@
+]]]|W0.4|H1|t3|Y1.45|S0.35@
+2004/You lose to both [Tosyu] and [Boss].
+ ... This is the reality.@
+2004/And yet you are lustful 
+for your enemies and your dick is solid ...
+You are a very pathetic man.@
+]]]|W0.4|H1|t0|Y0.65|S0.22@
+2001/Fufufu,,,
+He seems sad to be told the facts.@
+2001/But the body looks happy.@
+[[000100@
+[[000302@
+2001/You see ... When you're trampled like this,
+I wonder if happy memories will come back.@
+]]]|W1|H1|t0|Y0.65|S0.25@
+2001/It's getting harder and harder. 
+Thanks to that, it's easy to step on ♪@
+]]]|W1|H1|t0|Y0.35|S0.22@
+2002/... Hey, isn't it about to spurt out?@
+2003/That's right. 
+This guy can't stand our attack ...!@
+[[000100@
+2001/Come on, let's gush!@
+[[000040@
+2001/Nn...Fufufufu...@
+2002/Wow ...@
+2004/So much!@
+]]]|W0.4|H1|t4|Y1.45|S0.35@
+2005/Now your power is ours.@
+2001/But still! Fufufu ...@
+[[000040@
+]]]|W0.4|H1|t1|Y0.82|S0.30@
+2002/The legendary [Tennin] is at our feet ... @
+2002/Even though it's such an easy job, I defeated the enemy
+Is it okay to receive a prize?@
+]]]|W0.4|H1|t2|Y0.82|S0.30@
+2003/You will be disappointed, 
+but this is your true power!@
+[[000040@
+2004/Regret having underestimated our power!@
+[[000100@
+2005/You have a fascinating face while being stepped on by a woman ...
+You're pathetic@
+[[000040@
+2001/Fufufufu...@
+2001/Did you understand the beauty of the power that [Tosyu]'s "love" brings?
+You will live as our toys from now on !@
+[[000099@
+2001/Ahahaha..!@
+[[000302@
+1000/Thus, the man who was once called [Tennin],
+but he defeated by [Boss]'s Minions...
+="Defeated Mitsuki5"#
+
+1003=
+]]0012@
+[[020000@
+2006/Haa...ha...@
+2006/... It was a good match. Even for petite men
+I was surprised that there was a strong warrior like you ...@
+]]]|W1|H1|t0|Y0.82|S0.20@
+2006/...@
+101/uh...!@
+100/(Chest ... painful ...)@
+2006/I have heard about that. The man who received the "blessing"
+There are cases where you writhe just by touching a woman.@
+]]]|W1|H1|t0|Y0.52|S0.20@
+2006/I ... I'm interested in you.
+Your body ... I want to comfort you@
+[[000100@
+[[000303@
+100/...!?@
+2006/You are a POW. ... I'll have you come to my room@
+2006/Huh. I thought about holding you again,
+A really small body.@
+2006/But you're always
+You had a big penis ... while you were holding it like a princess.@
+2006/Is it embarrassing? ... Fufu, it ’s cute.@
+2006/The penis is horribly big ... isn't it painful?@
+[[000304@
+[[000008@
+2006/I ... calm you down.@
+[[000302@
+2006/Nn...@
+2006/I'm rubbing my crotch ...
+Your ... cute thing ... @
+2006/Don't think about it, even though it's an enemy.
+I want to love you so much with my body@
+2006/Nn..Nn...@
+100/Kuh...U...!?@
+2006/It's very different from the fearless face when fighting ... cute..@
+[[000046@
+2006/Nfu...Ah..@
+2006/Nn...Come slimy...@
+2006/Okay ... buried in my chest ... put out a lot ...!@
+[[000045@
+2006/Hmm ...! ...! Hmm ... Hmm ... @
+2006/ Hmm ... Wow ...@
+[[000046@
+2006/I also received "love" ... When "love" and "blessing" intersect ...
+The power of a man is lost.@
+]]]|W1|H1|t0|Y0.34|S0.20@
+[[000302@
+2006/I'm sorry ... It's painful to take away your power,
+I can't help but want to love you.@
+[[000045@
+2006/Like this ... right?@
+100/...@
+2006/Now on the floor ...@
+[[000100@
+[[000009@
+[[000302@
+2006/Nfu...N...!
+2006/Hah..Ah...!@
+100/Auu..!?@
+2006/It's become one ... @
+]]]|W0.3|H1|t0|Y0.11|S0.25@
+2006/The big body of a woman ... 
+I'm glad you took it firmly.@
+2006/I love you ... I love you .@
+2006/Nn...Nn...@
+2006/You just ejaculated, but it's getting bigger and bigger ...
+I'm happy.@
+2006/Hah...Ha..uh...Fufu..@
+2006/Let's blend together ... @
+[[000050@
+2006/An..!Ah...!Hah...fu...@
+2006/Hah...Hahh...@
+2006/... the stunned face is cute ... @
+]]]|W1|H1|t0|Y0.34|S0.28|R-53@
+[[000302@
+[[000051@
+2006/Are you crying? Don't worry if you can't achieve your purpose.
+I'll be with you forever ... Fufufu...@
+[[000050@
+2006/Fufu...fufufu....@
+[[000099@
+[[000302@
+1000/There was a man who was once called [Tennin].
+But he was defeated by the enemy's relentless and insidious love ...
+="Defeated Kokoro"#
+
+1004=
+]]0051@
+[[020000@
+0/Ugu...Uh...@
+13/... It sounds like surrender, [Tennin]?@
+0/(...It was unexpected that the enemy was so strong...)@
+13/You have been "blessed" once, 
+but you have tried to rebel against [Tosyu] again ...
+This is unheard of.@
+13/You need to hurt you thoroughly.
+Put this person in prison!@
+[[000303@
+993/Yes!@
+100/...@
+993/This guy is still erected...@
+993/Hey ... at least...@
+100/ku...@
+993/If you go to prison, 
+I'll love you a lot. So be patient now.@
+993/If you say such a thing, this guy will get excited again, Fufu..@
+[[000304@
+13/... Now let's get started.@
+13/It's a little embarrassing, but ...@
+[[000008@
+100/Gu!?@
+13/Nn...@
+993/It's a good treatment for a man who loses to a woman.
+Hey hey ...@
+993/Know that this weight is the weight of your sin .@
+13/Caress is above all paradise for a "blessed" man, and
+Hell above all ...@
+[[000046@
+13/You lose the power you have cultivated again in this way.@
+13/Nn...Fu...@
+993/Kufufu ... The penis is getting slimy.
+It's stupid to be fighting with such a strange thing ~@
+993/Do it, do it ..Fufu@
+993/Now, it's useless to put up with it ... Get it out!@
+[[000045@
+13/...!@
+993/Ah...!Fufu..@
+13/Don't stop the offensive.@
+993/Yes!@
+[[000045@
+993/Nn...Fufu...@
+993/Fufufufu...@
+13/Fufu..@
+993/More!@
+[[000045@
+13/Come on ... I'll have a little fun ... @
+[[000303@
+13/Everyone, please hold it down.@
+993/Yes.@
+13/Nn...Hmm..@
+993/I'm holding his penis, [Bibi].@
+13/Nn..Thanks.@
+[[000304@
+[[000009@
+13/Nku...@
+13/Nn...Uh...!@
+13/Wow ... he spewed out like that ...!?@
+993/[Bibi] caresses you directly..
+You should be happy.@
+993/Fufufu...@
+13/Hah...ah...Nn...!!@
+[[000200@
+993/Ah ... It's cheeky that you make [Bibi] cum first!@
+993/So! 
+We will make you feel more comfortable with the feel of our body.@
+[[000021@
+100/Ah...!?u...!@
+[[000050@
+13/Nn...u...n...@
+993/Fufufu ... It feels good!
+With this, the power of [Tennin] has been lost again.@
+]]]|W0.4|H1|t0|Y0.24|S0.24@
+13/Hafuu ... Hmm ... but more ... I have to bully...!@
+13/Nn...N...@
+993/It seems that [Bibi] has also caught fire, Fufu..@
+[[000050@
+13/Ah...Hah...@
+13/ku...n...fufu...@
+[[000050@
+13/Eventually ... I'll take you to [Tosyu] ...
+Until then ...@
+[[000099@
+13/We ...  I will enjoy you .@
+1000/There was a man who was once called [Tennin].
+However, he was defeated by the enemy and became the food for the enemy to defeat ...
+="Defeat Bibi"#
+
+1005=
+]]9999@
+[[020000@
+993/Jeez...
+It's stupid to challenge a fight with that kind of skill.@
+993/... well, because it's so "big"
+It's natural that you can't win .@
+993/... You have a surprisingly cute face, right?@
+100/...!?@
+[[000008@
+993/Fufu...@
+993/Just rub it with my ass like this
+You can't think of anything, right?@
+993/Fu...Un...@
+993/You did this because you wanted to rebel against [Boss] ...
+It feels good ♪@
+993/Fufu..Nn...@
+993/My usual job is boring. So
+I have to enjoy a lot just now.@
+993/Nn...Kuu...@
+993/Fufu...I and you are strongly attached ...
+That's why I understand that your power is weak.@
+993/We will support you ...
+Relax with confidence.@
+993/Hey, are you listening ~?@
+100/(Ah ... ah ... No...)@
+[[000046@
+993/Mufufu,, The penis seems to give me a good reply.@
+993/It's getting slimy ...?@
+993/What would you do if I did more?@
+993/Hey, tell me ~?@
+100/(uh... I can't stand it anymore ...)@
+[[000045@
+993/Ah...!@
+993/Ah ... ah ...  Wow ... @
+993/Oops ... Fufu. Did you really relax with this?
+Until now, I've been doing my best ...? Great!@
+993/But is it okay? I'll have you sleep this time ... Fufufufufu.@
+[[000009@
+993/Hmm ... eh ... @
+993/Hah...un...@
+993/You just ejaculated ... aren't you still unsatisfied?@
+993/With this body of mine ... I'll suck you all up.@
+993/Hah...Nn...Fufufu..@
+993/You look happy ... I'm glad .@
+993/Even though they were enemies a while ago, we can love each other like this ...
+This is the wonderfulness of "love".@
+[[000200@
+100/(No, I don't like it ... To the enemy who received the blessing of [Tosyu]
+... I don't want the enemy to do this)@
+100/(But no ... my head is vague ...)@
+[[000050@
+993/Fufu...Nn...Nn...!?@
+]]]|W0.35|H1|t0|Y0.24|S0.24@
+993/It ’s amazing ... ... There are still many ...@
+[[000050@
+993/Ah...ah...!@
+[[000052@
+993/Fufu.. Thank you ...  I got a lot of your soul .@
+993/If everyone enjoys your body, I'll let you go ♪@
+[[000100@
+[[000099@
+993/You will challenge again anyway, right?
+No matter how strong you are, you will lose to us ...@
+993/You are just a tool for us to be efficient and strong.
+Ahahahaha ...!@
+1000/There was a man who was once called [Tennin].
+However, he couldn't even beat the lower class soldiers and lost to "love" ...
+="Defeat Asigaru"#
+
+2004=
+]]0051@
+[[020000@
+13/Are you still going to fight?
+... why so much ...!@
+13/This obsession may be a disaster for [Tosyu] ...
+Then I use a secret technique.@
+993/[Boss]! That's what we do ...!@
+13/No, I will do it. Shave his fighting spirit as much as possible ...
+Hold him down, everyone!@
+993/Yes!@
+[[000010@
+13/...!@
+]]]|W0.3|H1|t0|Y0.24|S0.24@
+13/Come on ... even after receiving this technique
+Are you going to stand up?@
+13/Huf...n...@
+13/[Tosyu]'s curse ... No, on your body that received the "blessing"
+This technique works best, right?@
+100/(Ah, ah ...! No, no more ...!
+Intolerable...! ?? )@
+[[000050@
+13/Ah...!@
+[[000200@
+993/Fufufu...@
+13/More!@
+[[000050@
+993/You look good, [Tennin]?@
+13/Nn...Nn...@
+13/...@
+[[000050@
+100/...@
+[[000100@
+100/... (surrender ... I can't ... I can't) ...@
+[[000050@
+13/Hah...ha...@
+[[000052@
+13/... You still seem motivated.
+it can not be helped.@
+[[000011@
+13/Everyone surround him!
+Let's remove this person's fighting spirit by force!@
+[[020000
+="Retry Bibi"#
+
+2005=
+]]0016@
+[[020000@
+999/Are you still fighting?
+You are persistent.@
+999/I allow it, but there are conditions.@
+[[000010@
+999/Fufufu...Nn...@
+]]]|W0.3|H1|t0|Y0.24|S0.24@
+999/Aha...!@
+100/(Ah, ah ...! No, no more ...!
+Intolerable...! ?? )@
+[[000050@
+[[000200@
+999/You who were born into a man in this world
+You can never beat us.@
+999/Do it, do it!@
+[[000050@
+999/All right!@
+999/Kufufu...@
+[[000050@
+100/(Ku ... oh ... consciousness ... but ...)@
+[[000050@
+[[000021@
+999/He's still going to fight us.@
+[[000050@
+999/Are you really stupid ?@
+[[000050@
+[[000099@
+[[0000100@
+999/Good.
+He is the first prey in a long time. Let's enjoy a lot!@
+999/Ahaha..!@
+[[000201@
+[[000052@
+999/Kufufu ... Now the preparation is perfect.@
+[[000011@
+999/Come on, we'll beat you again.
+Kufufu..!@
+[[020000
+="Retry-Bibi's Double"#
+
+2006=
+]]9999@
+[[020000@
+100/(Ku ... must stand up early ...)@
+]]]|W0.3|H1|t0|Y0.54|S0.28@
+900/[Dialog010]@
+100/(Oh ... no, no ... just the voice of the enemy ... my body ...!)@
+]]]|W1|H1|t0|Y0.38|S0.21@
+900/[Dialog020]@
+[[000009@
+900/[Dialog030]@
+100/Ah...A...!@
+900/[Dialog040]@
+100/(Oh, oh ... it spouts ...)@
+[[000050@
+900/[Dialog050]@
+]]]|W0.3|H1|t0|Y0.24|S0.24@
+[[000050@
+[[000200@
+100/(I ... I can't beat the enemy with this body ...?)@
+[[000050@
+900/[Dialog060]@
+[[000050@
+100/(Don't lose ... consciousness ... firmly ...)@
+900/Fufufu...@
+[[000050@
+[[000052@
+900/[Dialog070]@
+[[000011@
+900/[Dialog080]@
+100/(Breathing ... 
+I have to adjust my breathing ...!)@
+]]]|W0.3|H1|t0|Y0.54|S0.28@
+900/[Dialog090]
+="Retry-Enemy1"#
+
+2007=
+]]9999@
+[[020000@
+100/(Ku ... I'm still ... I can fight ...
+But ...)@
+]]]|W0.3|H1|t0|Y0.54|S0.28@
+[[000015@
+900/[Dialog110]@
+[[000015@
+100/(Uh ... !! My chest is ... painful ...!?)@
+]]]|W0.3|H1|t0|Y0.38|S0.21@
+900/[Dialog120]@
+100/(No, no ... the enemy in front of me is the enemy to defeat ... but ...)@
+900/[Dialog130]@
+[[000010@
+900/[Dialog140]@
+]]]|W0.3|H1|t0|Y0.24|S0.24@
+100/(Ah...ah....uh...)@
+[[000050@
+900/[Dialog150]@
+[[000200@
+100/(I'm sorry ... I can't resist the enemy ... I can't ...
+My power is coming out ...)@
+[[000050@
+900/[Dialog160]@
+[[000050@
+100/Hah...Hmm...@
+[[000052@
+900/[Dialog170]@
+[[000011@
+]]]|W0.4|H1|t0|Y0.54|S0.25@
+900/[Dialog180]
+="Retry-Enemy2"#
+
+3002=
+[[[00000@
+]]6250@
+[[020000@
+996/Hmm ...@
+996/Are you seriously proposing it? 
+Then you are stupid.@
+996/I'm sorry, the negotiations are broken.@
+100/(oh...I failed ...)@
+996/Anyway, you are suspicious.@
+100/...!@
+996/...@
+[[000017@
+[[000015@
+]]]|W0.3|H1|t0|Y0.3|S0.28@
+996/...Hey!@
+101/Wow, wow ...!?@
+996/Ah! This guy ...!@
+[[000015@
+101/Don't come ...@
+996/I've heard rumors of a ninja whose weakness is a female body. 
+You mean?@
+996/You see, what happened?@
+[[000015@
+100/Uh...@
+996/I have a duty to hear your strategy.
+Hold him down, everyone!@
+[[000303@
+993/Yes!@
+100/Ugh ...@
+996/Aha! When I pressed my skin, he got stuck.@
+996/Your lower body is also reacting, right?@
+996/Great courage. You're in an enemy base.@
+993/Worst boy...@
+100/...@
+996/Fufu...How about this?@
+[[000304@
+[[000010@
+100/Ah ... ah ...!@
+996/You feel good ...?
+You are so stupid.
+Because you are planning a rebellion against us who have received [Tosyu]'s "love".@
+993/Fufufu...@
+993/Ahaha...@
+]]]|W0.3|H1|t0|Y0.24|S0.24@
+996/If I continue to inspire you more
+What will happen? Fufufu ...@
+100/Uh ... gu ...
+(Well, no more ...)@
+[[000050@
+996/Nn...Fufufu...@
+100/Ah..!?a...@
+996/Fufu...@
+996/You are now exposing a pitiful figure.@
+100/...@
+993/Melted face, cute ..@
+993/I'll deal with any number of such cute enemies.@
+[[000051@
+996/I won't let you rest, sorry~@
+[[000200@
+100/Oh! Ah...! !!@
+996/Hey...Yeah!@
+993/Do you have a more pathetic face?@
+993/Everyone is seeing your poor appearance ...@
+996/Come on!@
+[[000050@
+100/...!Uh...@
+996/Fufu...More!@
+100/Ah ...! Already ... 
+no more ...! !!@
+[[000050@
+996/Ufufufu ...@
+100/...!! ...@
+[[000052@
+996/Hmm ... Come on, if you want to stop torture, 
+what you plan to do
+Confess everything. Then we will stop the attack.@
+100/...@
+1000/[Player] couldn't stand the attack of the enemy women,
+He confessed everything about the strategy.@
+996/I see ... I thought I had to blame more
+You confessed easily. Thank you, [Tennin].@
+[[000051@
+996/I will attack more as a reward.@
+100/no,no...!@
+[[000021@
+993/You don't make a weak voice! 
+You're a boy, right?@
+993/Please give up.@
+[[000050@
+996/Hey ... hey ...@
+[[000050@
+996/Fufufufu...@
+[[000099@
+1000/[Player] was dying after 
+being relentlessly "attacked" by the enemy.@
+[[000011@
+]]]|W1|H1|t0|Y0.3|S0.22@
+996/Hmm ... it was fun.@
+993/How would you like it? Do you want to kill him?@
+996/Let's leave it alone.
+If he was thinking about tactics again, we could take him away.@
+1000/(All tactics have disappeared!)
+="Discovery - Merchant"#
+
+5001=
+993/Did you hear the rumor of [Tennin]?@
+993/Is it the one that the country storehouse was attacked?
+Everyone is too worried ...@
+993/[Tennin] used the technique of [Tosyu] long ago
+I heard that you were robbed of your age and skill.@
+993/It's impossible for such a guy to be a ninja again.@
+993/Well, the one who once lost to [Tosyu] and became dried body
+It's scary enough.@
+993/It's okay if you sniff around this team.
+On the contrary, I'll take it back！
+="Reconnaissance 1"#
+
+5002=
+993/Look look! Loot!@
+993/Did you crush the dojo in the town again?@
+993/Well ~. Because our "caress"
+It's cheeky to continue martial arts with the body you received! That instructor.@
+993/A man who receives too much "caress" reacts violently to a woman's contact
+It will be like ...@
+993/It's a "contact" like hitting or kicking.@
+993/[Boss]'s reputation for hitting a man with such weaknesses
+Are you involved?@
+993/Hmmm, no matter what you think, 
+you don't have the courage or strength to face your teeth
+Same.@
+993/It's okay to trample on a man with a loose waist.
+Ahaha ...
+="Reconnaissance 2"#
+
+9000=
+0/(I couldn't get any particularly information)
+="No results"#
+
+9001=
+0/(Let's eavesdrop on the story of the townspeople over there.
+One is like a hunter ...)@
+[[020000@
+505/Hmm ... I was impatient. 
+There is an army of [Tosyu] at the foot of the mountain
+I ran away in a hurry.@
+508/If you think it's an early return, that's what it is.
+But why is [Tosyu]'s army on Mt.YAJIRI?@
+505/It's probably a transport unit because there were a lot of big carts.
+It seemed to be late because one of the cars was broken.@
+505/From the direction, maybe in the [Boss] base
+I think it was the place to go.@
+508/But I'm glad you escaped. 
+If you find it, you don't know what to do ...@
+505/Ah ... it's scary to be squeezed 
+by a woman and become dried body.@
+0/...@
+0/(A transport unit going to the base of [Boss] ...)
+="transport"#
+
+9002=
+0/(Let's eavesdrop on the story of the merchant over there.)@
+[[020000@
+503/Damn! !! Also, the [Boss]'s merchant bought merchandise cheaply!
+I can't do it anymore!@
+506/...what a pity. Legitimate against [boss]
+Business is impossible.@
+503/I planned to make good money, but it was eventually thrown away.
+I can't do any more business in this town! Aa! !! [Boss]!@
+506/Hey ... please be careful. 
+Perhaps your remarks are being heard by [Boss]'s minions.@
+503/Hmm ... they said they would look for weapons next time,
+Which store will be preyed on this time?@
+506/It's very scary.@
+0/...@
+0/(The enemy is looking for a merchant to buy equipment ...)
+="merchant - bibi"#
+
+9003=
+0/(I couldn't get any particularly information)
+="limit"#
+
+9004=
+504/I heard that the blacksmith will give us a "discount".@
+505/It would be terrifying if [Boss] knew that the blacksmith was 
+"discounting" without permission, but it's brave.@
+504/Perhaps it's done in secret for a short period of time.@
+0/(Blacksmith discounts ...)
+="Blacksmith discounts"#
+
+9005=
+506/Hey, where are you going in such a hurry?@
+507/[shop_b] is "discounting"!@
+506/Oh! I also have to hurry to the store!@
+0/（Tool shop discounts...）
+="shop discounts"#
+
+9006=
+503/[shop_s] wants supplies.
+You may be able to sell things at a high price now.@
+504/Hmm ... well, it doesn't matter to me.
+There is nothing to sell@
+0/(Goods sell well ...)
+="Goods sell well"#
+
+9007=
+504/The blacksmith will give you a further discount.@
+505/What happened to the blacksmith!?@
+0/(Blacksmith discounts more ...)
+="Blacksmith discounts2"#
+
+9008=
+507[shop_b] will give you a further discount.@
+506/Did the owner become desperate?@
+0/（Tool shop discounts more...）
+="shop discounts"#
+
+9009=
+503/[shop_s] seems to be still collecting supplies.
+The selling price will go up even more!@
+504/It doesn't matter!
+Don't tell me a story that seems to be profitable!@
+0/(Goods sell well more...)
+="Goods sell well"#
+
+10001=
+[[[00004@
+1000/A letter has arrived to Gen, who is disguised as a "fortune teller".
+Surprisingly, it was a letter from someone who claimed to be a subordinate of [Boss].@
+1000/The letter said: "I want you to diagnose [boss]"@
+0/[Boss] seems to have a fortune-conscious personality ...@
+0/My skill as a fortune teller has also improved.
+I might be able to use this to infuse something@
+0/Disguise ...@
+38/Alright.@
+[[020000@
+[[[00003@
+]]0014@
+1000/And the meeting place ...@
+38/...@
+998/Are you a rumored fortune teller?@
+998/I'll have you come with me.@
+38/...yes...@
+[[020000@
+]]0052@
+998/[Boss], this person.
+13/You are the fortune-teller 
+who has a good reputation in the town?@
+13/... Can you diagnose me?@
+13/Please tell me what to do in the future.@
+998/I'll give you money. Make a quick diagnosis.@
+13/We are the army of [Tosyu].@
+13/If the fortune-telling is accurate, 
+you as a fortune-teller in our army
+I will also consider hospitality.@
+38/...@
+1000/Choose one of the keywords.
+="fortune-teller 1"#
+
+10002=
+0/[Boss], defeat you!@
+13/...!?@
+998/Are you ... [Tennin]!
+ Did you get lost in the enemy's territory?@
+13/Everyone, attack the enemy! Gather here!@
+998/[Boss], our strategy has a great effect on [Tennin].@
+998/Now everyone, reveal your breasts!@
+998/See, [Boss] too!@
+13/e...!?@
+[[000015@
+998/Fufufu ... You are an inexperienced person who 
+is confused by the female body.
+Die by our beautiful body!@
+[[009999
+="fortune-teller Raid"#
+
+10003=
+38/... you have very strong luck.@
+13/...!@
+38/...Your luck is too strong for me to diagnose.@
+13/ha...?@
+998/[Boss], This fortune teller is a quack. 
+Let's get rid of it from here.@
+13/I agree...@
+998/Disappear! Prank curse!@
+1000/The enemy got angry ... 
+nothing changes at the enemy's base.
+="fortune-Unknown"#
+
+10004=
+38/...!?
+="fortune-teller none"#
+
+10005=
+38/ooo....oOOooiooOuOO...!!!!!@
+998/!?@
+13/buzz-buzz...
+(A good fortune teller hears the voice of God in this way.
+[otome] seems to do this too)@
+38/"Naked"...@
+13/What?@
+38/"Naked" ... you need a pure heart ...@
+38/All of you have to be naked. 
+Then [Boss] will be able to advance.@
+38/...God says this.@
+13/Understood! We do!
+Thank you, fortune teller.@
+998/[Boss]!?
+="fortune-naked"#
+
+10006=
+38/ooo....oOOooiooOuOO...!!!!!@
+998/!?@
+13/buzz-buzz...
+(A good fortune teller hears the voice of God in this way.
+[otome] seems to do this too)@
+38/"Dark"...@
+13/What?@
+38/"Dark"...Your base is too bright.@
+38/You should put out the bonfire ... 
+otherwise you'll be out of luck.@
+38/...God says this.@
+13/Understood! We do!
+Thank you, fortune teller.
+="fortune-dark"#
+
+10007=
+0/Let's go to see the enemy carefully.
+="fortune-none"#
+
+10008=
+[[[00004@
+[[009999@
+1000/A little later ...@
+0/Let's go to see the enemy carefully.@
+[[[00000@
+[[012000@
+[[000015@
+]]0002@
+101/(!?!!?!)@
+[[020000@
+[[012010@
+[[009999@
+101/...I was surprised that everyone was really naked...@
+101/If I don't do something, I'll be at a disadvantage.@
+1000/All enemies will be in a "breaking clothes" 
+state from the beginning!
+="fortune-naked 2"#
+
+10009=
+[[[00004@
+[[009999@
+1000/A little later ...@
+0/Let's go to see the enemy carefully.@
+[[[[00000@
+]]0002@
+0/(The bonfire is extinguished. The enemy base is surrounded by "Darkness".@
+0/(This is easy to sneak in.)@
+1000/The enemy base has darkened. 
+The activation rate of surprise attack : Up　
+And even if the enemy is in a "breaking clothes" state, it will be sucess to the attack!
+="fortune-dark 2"#
+
+10011=
+[[[00005@
+1000/Gen sometimes disguises himself as a "merchant" to earn money.@
+1000/A request to bring in equipment came under the "merchant" Gen.@
+0/The client seems to be a subordinate of [Boss].@
+0/さて...According to the request form, what is missing
+"Weapons" and "clothes to wear".@
+0/If it is a "weapon", if you bring in a bad weapon
+It may weaken the enemy's attack power.@
+0/If you bring in inferior clothes, the defense power will be
+It may fall, but ... the enemy's clothes may be easily torn.@
+102/clothes...@
+101/...I need to think twice.@
+[[020000@
+1000/Now it's time to bring in the equipment ...@
+0/disguise...@
+40/Alright.
+Well ... Business talks start.
+="merchant-start"#
+
+10012=
+[[[00003@
+]]6250@
+996/Hmm ...@
+40/I would like this price.@
+996/Okay. The negotiation is closed.@
+40/Thank you very much. 
+I look forward to working with you in the future.@
+1000/Gen made the enemy hold the money.@
+996/You're smart.
+Well, that's the only special skill you have.@
+40/Yes! Thank you very much.@
+996/Goodbye, lowly merchant. Ahaha...!@
+[[020000@
+[[009999@
+40/Alright ...@
+0/Next, let's decide what to bring in.
+="merchant-wairo"#
+
+10013=
+[[[00003@
+]]6250@
+996/Hmm ...@
+40/I would like this price.@
+996/Okay. The negotiation is closed.@
+40/Thank you very much. 
+I look forward to working with you in the future.@
+996/Have you forgotten something?@
+40/?@
+996/An old-fashioned guy. It's nothing.@
+40/Yes! Thank you very much.@
+996/Goodbye, lowly merchant. Ahaha...!@
+[[020000@
+[[009999@
+40/Alright ...@
+0/Next, let's decide what to bring in.
+="merchant-nonewairo"#
+
+10014=
+503/none
+="nouse"#
+
+10021=
+0/[Boss] seems to be sending scouts to various places.@
+0/If I defeat and disguise any of the scouts, 
+I may be able to convince the enemy of disinformation.@
+0/First ... find and defeat.@
+[[020000@
+0/...@
+[[020000@
+995/...!@
+0/Find it!
+="scouts1"#
+
+10023=
+998/none
+="nouse"#
+
+10022=
+0/Alright, disguise ... 
+I'll sneak into the enemy's base.@
+[[[00003@
+[[009999@
+]]0014@
+42/I will report.@
+998/Yes, please.@
+42/There are signs of an uprising among 
+the bandits in the eastern Mt Yajiri.@
+998/What!?@
+42/It's going to be a pretty big rebellion.@
+998/It should be converged at an early stage.@
+998/It is necessary to dispatch a strong unit.@
+998/I will also report this to the [boss]. 
+thank you for your hard work.@
+42/Yes!@
+[[020000@
+1000/Succeeded in distributing false information!
+The "strong enemies" of the enemy will decrease!
+="scouts2"#
+
+10031=
+994/Who are you!? Thieves!?@
+994/I won't give you this food!
+="food thieve"#
+
+10051=
+996/Did you hear?@
+996/[Boss] has sent a letter requesting a diagnosis to [otome].@
+996/[Boss] really likes fortune-telling.@
+996/However, [otome]'s prediction is correct.
+It seems that some people have succeeded because of the prophecy.@
+996/I'm a little worried about that blind faith ...
+[Boss] seems to easily believe whatever the fortune teller says.@
+996/By the way, Captain, isn't it time to find a new merchant?@
+996/I am sending letters to talented merchants around here.
+The previous merchant went bankrupt.@
+996/I meet each merchant and from the ones who seem to be useful
+I'll buy a weapon.@
+996/But I will buy the next merchant 
+at a low price and let it go bankrupt. I'm looking forward to it.@
+996/Fufu, the captain is a bad person.@
+996/Ahaha...!@
+[[020000@
+0/For "fortune-telling" ... "business" ...
+="business and fortune-telling"#
+
+10052=
+998/Did you find out what 
+caused the delay in food transportation?@
+995/Yes. It seemed that the wheels of the cart 
+had come off and were being repaired.@
+998/Really. The wheels are ...@
+995/The transportation unit has come to the foot of Mt Yajiri.
+It will arrive in the near future.@
+998/Then you don't have to worry about food. 
+Thank you for your hard work.@
+[[020000@
+0/"Transportation Corps" ... "Recon Corps" ...
+="Transportation and Recon"#
+
+10053=
+998/none
+="nouse"#
+
+10054=
+[[[0001@
+510/Ugu...uh...@
+0/It is all right now.@
+[[000303@
+1000/[Player] gave the boy first aid.@
+[[000304@
+0/(He holds the herbs tightly ... 
+he definitely wanted to take this home)@
+0/There was a village in the south. 
+Let's take him there for the time being.@
+0/Nn...t.@
+[[020000@
+1000/[B80],[Bibi]...@
+1000/She wants to prevent the unity of 
+resistances throughout the country
+A military commander who monitors.@
+0/(... I expect some people in this country to hate [Tosyu].
+But the rebellion has been sealed by the [Bibi] army.)@
+0/(If I can defeat [Bibi], the resistance in each area will come to life.
+It should be a great help to defeat [Tosyu].)@
+0/(I never forgives the capital [Tosyu] ...)@
+0/(As long as she controls the country, 
+more and more people will be robbed of what is important)@
+510/uu...@
+0/!@
+510/Earlier ... Thank you ...@
+0/I'm heading to a nearby village.@
+0/When you get there, you can rest ... Be patient.@
+510/Thank you ... because that's my village ... 
+I have to deliver this herb.@
+0/You didn't let go of the herbs while they were hurt.@
+0/... You have something much stronger than them@
+510/...@
+[[000500@
+[[000300@
+0/...The soldiers who received [Tosyu]'s “love” gain strong power, 
+but their spirits are distorted.@
+0/I don't know if that was the result of their pride. But ...@
+[[000303@
+0/The soul is distorted enough to 
+happily take something away from others.@
+0/...In that sense, they are not human.@
+510/...@
+[[000304@
+[[040046@
+0/If "love" robs people of their inherent toughness and preciousness ...@
+[[000304@
+[[040047@
+0/I must erase it anyway ...! !!@
+[[049999@
+510/H,Hey...@
+[[000300@
+0/Ah! !! I'm sorry ... @
+510/No ... who the hell are you ...?@
+0/...@
+0/My name is [Player]. What's your name?@
+510/I'm [Yasu].@
+0/Yeah ... Nice to meet you, [Yasu].@
+0/It's about to arrive. 
+You should take a rest as soon as you deliver the herb@
+[[[0007@
+[[000300@
+1000/Upon arriving at the village, 
+[Player] and [Yasu] delivered the herbs to [Yasu]'s sister.@
+1000/And let [Yasu] rest ...@
+[[000300@
+0/Well ... this is fine.@
+0/I defeat [Bibi] ... Unleash the sleeping beasts! !!@
+[[[0004@
+[[000500@
+[[030005@
+1000/[B80] [Bibi]'s Base...@
+13/"This is already the 18th request ..."@
+13/"[Otome]'s fortune-telling technique is wonderful. Please ..."@
+998/[Bibi]. I have a report.@
+13/"I want a fair and legitimate rating. Please ..."@
+998/[Bibi]!!@
+13/Eh...! ?? Oh, I'm sorry.@
+13/I was just writing a request ...@
+998/Are you doing it again ...?@
+13/I want to be more at the center of the country than at the mountain guard!@
+13/For that reason, I really need the cooperation of [Otome]!@
+998/...There was evidence that [Ash] was attacked by someone.@
+13/Hah ...? ... Well, [Ash] are those who have just received "love".@
+13/It's not uncommon if it's done by someone with combat skills.@
+998/In addition, some of our direct soldiers have been defeated.@
+13/...!?@
+13/Hmm ... It seems that a pretty strong bandit has appeared.@
+998/According to reports, he had "three weapons".@
+13/...!?!?@
+13/No way ... triple "attack types"?@
+998/As far as I can hear the story, for the sake of humor
+It doesn't seem to be just carrying three weapons.@
+13/No way ... [Tennin]?@
+998/... The only one who was able to control three attack types ...@
+13/But he ... 
+reportedly planned to assassinate [Tosyu] but failed.@
+13/And I heard that he was incapacitated after receiving "[Gyaku]".@
+13/No ... that was a story many years ago ... no way ... 
+he grew up and rebelled again ...?@
+998/Another report.@
+998/At the time of the battle with the soldiers, 
+he was confused by the "female body"...@
+13/I see...@
+13/I heard that [Tennin] received a fierce 
+"blessing" in addition to "[Gyaku]".@
+13/The flaw has not healed ...@
+13/Fufufufu ... I'm lucky too.@
+13/Attacking his weaknesses ... 
+If I could get rid of [Tennin] completely@
+13/There is no doubt about my career advancement! !!@
+13/Eventually I will be a member of [Sanrei] 
+... Mufu ... Mufufufu ... @
+998/B,Bibi...?@
+13/[Tennin]... I will definitely beat him!
+="Prologue Bibi"#
+
+10055=
+0/The strategy I could carry out is ...@
+0/Alright, I decided.@
+[[020000@
+1000/When you enter the enemy territory, 
+you can carry out the "strategy mission" that 
+Gen thought based on the information gathered earlier.@
+1000/If you try to fight and feel that 
+your enemies are strong, carry out an operational mission.
+="operational"#
+
+10056=
+1000/Hear the voice of [ba] ...@
+3/[Player], what weapon do you have right now?
+This is the attack type of [Yanagi].@
+3/The enemy in front of you is 
+always looking for a chance to attack you.@
+3/You can attack the enemy right now. However, 
+"attack when the enemy moves immediately before the attack". 
+This is the moment when [Yanagi] is the strongest.
+="Yanagi"#
+
+10057=
+1000/Hear the voice of [ba] ...@
+3/[Player], what weapon do you have right now?
+This is the attack type of [Speed].@
+3/Normally, you consume stamina when you attack, 
+but [Speed] ​​weapons don't have that limitation. 
+You can attack infinitely. Thanks to the training I imposed.@
+3/And if you repeat the attack, you can give a stronger and faster attack.
+At that time you are "invincible".@
+3/Anyway, attack from here and attack and attack ... 
+That is the essence of [Speed].
+="Speed"#
+
+10058=
+1000/Hear the voice of [ba] ...@
+3/[Player], what weapon do you have right now?
+This is the attack type of [Strong].@
+3/[Strong] can accumulate power when attacking.
+(Hold down the attack button to "charge")@
+3/And the advantage of [Strong] is 
+that you can amplify your power by attacking from the enemy.
+When attacked by an enemy , it accumulates as the power of "anger".@
+3/And if you release the power at any time, 
+you can make an explosive attack.
+(Release the attack button to activate an explosive attack) @
+3/Accumulate power, endure enemy attacks and reverse ...
+This is the essence of [Strong]. It may be unexpectedly difficult.
+="Strong"#
+
+10059=
+[[000018@
+101/(This movement of the enemy ... bad !! 
+She is aiming for a "sexual pose" !?)@
+101/(If she succeeds in a "sexual pose", 
+I'll probably be unable to do anything ...
+... I absolutely have to interfere with her movements! )
+="sexual pose" #
+
+10060=
+101/(I failed, the enemy's clothes broke!)@
+101/(I should turn things around with "Shadow Attack" in these cases.)@
+1000/"Shadow Attack" has a finite number of times, but it can be activated at any time.
+="Shadow Attack"#
+
+10061=
+[[020000@
+[[009999@
+102/([ba]...I have been able to fight without problems.)@
+102/I will get back what was stolen from [Tosyu]!@
+993/You!!@
+0/Whats...? It looks like there are still enemies over there.@
+[[020000@
+[[030005@
+]]8002@
+993/We are "[Bibi]" soldiers. Are you going to go against it?@
+510/I'm sorry ... I'm in the mountains to take herbs.@
+510/Please forgive me!@
+993/Don't lie. You are definitely a member of the bandits.@
+993/You were planning to guide your friends and attack 
+the town at the foot of the mountain. @
+993/But unfortunately it was found by us.@
+510/No!
+Wrong!I need medicine for my sister ...!@
+993/Shut up! Bandits! !!@
+993/"Anyone who makes a possible 
+move as a thief should be punished ..."@
+993/You must know the law set by the great [Tosyu].@
+993/...Now here, we will enforce you a “stepping” punishment.@
+510/Oh...!!Help!@
+993/Kukuku...@
+993/A man cannot receive [Tosyu]'s "love". Such an existence
+The only way to live is to feed us!@
+[[000001@
+510/Help me!!@
+[[000004@
+993/“Stepping” punishment...Execution!!@
+510/Guh...Ah... sorry...sister...@
+993/Fufu...You are a low-ranking bandit ... 
+You are an evil that disturbs the world! !!@
+993/But he really came to pick herbs ...?@
+993/For us, it doesn't matter if we can take him as a credit.@
+993/Even if the story of her sister is true ...@
+993/She should also receive the blessing of [Tosyu].@
+993/She can be a body free from illness.@
+993/Do you get it? Bad guy ... @
+993/I can't hear your reply!  Nm! Hu!@
+[[000500@
+0/"Ninpo" ... "Gyaku-Kawarimi"!!@
+[[020000@
+[[040050@
+[[000001@
+993/!?@
+993/What...!? Who is this!?@
+[[049999@
+510/a...ug...@
+0/(That boy looks okay ... he's injured, 
+but he looks like he's not dead.)@
+993/The current technique ... Probably this is Shinobi.@
+993/A man's ninja is so suspicious!
+Let's beat him!@
+[[030001@
+[[000002@
+101/(All I have to do is escape from here ...
+Oh, the woman's body ... inevitably comes into my sight.)@
+[[000004@
+993/You are now a boy's friend !?
+After all you were bandits!@
+101/Is it the job of [Bibi]'s soldiers 
+to force an innocent person to become a sinner?@
+993/What!? Don't say anything that looks great 
+even though you're stepped on! !!@
+101/(Now,Let's concentrate and escape ...!)
+="Escape"#
+
+10062=
+101/(There are two ways to get out of here!)@
+101/(One : Escape at once while the enemy is surprised by "Shadow Attack" ...)@
+101/(Two : I will prevent enemy attacks and wait for a chance to escape!)
+="How to Escape"#
+
+10063=
+[[[0006@
+5007/[Player]!@
+0/[Yasu].Are you okay already?@
+5007/Yes. I have no problem if I just walk.@
+5011/I heard you took care of my younger brother ... Thank you.@
+101/Oh, is it [Yasu]'s older sister ... 
+How are you feeling ...@
+5011/Thanks to you, it's okay.@
+101/Yeah ... yes ...@
+0/By the way, there seem to be few people in this village, why?@
+5011/... Because they were “subjugated” by [B80] as bandits.@
+0/...! [Bibi]?@
+5011/Yes. I heard from one person who barely escaped ...@
+[[[0001@
+505/[Bibi]! Please listen to our wishes! !!@
+505/Let us use the benefits of the mountains ... 
+And the soil ...! !! Please! !!@
+[[020000@
+]]6300@
+[[050030@
+13/...You guys are stubborn.@
+13/I said it certainly offers a chance for discussion.@
+13/But I'm not saying that you can come in groups.@
+13/And I'm not saying you can bring your weapons.@
+13/It's like ... you guys are in battle.@
+[[000300@
+505/We are desperate too! !!@
+505/We've lived with nature all the time ..! !!@
+13/Oh my god ... 
+It seems that my predecessor was a sweet person.@
+13/[B80]'s mission is 
+to seal the unity of the frontier bandits.@
+13/In addition to that, 
+I have a duty to keep the peace of the mountain itself.@
+13/The reason is 
+that [Tosyu] loves the beautiful scenery of the mountains.@
+[[000300@
+505/...@
+13/It would be a hindrance if 
+there was someone like you who devastated the mountain.@
+13/I thought that if you cracked down on the use of land, 
+you would leave the mountain.But that didn't happen.@
+508/We respect the mountains and get only what we need! !!@
+506/Everyone is alive in this mountain for generations! !! 
+We never go to other lands!@
+505/And you're cutting down trees for the fort, 
+and you're the most devastating! !!@
+13/Shut up! Bandits!@
+508/Bandit...!?@
+13/You parasitize the mountains and oppose [Tosyu]'s intentions ...@
+13/This is clearly a bandit.@
+[[000304@
+[[050000@
+[[030005@
+13/All sinners ...  I will sentence you to "wither".@
+[[000300@
+507/...!!!@
+506/Don't be afraid! !! Our lives ... 
+let's get it back with our hands! !!@
+[[050070@
+[[000301@
+[[000304@
+[[060253@
+[[050080@
+508/Guh...!!!@
+505/Hii..!?@
+507/Ah ... she only swung her sword once ...@
+507/Four in an instant ... No, six ...! ??@
+13/There is a big difference in power between those 
+who have received "love" and those who have not.@
+[[050010@
+13/Your stupidity that doesn't understand it is sin!!@
+[[000303@
+[[000500@
+507/Uwaaaa!!!!@
+[[000304@
+[[009999@
+[[[0006@
+5011/...@
+5011/The villagers were then captured as bandits.@
+5011/... They may still be punished for “withering”.@
+[[000304@
+102/.........@
+5007/...!!@
+0/I also came to this land for [Bibi].@
+0/I can't forgive her ...@
+0/Those who forcibly rob the weak with the power of "love" ... 
+Never forgive!@
+5007/([Player] ... 
+He was as old as I was, but sometimes he looked huge)@
+5007/(Big, black, ferocious, but sad and gentle, something ...)@
+5007/(I felt the same when I was sent to the village, 
+but I couldn't ask him ...)
+="Stage-1"#
+
+10064=
+0/This is an approximate map of the enemy base.@
+[[000300@
+[[000305@
+[[000600@
+0/This is where I am now.@
+[[000601@
+[[000306@
+0/And here is where [Bibi] is likely to be.@
+0/This time it was easy to investigate, 
+so I knew where the target enemy was ...@
+0/However, in the future, 
+I may have to devise in order to identify the target enemy.@
+[[000300@
+[[000307@
+0/This is where "Tactics" can run.@
+0/If I can make "Tactics" successful, 
+I can dominate the situation.@
+0/The only thing I can do this time is "reconnaissance" ...@
+0/"Tactics" can be run wherever I am at the base.@
+0/If the enemy feels tough, let's use it.
+="Map"#
+
+10065=
+[[000600@
+[[000308@
+100/(It's been some time since I came here ...)@
+100/(People who receive [Tosyu]'s "love" will have a terrible 
+improvement in physical ability and vitality.)@
+100/(The time that ordinary humans 
+can confront them is inevitably limited.)@
+100/(I have to beat [Bibi] before this "time" runs out!)
+="Time"#
+
+10066=
+[[[0006@
+0/[Yasu]! Ane-Ue-Dono!@
+5007/[Player]!What is that dolly?@
+0/I brought the people I was trapped in.@
+0/Some have been punished for "withering" ... 
+but they can be helped by the allowance.@
+5011/Was good...! [Yasu]! Call everyone!@
+5011/Let's take care of them! @
+5007/Yeah!@
+0/I will help you too.@
+5011/[Player] ... Thank you very much.@
+101/....@
+[[000300@
+0/(... from here ...)@
+0/(With this as a trigger, 
+I will defeat [Tosyu] this time ...!)@
+0/(And [Otuu] must be ...!)@
+[[[0008@
+[[000500@
+1000/A room in a castle ...@
+11/... it's late!@
+9/I'm sorry, [Muku] ... 
+But we just got together recently, right?@
+9/I hope there will be delicious sweets at 
+the end of this meeting .@
+11/And ... what about [Otome]?@
+9/Behind you ~.@
+11/What!?@
+10/Fufu ... Fufufu ... A member of [Sanrei], 
+[Otome] ... Visit ... Fufu ...@
+11/Come in more prominently!@
+9/So what happened?@
+11/...[Bibi] has been defeated.@
+9/...[Bibi]!!@
+9/Who is it?@
+11/[B80]!! Remember the names of your colleagues!@
+10/...Why...?@
+11/She was defeated by a Ninja.@
+11/The perpetrator is ... [Tennin].@
+9/!!@
+10/...!@
+[[000300@
+11/Manipulate three weapons ... 
+A man's ninja with maroon hair.@
+9/It's the same ... how many years ago? five years ago?@
+10/Received [Gyaku] from [Tosyu] ...@
+10/That ninja that we ... "blessed" ...@
+10/He came again without giving up ...!!!@
+11/... He defeated [B80] in the north.@
+11/He may be looking to work with thieves.@
+10/... confusion ... spreads ...@
+10/He's going to disturb the peace created by [Tosyu]...@
+10/I can't forgive ... I'm resentful ...! !! !! 
+[Tennin], [Player] ...! !! !!@
+9/But it's getting more interesting, isn't it?@
+9/Let's beat him with the power we robbed him!@
+9/My [Speed]、@
+9/[Otto]'s [Strong]、@
+9/[Muku]'s [Yanagi]!@
+9/Not only that, everyone's power is mobilized!@
+9/Not just us [Sanrei],@
+9/"[B81]", "[Yuki]",
+"[B82]" , "[Azusa]"...@
+9/"[B83]" , "[Orin]" and "[Orei]"...
+And and ... Fufufu...@
+11/(Why doesn't she just remember [Bibi] ...)@
+9/Let's bully [Tennin] together!@
+9/You like that too, [Otuu] ?@
+1/...@
+1/...Yes...
+="Sanrei"#
+
+10067=
+[[020000@
+1000/I can hear the voice of [ba] ...@
+3/"Guard" is necessary to prevent attacks from the enemy.@
+3/There are different types of "Guards".@
+3/"Normal Type","Dodge Type"@
+3/Which defenses are possible depends on the weapon.@
+3/In other words ... Even with the same [Yanagi] type weapon, 
+the guard method may be different.@
+[[000300@
+[[040049@
+1000/The guard activates while hovering over this hexagonal button.@
+1000/Or you can press the key "Down" to enter the defensive state.@
+3/Some weapons cannot be defended.@
+[[049999@
+3/... the enemy is coming. Let's practice defense.
+="Guard"#
+
+10068=
+1000/If you use the "Dodge type" to prevent enemy attacks, 
+you will be invincible for a certain period of time.@
+1000/Avoiding just before you are 
+hit by an enemy will increase your invincibility time.
+="Dodge type"#
+
+10069=
+[[020000@
+1000/I can hear the voice of [ba] ...@
+[[040048@
+3/[Yanagi],[Speed].[Strong]
+...There are strengths and weaknesses in the three attack types.@
+[[049999@
+[[000300@
+3/You should see an enemy "aura" with an attack type.@
+3/Well, attack with an attack type that is 
+"the same color" as the color of the enemy's aura!@
+3/That's the shortcut to winning ... "same color"!
+="attack type"#
+
+10070=
+1000/"Normal Guard" can safely prevent enemy attacks.@
+1000/If you defend just before being attacked by the enemy, 
+"Weapon Spark" will occur and the enemy will squeeze.@
+="Defence"#
+
+10071=
+[[020000@
+[[009999@
+0/Hmm...@
+0/(I've fought too long with the "love" ... 
+I don't have time ...!)@
+[[020000@
+]]-010@
+1001/Fufufu...
+="Time up"#
+
+999999=
+1000/nouse=
+=nouse

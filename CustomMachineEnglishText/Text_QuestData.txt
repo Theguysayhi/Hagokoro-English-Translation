@@ -1,0 +1,41 @@
+0=Please read "___Readme_forCustomText.txt" in "CustomText" Directry  Before customize the text./ / #
+11=Back/ /
+Return to the base screen/16#
+21=  Buy supplies/ /
+Buy goods./9#
+23=  Sell ​​supplies/ /
+Sell ​​the goods./10#
+22=  Weapon enhancement/ /
+Pay the blacksmith money and have him strengthen his weapons./12#
+24=  Chemical formulation/ /
+As a pharmacist, he prepares and makes various tools.
+The tools you make will be useful in combat/14#
+26=  Equipment Change/ /
+Change weapons and armor/42#
+27=  Inventory/ /
+Check the tools you have now/6#
+9997=" Tactics " Gathering information in town/ /
+Listen to people in town.
+It may provide useful information for tactics./23#
+9998=Preparation at the base/Make preparations at the base./
+/11#
+10051="Tactics"  Reconnaissance/ Scout the enemy territory/
+Scout enemy territory. By scouting many times
+You can get deeper information on enemy territory./20#
+20052="Tactics"  Carrying in equipment/ Bring equipment to the enemy/
+You disguise yourself as a merchant and bring in equipment.
+Let the enemy buy poor weapons and aim to weaken the enemy army./19#
+20053="Tactics" fortune-telling/ Use fortune-telling /
+Enemy bosses have a strong interest in tarot.
+Disguise yourself as a fortune teller and give you an advantage
+Infuse information/22#
+40054="Tactics" Transport troop raid/ Defeat the transport troop /
+I got information about the troops that are transporting food.
+Raid and steal food, aim to weaken the enemy./21#
+20055="Tactics" False information/ Disturb the enemy/
+Disguise yourself as an enemy and 
+send false information to confuse your enemies/18#
+50050=Practice:Guard/ Let's make GUARD successful 3 times. /
+Practice how to prevent attacks from enemies./16#
+50051=Practice:Attack Type/ Defeat 3 enemies /
+Switch to a favorable attack type and defeat the enemy./16

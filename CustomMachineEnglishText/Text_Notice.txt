@@ -1,0 +1,232 @@
+0=Please read "___Readme_forCustomText.txt" in "CustomText" Directry  Before customize the text.
+Sorry,This text is translated by Automatic system.English translation by volunteers is recommended.
+#
+1=Start Game.#
+2=Quit Game.#
+3=Trial Version.#
+4=Depart for the enemy base.
+If you defeat the "target boss enemy" somewhere, you win.#
+5=Perform missions and preparations to advance the battle to your advantage#
+6=You can check the hero's abilities, belongings, equipment, etc.#
+7=Check the tools that the hero has.#
+8=Check the weapons and armor that the hero is equipped with.#
+9=Change game-related settings such as difficulty, screen display, and sound.#
+10=Escape from the enemy and fight this battle
+Can be won.#
+11=Returns to the previous screen. #
+12=It is a setting related to bleeding expression etc.#
+13=Change the volume of BGM, voice, etc.#
+14=Change the difficulty of the game.#
+15=It is in a valid state.#
+16=It is in an invalid state.#
+17=This is a simple mode. You can proceed with the game quickly and easily.#
+18=It is a normal difficulty. Recommended when playing for the first time.#
+19=The enemy becomes stronger. 
+Careful preparation is required for you to fight evenly with your enemies. 
+This difficulty level is close to the original stage setting of "HAGOKORO".#
+20=Choose whether to show the bleeding effect when attacking.#
+21=Choose how to be trampled when the enemy tramples and attacks.#
+22=It will be a trampling movement.#
+23=It will be a movement to crush it.#
+24=Reset this item to its default settings.#
+25=Change the volume of music.#
+26=Change the volume of the sound effect.#
+27=Change the volume of the voice.#
+28=Turns off only the voice of the dialogue.#
+29=You will return to the base. Is it OK?
+(All measures will return to the unactivated state)#
+30=If you set it up here, it will be a pretty tough battle ...
+And if you lose, all the measures will be ruined. Still, do you do it here now?#
+31=Up#
+32=No change#
+33=Down#
+34=Me#
+35=Overwhelmingly disadvantageous.
+Aim to weaken by making full use of "Tactics"#
+36=It's tough, but if you're lucky you might win.#
+37=You can win if you have good fighting skills.
+38=The tactics are going well. It is in an advantageous state.#
+39=I've done my tactics and I'm perfectly prepared.#
+40=Check your belongings.#
+41=A tool that is refined by compounding.#
+42=Perform weapon upgrades.#
+43=This weapon can't be strengthened anymore.#
+44=Switch to another weapon you have.#
+45=You will return to the base. You can earn loot and experience points,
+All currently active strategies will disappear.#
+46=Use tools.#
+47="Attack Type : Yanagi"
+Wait for the enemy to move, and if you attack, you can make a powerful counterattack.#
+48="Attack Type : Speed"
+"Attack Type: Speed" weapons do not consume stamina to attack and are quick
+You can make continuous attacks. In addition, by repeating attacks, super high speed continuous attacks
+Can be activated#
+49="Attack Type : Strong"
+it will not be struck by enemy attacks.
+You can accumulate the power of anger by holding down the button when attacking. 
+The more you are attacked by the enemy
+The power of anger increases.#
+50=Armor#
+51=Accessory1#
+52=Accessory2#
+53=Accessory3#
+54=Equipment change#
+55=Depart from the Home . Attack the enemy's base or
+Let's get down to "tactics".#
+56=Defeat the [Boss].#
+57=Attack the enemy#
+58=Defeat the enemy#
+59=Bring information back to the base.#
+60=No tactics have been activated.#
+61=Check the strength of the enemy forces and the tactics being activated.#
+62=Formulation#
+63=Time goes by when you perform tactical missions.
+If time goes by too much all the tactics you have set up until then will disappear.#
+64=Communication#
+65=Success Rate : #
+66=Purchase price:#
+67=Desired selling price:#
+68=Bribe:#
+69=Profit:#
+70=ATK#
+71=DEF#
+72="Ration capture effect"
+The enemy weakens over time#
+73=Time goes by when you perform tactical missions.
+If time goes by too much all the tactics you have set up until then will disappear.#
+74=Advance time#
+75=!Attention! If you change the difficulty level, all tactics will disappear.#
+76=Time has passed
+All tactics have disappeared.#
+77=Defeated ...#
+78=Rematch#
+79=Defeat Demo Scene#
+80=Surrender#
+81=To Base#
+82=This is the end of the trial version.
+Thank you for playing.
+
+<Secret information>: On the base menu screen
+Press the "hidden button on the top left" to release the library
+Please use it for the second and subsequent playing.#
+83=You can browse enemy information and unveiled Demo Scene.#
+84=Enemy information#
+85=Demo Scene#
+86=Equipment#
+87=Attack 1 Pre-action#
+88=Attack 1#
+89=Attack 2 Pre-action#
+90=Attack 2#
+91=Attack 3 Pre-action#
+92=Attack 3#
+93=Temptation Pre-Act#
+94=Temptation#
+95=Damaged 1#
+96=Damaged 2#
+97=Crisis#
+98=Standing#
+99=At Random#
+100=How to play#
+101=Move Mouse: Move Aim#
+102=Left click: Attack#
+103=Press the button: Sky#
+104=In the sky ... Aim at the mark on the upper right: Escape / Attack: Special attack#
+105=Finish the tutorial#
+106=Aim at the button: Defense#
+107=Press the button: Change weapon#
+108="Shadow Attack"
+It can be activated at any time as the number of times allows.
+The enemy loses sight of you, during which you can make a deadly attack or escape.#
+109="Undressed state"
+The enemy's clothes have torn! I was upset by the woman's body
+It becomes difficult to hit the attack
+(Open a path with "Shadow Attack" and tools)#
+110=Unique enemy / mock combat#
+111=Appearance of additional enemies#
+112=Loot: None#
+113=Found by the enemy, but repelled, reducing the enemy's strength.
+(Enemy army attack, defense reduced)#
+114=Add enemy#
+115=Invincible#
+116=H attack#
+117=ex-H attack#
+118=Trampling#
+119=special H attack#
+120=Release#
+121=Trial version is up to 4 people#
+122=Cum#
+123=<<patience>>　
+No more ejaculation but no more escape gauge.#
+124=Execution
+125=For advanced users. Enjoy a tense battle.#
+126=Perform a battle with conditions.#
+400=All white (original color)#
+401=MitukiCorps-Moon#
+402=MitukiCorps-Fire#
+403=MitukiCorps-Aqua#
+404=Dark skin#
+405=Bibi-Army#
+406=MitukiCorps-Forest#
+407=MitukiCorps-Gold#
+408=Guards-Red#
+409=Guards-Black#
+410=Immature soldier#
+411=Green skin#
+412=Female Warrior 1#
+413=Female Warrior 2#
+414=Double-Red#
+415=Double-Blue#
+416=Double-Green#
+417=Reconnaissance#
+418=Purchasing charge#
+419=Transport soldier#
+420=Miko#
+421=Bibi-Original#
+999=Random
+10001=It shows how far the reconnaissance of the enemy team is progressing.
+The higher the reconnaissance level, the more you will benefit.#
+10002=A bonus will be added when moving squares.#
+10003=A bonus will be added when moving squares.#
+10004=A bonus will be added when moving squares.#
+10005=Investigate the armament of the enemy. 
+Enemy army's attack power and defense power decrease#
+10006=It will be easier to escape after using "Shadow Attack".#
+10007=Increases the number of times 
+"Shadow Attack" is used when attacking an enemy base.#
+10008=Discover shortcuts: Increase time limit#
+10009="Shadow Attack" is automatically activated 
+when confronting an enemy
+Increases the incidence of "surprise first strike".#
+10010=Get Money#
+10011=Get Item#
+10012=Get Equipment#
+10013=A bonus will be added when moving squares.#
+10050=I don't have any information about the enemy territory.
+If you go out like this, you will be forced into a difficult fight#
+10100=Enemy attack power reduction#
+10101=Enemy defense weakened#
+10102=Enemy's Armor break Rate: UP#
+10103=Enemy's Armor break Rate: Down#
+10104=Enemy troops are decreasing.#
+10105=The strength of the enemy army is like this#
+10106=Enemy army is running out of food#
+20001=The whole team is wrapped in darkness#
+20002=All of the enemy team are in a state of undressing 
+from the beginning#
+20003=All the enemies faint when they are in a state of clothing#
+20004=I don't know.#
+50051=Bibi#
+50052=Bibi and Guards#
+50016=Bibi's double#
+50013=Mitsuki platoon(Asigaru - 5)#
+50012=Kokoro(Asigaru Type:Speed)#
+1020051=Poor quality weapons (Enemy ATK:Down)#
+1020052=Good quality weapon(Enemy ATK:UP)#
+1020053=Poor quality  clothing (Armor Break Rate:UP)#
+1020054=Good quality  clothing (Armor Break Rate:Down)#
+1020055=Purchase price:#
+1020056=Selling price:#
+1020057=Selling success rate:#
+1020058=Bribe:#
+1020059=What kind of weapons do you bring in?#
+1020060=What kind of clothes do you bring in?

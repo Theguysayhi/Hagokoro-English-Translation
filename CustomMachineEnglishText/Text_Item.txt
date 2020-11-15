@@ -1,0 +1,93 @@
+0=Please read "___Readme_forCustomText.txt" in "CustomText" Directry  Before customize the text.
+Sorry,This text is translated by Automatic system.English translation by volunteers is recommended.
+
+#
+
+1=Healing Gel/HP Heal 60%/
+An ointment that heals injuries.#
+
+5=Special Heal Stone/HP Heal 100%/
+Very rare medicine.#
+
+11=Vital tonic/Increased stamina recovery/
+Increased stamina recovery.#
+
+12=Toughness tonic/Reduce the damage received/
+Reduce the damage received.#
+
+21=Bonito powder/Attacks Hit even undressed enemies./
+A powder with a unique scent. If you sprinkle it, your view will be blocked, but that's it.
+You will be able to attack women with significantly exposed skin.#
+
+25=Very dirty liquid/Defeat enemies in armor break/
+Defeat enemies in armor break.#
+
+33=Whetstone-poison/Adds poison to attacks/
+A whetstone with a special power.
+Enemies that have become poisoned will lose HP over time.#
+
+36=Whetstone-flame/Adds flame to attacks/
+A whetstone with a special power.
+An additional fire attribute attack occurs.#
+
+51=Syuriken/Throw and attack the enemy./
+Throw and attack the enemy.#
+
+501=Field Ration/Can be sold at a high price/
+Can be sold at a high price#
+
+1001=Material-Red/Used for compounding/
+Used for compounding.
+You need one red, one green, and one blue to formulate.
+
+Dispensing "red" is a substance mainly derived from animals#
+
+1002=Material-Blue/Used for compounding/
+Used for compounding.
+You need one red, one green, and one blue to formulate.
+
+Dispensing "red" is a substance mainly derived from Inorganic#
+
+1003=Material-Green/Used for compounding/
+Used for compounding.
+You need one red, one green, and one blue to formulate.
+
+Dispensing "red" is a substance mainly derived from plant#
+
+10001=Tangled sickle/Attack Type:Yanagi Gurad Type:Normal/
+
+TThe weapon of "Attack Type: Yanagi" is to wait for the enemy to move and attack just before being attacked by the enemy.
+A strong counterattack is possible#
+
+10002=Shinobi-Sword/Attack Type:Speed Gurad Type:Dodge/
+A sword with a slightly short blade used by Shinobi.
+
+"Attack Type: Speed" weapons do not consume stamina to attack and are quick
+You can make continuous attacks. In addition, by repeating attacks, super high speed continuous attacks
+Can be activated#
+
+10003=Ladder club/Attack Type:Strong Gurad Type:None/
+There is a protrusion that catches your foot so that you can climb high places.
+
+While using the "Attack Type: Strong" weapon, it will not be struck by enemy attacks.
+You can accumulate the power of anger by holding down the button when attacking. The more you are attacked by the enemy
+The power of anger increases.#
+
+10004=Spring gun "Doriru"/Attack Type:Speed Gurad Type:Normal/
+The mechanism is close to a crossbow#
+
+10005=Warped-Sword/Attack Type:Yanagi Gurad Type:Dodge/
+The gorgeous decoration of the brim attacks the enemy
+It can also be used for parrying techniques.#
+
+10006=Beak-Spear/Attack Type:Strong Gurad Type:Normal/
+Weapons used by lower class soldiers.#
+
+10007=Shield and Short-Spear/Attack Type:Yanagi Gurad Type:Normal/
+A weapon that consists of a large wooden shield and a spear that can be handled with one hand.#
+
+20001=(Naked)/Armor/
+I don't need clothes#
+
+20010=(Shinobi-Costume)/Armor/
+Light and easy-to-move clothes.
