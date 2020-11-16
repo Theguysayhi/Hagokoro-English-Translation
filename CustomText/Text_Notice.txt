@@ -5,9 +5,10 @@
 1=ゲームを開始します#
 2=ゲームを終了します#
 3=遊ぶ範囲が限定されたバージョンです。#
-4=敵地に出発します。
-どこかにいる"目標敵"を倒せば敵地制圧・勝利です#
-5=Make preperations for a smoother battle.#
+4=Head towards enemy territory.
+If the "Target Enemy" is defeated, you'll emerge
+victorious and gain control over enemy territory.#
+5=Prepare in advance to make the upcoming fight easier.#
 6=主人公の能力、所持品、装備などを確認できます#
 7=主人公が持っている道具を確認します#
 8=主人公が装備している武器や防具を確認します#
@@ -124,19 +125,19 @@ you've unlocked.#
 90=攻撃2発射#
 91=攻撃3予備動作#
 92=攻撃3発射#
-93=色仕掛け予備動作#
-94=色仕掛け発射#
-95=被弾1#
-96=被弾2#
-97=瀕死#
-98=通常立ち#
-99=ランダム#
+93=Seduction Preperation#
+94=Seduction Success#
+95=Shot 1#
+96=Shot 2#
+97=Low HP#
+98=Standing#
+99=Random#
 100=～あそびかた～#
 101=マウスを動かす：照準移動#
 102=左クリック：攻撃#
 103=ボタンを押す：空蝉術#
 104=空蝉中…右上の印に照準をあわせる：逃走　/　攻撃：必殺撃#
-105=End the Tutorial#
+105=Finish Tutorial#
 106=ボタンに照準を合わせる：　防　御　#
 107=ボタンを押す：武　器　切　り　替　え　#
 108="Utsusemi　Jutsu"
@@ -164,7 +165,7 @@ you've unlocked.#
 射精しなくなるが脱出ゲージも増えなくなる#
 124=調合実行#
 125=上級者向け。緊張感のある戦闘を楽しめます。#
-126=戦闘訓練などを行います。#
+126=You can practise battling here.#
 400=全白色(オリジナル色)#
 401=美月隊・月#
 402=美月隊・火#
@@ -187,7 +188,7 @@ you've unlocked.#
 419=輸送兵#
 420=神子#
 421=美々オリジナル#
-999=ランダム
+999=Random
 10001=敵陣の偵察がどのぐらい進んでいるかを表します。
 偵察度が高いほど恩恵を得られます。#
 10002=敵陣を進む時にボーナスがつきます。#

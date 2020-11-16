@@ -5,11 +5,11 @@
 1=Start#
 2=Quit#
 3=Demo Version#
-4=敵陣に出発#
-5=Preparation#
-6=能力確認#
-7=所持品#
-8=装備#
+4=Departure#
+5=Prepare#
+6=Check Abilities#
+7=Items#
+8=Equipment#
 9=Special Options#
 10=Escape#
 11=Back#
@@ -46,18 +46,18 @@
 42=鍛錬　実行#
 43=強化不可#
 44=他の武器#
-45=退却#
+45=Withdraw#
 46=道具#
 47=武器・柔#
 48=武器・速#
 49=武器・剛#
 50=防具#
-51=篭手#
-52=装飾品#
+51=装飾品#
+52=Accessory#
 53=装飾・三#
-54=装 備 変 更#
+54=Change Equipment#
 55= - 出 陣 - #
-56=Defeat the [B80], [Boss]#
+56=Defeat [Boss], the [B80]#
 57=敵陣に攻め込む#
 58=勝負を仕掛け、勝利せよ#
 59=引き返す#
@@ -79,7 +79,7 @@
 75=注意・難易度を変えると策戦は全て消滅します。#
 76=時が経ち、敵が陣変えを行ったようだ。
 策戦が全て消滅した。#
-77=敗北した...#
+77=Defeated...#
 78=再戦#
 79=強制退却（敗北Ev）#
 80=降参する#
@@ -94,19 +94,19 @@
 84=Enemy Information#
 85=Event Viewer#
 86=Equipment#
-87=攻撃予備動作#
-88=攻撃発射#
-89=攻撃2予備動作#
-90=攻撃2発射#
-91=攻撃3予備動作#
-92=攻撃3発射#
-93=色仕掛け予備動作#
-94=色仕掛け発射#
-95=被弾#
-96=被弾#
-97=瀕死#
-98=通常立ち#
-99=ランダム#
+87=Attack Prep#
+88=Attack Success#
+89=Attack 2 Prep#
+90=Attack 3 Success#
+91=Attack 3 Prep#
+92=Attack 3 Success#
+93=Seduction Prep#
+94=Seduction Success#
+95=Shot#
+96=Shot#
+97=Low HP#
+98=Standing Animation#
+99=Random#
 100=～あそびかた～#
 101=Mouse/Left & Right arrow keys: Aim/Move#
 102=Left click or up arrow key: Attack#
@@ -123,25 +123,25 @@
 113=敵部隊の殲滅に成功、敵戦力を減少させた。
 （敵軍の攻撃、防御が低下）#
 114=敵追加#
-115=無敵#
-116=本番H攻撃#
-117=裏H攻撃#
-118=踏みつけ#
-119=特殊H攻撃#
-120=H状態解除#
-121=※体験版は4人までです#
+115=Invincible#
+116=Sex H-Attack#
+117=Under H-Attack#
+118=Trampling#
+119=Special H-Attack#
+120=Cancel H-Status#
+121=※Trial version is limited to 4 entities#
 122=♥Climax♥#
 123=＜＜  我慢  ＞＞　
 射精しなくなるが脱出もできなくなる#
 124=調合実行#
 125=激難#
-126=腕試し・修練#
+126=Training Area#
 127=もし、敵が強いと感じたら <!> のマスに入り「策戦」を実行するべし。
 （<!>のマスはどこからでも入ることができる）#
 128=Weapon Selection#
 129=< Style: Serene >
 Focus your mind, and counter attack in accordance with enemy movements.#
-130=< Style: Swift >
+130=< Style: Speed >
 Consecutive attacks become possible. Ideal for those who want to unleash all out attacks.#
 131=< Style: Power >
 Amass your strength into one devestating blow. Rather powerful.#
@@ -176,7 +176,7 @@ Amass your strength into one devestating blow. Rather powerful.#
 419=輸送兵#
 420=神子#
 421=美々オリジナル#
-999=色ランダム#
+999=色Random#
 10001=偵察度：#
 10002=マス移動力追加#
 10003=マス移動力追加 + 2#

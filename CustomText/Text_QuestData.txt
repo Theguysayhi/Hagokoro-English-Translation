@@ -5,18 +5,18 @@
 11=Back/ /
 Return to the base menu./16#
 21=  Buy Goods/ /
-Purchase goods as a trader./9#
+Purchase goods with currency./9#
 23=  Sell Goods/ /
-Sell goods as a trader./10#
+Sell goods for currency./10#
 22=  Reinforce Weapons/ /
 鍛冶屋に金銭を支払い、武器を強化してもらう。/12#
 24=  薬品調合/ /
 薬師として調合を行い様々な道具を作る。
 作った道具は戦闘で役立つだろう/14#
-26=  装備変更/ /
-武器や防具を付け変える/42#
-27=  持ち物/ /
-今持っている道具などを確認する/6#
+26=  Change Equipment/ /
+Change equipped weapons and armour./42#
+27=  Items/ /
+Check held items and equipment./6#
 9997=「 策 」 町で情報収集/ /
 町中で人の話を聞きます。
 策戦に役立つ情報が得られることも…？/23#
