@@ -1215,20 +1215,20 @@ I should take him there for the time being.@
 0/（But because of [Bibi]'s army, any kind of unity has been obstructed.)@
 0/（If [Bibi] is defeated, and the bandits unify, I expect it will be a great help leading to taking down [Tosyu].）@
 0/(I will never forgive the capital of [Tosyu] for what they did...)@
-0/(As long as that person is in charge, others will continue to have things taken away from them like what was taken away from me.)@
+0/(...As long as that person is in charge, others will continue to have things taken away from them like what was taken away from me.)@
 510/Oogh... ugh...@
 0/...Oh, you're awake?@
 510/Thank you... for what you did... back there...@
-0/We're headding towards a nearby village.@
+0/We're heading towards a nearby village.@
 0/You'll be able to take a long rest when we get there...
 so just hold on a little longer.@
 510/Thank you... My village is over there... And I have to give these herbs....@
-0/Even when you were getting beaten up by them, you didn't let go of them.@
+0/Even though they were beating you up, you didn't let go of them.@
 0/...What you did was stronger than anything they could have done.@
 510/Y-You mean it...?@
 [[000500@
 [[000300@
-0/...Soldiers who recieve [Tosyu]'s "blessing" gain immense power, but it causes their heart and mind to become warped somehow.@
+0/...Soldiers who recieve [Tosyu]'s "love" gain immense power, but it causes their heart and mind to become warped somehow.@
 0/Whether it's due to pride, I don't know. But...@
 [[000303@
 0/Their soul becomes twisted to the point they won't hesitate to take anything from anyone.@
@@ -1236,7 +1236,7 @@ so just hold on a little longer.@
 510/...@
 [[000304@
 [[040046@
-0/If "blessings" causes people to lose the things they care about...@
+0/If the goddess's "love" causes people to lose the things they care about...@
 [[000304@
 [[040047@
 0/Then I will stop it. No matter the cost...!!@
@@ -1263,42 +1263,41 @@ so just hold on a little longer.@
 1000/At [Bibi]'s camp ground, [B80]...@
 13/"This is already the eighteenth time I've written to you..."@
 13/"We hope dearly that your skills as a diviner will help us...@
-998/Master [Bibi]. There is a report for you.@
+998/Mistress [Bibi]. There is a report for you.@
 13/"If you could only give a certain person the opportunity to do his work justice, I beg of you..."@
-998/Master [Bibi]!@
+998/Mistress [Bibi]!@
 13/Eh...!? Ah, sorry.@
 13/I was in the process or writing a short missive...@
 998/Again...?@
 13/I'd sooner wield my skills in the heart of the country than stand guard in this remote place!@
 13/For that reason, we need the help of Miss [Otome]'s abilities...@
 998/...There's evidence to suggest some [Ash] were attacked by someone.@
-13/Huh...? ...Ah, [Ash] being the people who have just recently been "blessed".@
-13/It could likely be the doing of anyone with a little bit of combat knowlege don't you think?@
+13/[Ash]...? ...Ah, you mean the people who have just recently been "blessed".@
+13/I'm sure it could have been the doing of anyone with little bit of combat knowlege.@
 998/In addition, several soldiers under our direct control have also been defeated.@
 13/...!?@
-13/Hmm... It seems a powerful bandit has emerged, don't you think?
+13/Hmm... So it seems a powerful bandit has emerged, do you think?
 They don't have the slighest clue what they're doing...@
-998/According to eyewitness reports, he was in possession of the "three weapons", or something to that effect.@
+998/According to eyewitness reports, this bandit was in possession of the "three weapons"...or something to that effect.@
 13/...!?!?@
-13/Surely not... the three sacred styles?@
-998/その手際を聞く限り、こけおどしのために
-武器を三つ担いでいるだけ、というわけでも無さそうです。@
-13/...[Tennin]?@
-998/…流派を三つ操ることができた唯一の存在…@
-13/だが奴は…言い伝えによると[Tosyu]様暗殺を企てたが失敗。@
-13/そして「[Gyaku]」を受けて無力化したって@
-13/いや…それも幾年も前の話…まさか…成長して再び反旗を…？@
-998/もうひとつご報告が。@
-998/先程の兵たちとの戦闘時、明確に「女体」にたじろいでいたと…@
-13/なるほど…@
-13/[Tennin]は「[Gyaku]」に加え激しい「祝福」も受けたと聞いています。@
-13/その疵は癒えていない…というわけですね。@
-13/ふふふふ…私にも運が回ってきましたわ。@
-13/その弱点を突き…この私が[Tennin]を完全に始末できたとあれば@
-13/出世間違いなし！！@
-13/やがて私が[Sanrei]の一人になることも…むふ…むふふふ…♪@
-998/び、[Bibi]様…？@
-13/[Tennin]…私の刀の錆にしてくれる！
+13/Surely not...of the three sacred styles?@
+998/We've heard much about his skills. It appears they're not just carrying the three weapons just for show.@
+13/It couldn't be...[Tennin]?@
+998/...The only on that could master the three styles...@
+13/And yet...according to legend, he attempted to assasinate [Tosyu] and failed.@
+13/Then, he was dealt with by the act of "[Gyaku]" and made powerless.@
+13/No... Even so that story is many years old... It can't be... He's grown up to revolt once more...?@
+998/One final thing to report.@
+998/During the battle with our soldiers, it was clear he began to falter when presented with the "female body"...@
+13/Interesting...@
+13/I heard in addition to being subjected to "[Gyaku]", [Tennin] also received an powerful "blessing".@
+13/I very much expect... There is no recovering from that flaw...@
+13/Fufufufu... It seems my luck is about to change.@
+13/If that weakness is exploited... And I get rid of [Tennin] myself...@
+13/A promotion will be all but mine!!@
+13/Eventually I'll even become one of the [Sanrei]... Ufu... Kuhuhuhu...♪@
+998/M-Mistress [Bibi]...?@
+13/[Tennin]... You'll become the rust on my sword!
 =「導入・美々」#
 
 10055=
@@ -1397,7 +1396,7 @@ Twenty stomps. Begin!@
 993/Um, maybe this guy really has just come to get herbs...@
 993/Ufu- Well as long as we get the credit for arresting someone, it doesn't really matter either way～@
 993/If the story about the sister was true...@
-993/She should accept [Tosyu]'s blessing just like us.@
+993/She should accept [Tosyu]'s love just like us.@
 993/Then her body would become immune to such trivial illnesses♪@
 993/So do you understand now? Vile little villain?♪@
 993/Oh? Can't reply can you? Hora! Hora!@
@@ -1426,7 +1425,7 @@ Guess you were bandits after all, huh?@
 Is this what [Bibi]'s soldiers do?@
 993/H-Huh?! Even while being stepped on, he's spluring out nonsense...!@
 [[000004@
-101/Oof! T-Their bodys are s-so... ough! But the twisted power of their blessings... won't work... on me!@
+101/Oof! T-Their bodys are s-so... ough! But the twisted power of the goddess's love won't work... on me!@
 993/Still talking are you? Take this! And this!@
 101/(It's okay, if I concentrate... I can escape!!)
 ="Escape"#

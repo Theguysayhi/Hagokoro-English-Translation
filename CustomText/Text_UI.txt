@@ -6,30 +6,30 @@
 2=Quit#
 3=Demo Version#
 4=敵陣に出発#
-5=下準備#
+5=Preparation#
 6=能力確認#
 7=所持品#
 8=装備#
-9=各種設定#
-10=逃走#
-11=戻る#
-12=表示設定#
-13=音設定#
-14=難易度#
-15=あり#
-16=なし#
-17=かんたん#
-18=普通#
-19=難しい#
-20=出血表現#
-21=踏みかた#
-22=ぐりぐり#
-23=踏みつけ#
-24=初期化#
+9=Special Options#
+10=Escape#
+11=Back#
+12=Display Settings#
+13=Sound Settings#
+14=Difficulty#
+15=On#
+16=Off#
+17=Easy#
+18=Normal#
+19=Hard#
+20=Blood FX#
+21=Steppy#
+22=Grinding#
+23=Stomping#
+24=Confirm#
 25=BGM#
 26=SE#
 27=VOICE#
-28=台詞のみOFF#
+28=OnlyTextOFF#
 29=強制退却#
 30=このまま襲撃#
 31=上昇#
@@ -57,7 +57,7 @@
 53=装飾・三#
 54=装 備 変 更#
 55= - 出 陣 - #
-56=[B80] 「[Boss]」に勝利せよ#
+56=Defeat the [B80], [Boss]#
 57=敵陣に攻め込む#
 58=勝負を仕掛け、勝利せよ#
 59=引き返す#
@@ -90,10 +90,10 @@
 ＜ひみつの情報＞：拠点メニュー画面で
 「左上の隠しボタン」を押すとライブラリが解放されます
 2回目以降のプレイングで活用してくださいね♪#
-83=宝物書庫#
-84=敵情報#
-85=イベント閲覧#
-86=装備品#
+83=Treasure Archive#
+84=Enemy Information#
+85=Event Viewer#
+86=Equipment#
 87=攻撃予備動作#
 88=攻撃発射#
 89=攻撃2予備動作#
@@ -117,8 +117,8 @@
 107=Push button: Switch Weapon　#
 108=Push button: Release#
 109=破衣説明#
-110=固有敵・模擬戦#
-111=追加敵出現#
+110=Special Enemies & Mock Battle#
+111=Appearing Foes#
 112=戦利品：無#
 113=敵部隊の殲滅に成功、敵戦力を減少させた。
 （敵軍の攻撃、防御が低下）#
