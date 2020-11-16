@@ -79,18 +79,21 @@ take notice of you.@
 =「裸部隊」#
 
 105=
-0/（やつは…「速」の流派か！）@
-0/（赤い気を持つ敵には、同じ「赤い流派の武器」が有効だ）
+0/(This one is utilizing the speed style...!)@
+0/(Weapons that use the power style are effective against
+enemies with a red aura）
 =「流派速」#
 
 106=
-0/（やつは…「柔」の流派か！）@
-0/（青い気を持つ敵には、同じ「青い流派の武器」が有効だ）
+0/(This one is utilizing the serene style...!)@
+0/(Weapons that use the speed style are effective against
+enemies with a blue aura）
 =「流派柔」#
 
 107=
-0/（やつは…「剛」の流派か！）@
-0/（緑の気を持つ敵には、同じ「緑の流派の武器」が有効だ）
+0/(This one is utilizing the power style...!)@
+0/(Weapons that use the serene style are effective against
+enemies with a green aura）
 =「流派剛」#
 
 1001=
@@ -312,8 +315,8 @@ take notice of you.@
 1004=
 ]]0051@
 [[020000@
-0/うぐ…うう…@
-13/…ここまでのようですね、天忍殿？@
+0/Uugh... Oough...@
+13/...Seems like you made it this far didn't you, Tenin-Dono?@
 0/（ここまで手強い、とは…）@
 13/一度「祝福」を受けた身でまた[Tosyu]様への反逆を企てるなんて…
 こんなことは前代未聞。@
@@ -400,8 +403,8 @@ take notice of you.@
 1005=
 ]]9999@
 [[020000@
-993/まったく…
-その程度の腕で戦いを挑んでくるなんて馬鹿ね。@
+993/Seriously... You're such a fool to challenge us with 
+that level of skill～@
 993/…ま、そんなに「大きく」してるんだから
 勝てなくて当然だよね♪@
 993/…結構かわいい顔してるねぇ？@
@@ -510,7 +513,7 @@ take notice of you.@
 13/みんな、取り囲んで！
 この者の闘志を力づくでそぎ取りましょう！@
 [[020000
-=「再挑戦・美々」#
+=「Bibi Rematch Fight」#
 
 2005=
 ]]0016@
@@ -1392,9 +1395,9 @@ attack!
 10059=
 [[000018@
 101/(The enemy's stance... It's so sexy...
-She can't be... doing it on purpose is she...!?）@
-101/(If she does, it's likely I'll be left unable to do
-anything...I have to stop her no matter what!）
+She can't be... doing it on purpose...!?）@
+101/(If she catches my attention, it's likely I'll be left
+unable to do anything...I have to stop her no matter what!）
 =「Seduction」#
 
 10060=

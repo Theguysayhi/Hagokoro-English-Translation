@@ -104,7 +104,7 @@ For those who have played the game before and want a fresh experience.#
 76=時が経ち、敵が陣変えを行ったようだ。
 策戦が全て消滅した。#
 77=Defeated...#
-78=再戦#
+78=Rematch#
 79=Defeat Scenes#
 80=Surrender#
 81=拠点へ#
