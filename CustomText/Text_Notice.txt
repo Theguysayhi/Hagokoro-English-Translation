@@ -7,8 +7,8 @@
 3=遊ぶ範囲が限定されたバージョンです。#
 4=Head towards enemy territory.
 If the "Target Enemy" is defeated, you'll emerge
-victorious and gain control over enemy territory.#
-5=Prepare in advance to make the upcoming fight easier.#
+victorious and gain control over the enemy territory.#
+5=Prepare in advance for a smoother fight.#
 6=主人公の能力、所持品、装備などを確認できます#
 7=主人公が持っている道具を確認します#
 8=主人公が装備している武器や防具を確認します#
@@ -106,7 +106,7 @@ For those who have played the game before and want a fresh experience.#
 77=Defeated...#
 78=再戦#
 79=Defeat Scenes#
-80=降参する#
+80=Surrender#
 81=拠点へ#
 82=これで体験版は終了となります。
 プレイしていただき、ありがとうございました。
@@ -165,7 +165,7 @@ you've unlocked.#
 射精しなくなるが脱出ゲージも増えなくなる#
 124=調合実行#
 125=上級者向け。緊張感のある戦闘を楽しめます。#
-126=You can practise battling here.#
+126=You can practice battling here.#
 400=全白色(オリジナル色)#
 401=美月隊・月#
 402=美月隊・火#

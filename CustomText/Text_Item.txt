@@ -74,7 +74,7 @@ used to drive away enemies.
 "Serene" type weapons can unleash a powerful counterattack
 if used just before an enemy attack.#
 
-10002=Shino Katana/Speed　Type, Defense Class: Evasion/
+10002=Shino Katana/Speed Type, Defense Class: Evasion/
 A short blade used by shinobi.
 
 "Speed" type weapons don't consume energy when attacking,
@@ -108,9 +108,11 @@ recieve, the stronger the attack will be.#
 大きい木製の盾と片手で扱える槍で組となっている武器。
 防御能力に優れており、防御に成功すると気力が回復する。#
 
-20001=（裸）/防具/
-服など必要無いという心意気である。#
+20001=（Naked）/Armour/
+The spirit of a true heartened warrior has no need for
+things like clothing.#
 
-20010=忍装束/防具/
-軽く、動きやすい衣服。
-訓練した者が着ると衣擦れの音さえ消し闇夜に隠れられるという
+20010=Ninja Outfit/Armour/
+Light, easy to move in clothing.
+It's said when worn by a trained person, the rusling sound
+of moment vanishes as they dissapear into the night.

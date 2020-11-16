@@ -2,7 +2,7 @@
 容易にするために実装した機能です。カスタムテキスト機能を
 推奨されない目的および誤った編集方法で使用して発生したプレイングに関する支障について
 制作元「excessm」は一切の責任を負いません。あらかじめご了承ください。#
-109=Fufu... Pathetic#
+109=Fufu... Pathetic～#
 110=Hora, hora... Look over here...#
 111=Hora, hora... Look over here...#
 112=He suddenly stopped... Now's my chance～#
@@ -27,7 +27,7 @@
 226=He's gone...! He's gone...!#
 227=H-He vanished...!?#
 228=Show yourself!#
-229=Dammit... He was here just a moment ago#
+229=Dammit... He was here just a moment ago...#
 230=W-What...!? Tch, that's so unfair!#
 231=That rat... We have to find him!#
 232=W-Where is he...!?#

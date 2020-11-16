@@ -22,9 +22,9 @@ Check held items and equipment./6#
 策戦に役立つ情報が得られることも…？/23#
 9998=拠点で下準備/拠点で下準備を行います/
 /11#
-10051=「 策 」 敵地 偵察/ 様々な恩恵＋新たな策をひらめく /
-敵地の偵察に向かう。何度も偵察することで
-より深く敵地の情報を知ることができる。/20#
+10051=「Plan」 Scout enemy Territory/  Various benifits + New Plans/
+Head out to scout enemy territory. By scouting many times.
+You can learn more in-depth information about the enemy base./20#
 20052=「 策 」 装備品搬入/ 敵陣に装備品を持ち込め/
 商人としての任務。実績を買われ装備品を搬入することになった。
 武器や防具に粗末なものを仕込めば敵軍の弱体化が狙えるかもしれない/19#
@@ -40,7 +40,8 @@ Check held items and equipment./6#
 美々はこまめに情報収集を行っているようだ。
 彼女が放っている偵察隊の一人を襲いなりすまし、
 偽の情報を送り込めば戦況が好転しうる/18#
-50050=訓練：防御/ 防御を三回成功させよ /
-敵からの攻撃を防ぐ方法を練習します。/16#
-50051=訓練：流派の三すくみ/ 三人抜きを達成せよ /
-有利な相性の流派を見極め、倒す練習です。/16
+50050=Training: Defense/ Defend three times /
+Practice blocking enemy attacks./16#
+50051=Training: Three Types/ Get used to type advantage /
+Practice using different styles against different enemy
+types./16

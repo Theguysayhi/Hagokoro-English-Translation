@@ -13,14 +13,16 @@
 
 51=
 1000/You hear the voice of your [ba]...@
-3/[Player]よ、偵察任務は「あたりをよく見回す」ことが大切じゃ。@
-3/なんとなく怪しい場所を見つけたらとにかく
-「そこに照準を合わせよ」！@
-1000/（または、[1],[2]などの表示された数字キーを押す）@
-3/しかし、あまりきょろきょろしすぎると敵に気づかれることも
-あるかもしれん。@
-3/気づかれそうで危ないと思ったら、「動かずじっとする」のじゃ@
-3/もし見つかれば…面倒なことになろう。
+3/[Player]. When scouting your enemy, it's vital you
+"check your suroundings".@
+3/If you find something suspitous, simply "point your
+gaze towards it!"@
+1000/(Or, you can push the [1],[2] keys)@
+3/However, don't scurry around too much, the enemy may
+take notice of you.@
+3/If you think you're about to be noticed, stay still and
+"don't move".@
+3/If you're discovered...things won't end well.
 =「偵察説明」#
 
 52=
@@ -1166,19 +1168,23 @@
 =「偵察・美々二」#
 
 10052=
-998/兵糧の輸送が遅れている原因は分かったか？@
-995/はい。荷車の車輪が外れて修復をしているようでした。@
-998/そうか。車輪が…@
-998/ふぅ…賊に襲われた、なんて理由だったら
-山賊を見張るために陣取っている我らの軍の沽券に関わるからな。@
-995/今は鏃山のふもとまで来ております。多少遅れていますが
-近いうちに到着するでしょう。@
-998/なら食料が行き渡らないということはないだろう。
-ご苦労だったな。@
+998/Have you figured out what's been causing the delay in
+transporting food provisions?@
+995/Yeah, the cart's wheels came off and needed repairing.@
+998/Really? So it was the wheel...@
+998/Fuu... If it was because it was attacked by a thief,
+It'll be a good look for us soldiers to camp out here to 
+keep watch for any brigands.@
+995/It's coming to the foot of arrowhead mountain right now.
+It might be a little late, but it should arrive soon.@
+998/There's no way we won't have enough food to go around.
+It would be a huge issue.@
 [[020000@
-0/「輸送隊」が鏃山のふもとに…東の方角だな。@
-0/山道を越えてきて遅れもあったとなれば、相当疲れているはずだ。
-回り道をして襲撃すれば兵糧を奪えるかもしれないな
+0/So a "Transport Squad" is at the base of arrowhead
+mountain... That's towards the east.@
+0/If they came over the mountain road and there was a delay,
+they must be very tired. Maybe if I took a detour and
+attacked them, I could take away some of their rations.
 =「偵察・美々一」#
 
 10053=
@@ -1209,14 +1215,14 @@ He probably wanted to bring this home at any cost.）@
 I should take him there for the time being.@
 0/...Hngh!@
 [[020000@
-1000/([B80], [Bibi]...)@
-1000/(She's a millitary commander who oversees various areas
-to prevent groups of bandits from uniting.)@
-0/(...I expect there are people like me in the country also
-with the intention of rebelling against [Tosyu].)@
+1000/(The [B80], [Bibi]...)@
+1000/(She's a millitary commander who excerts her power to
+prevent groups of brigands from uniting.)@
+0/(...I know there are people like me in the country who
+also want to rebel against [Tosyu].)@
 0/（But because of [Bibi]'s army, any kind of unity has been
 obstructed.)@
-0/（If [Bibi] is defeated, and the bandits unify, I expect it
+0/（If [Bibi] is defeated, and the brigands unify, I expect it
 will be a great help leading to taking down [Tosyu].）@
 0/(I will never forgive the capital of [Tosyu] for what they
 did...)@
@@ -1258,13 +1264,13 @@ they care about...@
 [[000300@
 0/...Ah!! Sorry about that...
 It's nothing for you to be concerned about.@
-510/No... I mean, who are you...?@
+510/No I mean...who are you...?@
 0/...@
 0/Call me [Player]. What's your name?@
 510/I-I'm [Yasu].@
 0/Is that so...? Well, nice to meet you, [Yasu]-dono.@ 
 0/We'll arrive at the village soon. Once we deliver those
-herbs, you should get some rest right after.@
+herbs, you should get some rest.@
 [[[0007@
 [[000300@
 1000/[Player] and [Yasu] arrived at the village and gave the
@@ -1277,7 +1283,7 @@ medical herbs to [Yasu]'s sister.@
 [[[0004@
 [[000500@
 [[030005@
-1000/At [Bibi]'s camp ground, [B80]...@
+1000/At [B80] [Bibi]'s camp ground, ...@
 13/"This is already the eighteenth time I've written to
 you..."@
 13/"We hope dearly that your skills as a diviner will help
@@ -1302,9 +1308,9 @@ little bit of combat knowlege.@
 998/In addition, several soldiers under our direct control
 have also been defeated.@
 13/...!?@
-13/Hmm... So it seems a powerful bandit has emerged, is it?
+13/Hmm... So it seems a powerful brigand has emerged, is it?
 They don't have the slighest clue what they're doing...@
-998/According to eyewitness reports, this bandit was in
+998/According to eyewitness reports, this brigand was in
 possession of the "three weapons"...or something to that
 effect.@
 13/...!?!?@
@@ -1312,11 +1318,11 @@ effect.@
 998/We've heard much about his skills. It appears they're
 not just carrying the three weapons for show.@
 13/It couldn't be...[Tennin]?@
-998/...The only on that could master the three styles...@
+998/You mean... The only one that could master the three
+styles...?@
 13/And yet...according to legend, he attempted to assasinate
 [Tosyu] and failed.@
-13/Then, he was dealt with by the act of "[Gyaku]" and made
-powerless.@
+13/Then, he was subjected to "[Gyaku]" and made powerless.@
 13/No... Even so that story is many years old... It can't be...
 He's grown up to revolt once more...?@
 998/One final thing to report.@
@@ -1334,7 +1340,7 @@ flaw...@
 13/Eventually I'll even become one of the [Sanrei]... Ufu...
 Kuhuhuhu...♪@
 998/M-Mistress [Bibi]...?@
-13/[Tennin]... You'll soon be just rust on my sword!
+13/[Tennin]... Soon you will be mere rust on my sword!
 =「Bibi's introduction」#
 
 10055=
@@ -1385,9 +1391,9 @@ attack!
 
 10059=
 [[000018@
-101/(The enemy's stance... It's rather... intimate...
-Is she... trying to use her feminine wiles on me!?）@
-101/(If she succeeds, it's likely I'll be left unable to do
+101/(The enemy's stance... It's so sexy...
+She can't be... doing it on purpose is she...!?）@
+101/(If she does, it's likely I'll be left unable to do
 anything...I have to stop her no matter what!）
 =「Seduction」#
 
@@ -1408,13 +1414,13 @@ an emergency.）
 [[020000@
 [[009999@
 102/（[ba]...  Even when against foes under the influence of
-a blessing, I was able to fight without problems.）@
+the goddess's love, I was able to fight without problems.）@
 102/（With this power... I'll get back everything [Tosyu]
 took away... No matter what!!）@
 [[000300@
 993/...You!!@
-0/What was that...? I think it came from over there...
-Though it's quite far away.@
+0/What was that...?
+It's faint, but I think it came from over there...@
 [[020000@
 [[030005@
 ]]8002@
@@ -1424,15 +1430,15 @@ know you're up to no good!!@
 I had to go to the mountains to get medicinal herbs..@
 510/Please, please turn a blind eye. Just this once!@
 993/You speak nothing but lies.
-It's clear you're some sort of bandit～@
+It's clear you're some sort of brigand～@
 993/You were leading your group here to attack the village
 at the foot of the mountain.@
 993/But then we discovered you...
 Too bad for you, huh?@
 510/T-That's not it at all!
 I need this medicine to cure my sister's fever...!@
-993/Silence, bandit!@
-993/"Even those who have a possibility of being bandits must
+993/Silence, brigand!@
+993/"Even those who have a possibility of being brigands must
 be punished severely..."@
 993/That is the law as was decreed by the great [Tosyu].
 Don't say you don't know it.@
@@ -1448,7 +1454,7 @@ They exist only to become used by us!@
 993/Here we go♪ Your punishement of being trampled under our
 feet. Twenty stomps. Begin!@
 510/Aack...! Uugh...!@
-993/Look! Look! Look at this scawny little bandit!@
+993/Look! Look! Look at this scawny little brigand!@
 510/S-Sister... I... I'm so... sorry...@
 993/Um, maybe this guy really has just come to get herbs...@
 993/Ufu- Well as long as we get the credit for arresting
@@ -1479,13 +1485,13 @@ Let's arrest him!@
 101/(Now I just need to slip away... oogh... 
 I can't believe I'm being forced to see the body of a woman
 like this...!）@
-993/You were with that bandit brat earlier weren't you?
-Guess you were bandits after all, huh?@
+993/You were with that brigand brat earlier weren't you?
+Guess you were brigands after all, huh?@
 101/Hmph...! Apporached by an adult, and you all fabricate
 a story for your own benefit? Is this what [Bibi]'s soldiers
 do?@
 993/H-Huh?!
-Even while being stepped on, he's spluring outnonsense...!@
+Even while being stepped on, he's spluring out nonsense...!@
 [[000004@
 101/Oof! T-Their bodys are s-so... ough! But the twisted
 power of the goddess's love won't work... on me!@
@@ -1500,126 +1506,160 @@ power of the goddess's love won't work... on me!@
 1000/（I can blind them and get an opening with
 Utsusemi Jutsu...)@
 [[040045@
-1000/(Or stop attacking, and find a way to get free!）
+1000/(Or I can stop attacking, and find a way to get free!）
 ="ハウトゥエスケープ"#
 
 10063=
 [[[0006@
 5007/[Player]!@
-0/あ…[Yasu]殿。もう大丈夫なのか？@
-5007/はい。歩くくらいなら…@
-5011/[Player]様、弟がお世話になったそうで…ありがとうございます。@
-101/あ、姉上殿ですか…お、お体のほうは…@
-5011/おかげさまで大丈夫です。@
-5011/熱を出すなんて滅多にないことなので…弟も慌てたんだろうと思います。@
-101/そ、そうですか…そう…@
-5007/[Player]様…もしかして照れてるの？@
-101/ところで！！@
-0/この村にはやけに人が少ないようですが！！なぜでしょうか！！@
-5007/(話をそらすのが下手だなあ…)@
-5011/…山賊として、[B80]様の「討伐」を受けたためです。@
-0/…！[Bibi]の？@
-5011/はい。かろうじて逃げてきた一人から聞いた事ですが…@
+0/Ah... [Yasu]-Dono. Feeling better already?@
+5007/Yeah, though I'd rather not walk...@
+5011/Mr. [Player], I can't thank you enough for helping my
+little brother.@
+101/Ah, you're his sister...?
+I-I see you've recovered...@
+5011/Yes, thanks to you, I feel much better.@
+5011/I don't normally get fevers, so I can only think that
+my brother was panicking very much.@
+101/Oh um, is that so...? I, err. I see...@
+5007/Mr. [Player], are you always this shy?@
+101/...Anyways!!@
+0/There are so few people in this village!! What's the deal
+with that!?@
+5007/(He's absolutely terrible at changing the subject...)@
+5011/...Because they thought we were brigands, the
+[B80] colonised our village.@
+0/...! Because of [Bibi]?@
+5011/Yes. At least that's what I heard from the person who
+barely managed to get away...@
 [[[0001@
-505/[Bibi]様！どうか我々の願いを聞いてくだせえ！！@
-505/山の恵みを…土を…我々に使わせてください！！どうか！！@
+505/Miss [Bibi]! Please, listen to our plea!!@
+505/Bless us the land of the mountain... The soil...we need
+it to survive!! Please!!@
 [[020000@
 ]]6300@
 [[050030@
-13/…全く。強情な人たちですね。@
-13/私は確かに話し合いの場を作るとは言いました。@
-13/でもそんな集団で押しかけていいとは言ってないし、@
-13/しかも武器を持ってきていいとも言っていませんよ？@
-13/まるで…戦いにでも来たみたい。無粋な…@
+13/...Good grief. You people really are annoying, huh?@
+13/It's true I said I would make a place of discussion.@
+13/But I didn't say you could barge in uninvited.@
+13/And, I didn't even ask for you to bring your weapons.@
+13/It looks to me you're about to prepare for a fight.
+How barberic.@
 [[000300@
-505/お、俺たちだって生き死にがかかってるんだ！！@
-505/うちの村はずっと自然と一緒に生きてきた…それを…！！@
-13/やれやれ…前任者は甘い者だったようですね。@
-13/[B80]の任務は辺境の山賊どもの結束を封じること。@
-13/それに加えて、山そのものの安寧を守る責務もあるのです。@
-13/なぜかというと、[Tosyu]様は山の美しい景観を愛しておいでです。@
+505/H-Hey, this is a matter of life and death for us!@
+505/Our village has always lived with nature, and...!!@
+13/Yeah yeah... It seems your predecessors were pretty
+guillable people, is that right?@
+13/The [B80]'s duty is to block off
+any form of unity at the mountain border.@
+13/Additionally, we are also tasked with the responsibiliy of
+protecting the mountain itself.@
+13/The reason being, [Tosyu] has come to love the beautiful
+scenery of the mountains.@
 [[000300@
-505/…@
-13/そこにあなたがたのような山を荒らす者がいると邪魔、というわけです。@
-13/土地を使うことを厳しく取り締まれば勝手に出ていくと思いましたが…
-しぶといことこの上ありませんね@
-508/お、俺たちは山に敬意を持って、必要なぶんだけを頂いている！！@
-506/代々ここでみんな生きてるんだ！！今更他の土地になんか行けるか！@
-505/そうだ！それに山を荒らすってなら砦のために木を伐りまくるあんたらのほうが…！！@
-13/おだまりなさい！この山賊！@
-508/さ、山賊…！？@
-13/山に巣食い、[B80]の、[Tosyu]様の意向に歯向かう…@
-13/これは立派な山賊です。@
+505/...@
+13/Simply put, people who ruin the mountainous ranges such
+as your kind are in our way.@
+13/I thought if we controled this land the people would leave
+on their own...but it seems your group are being more than
+stubborn about this～@
+508/W-We only take what we need with respect for the
+mountain!!@
+506/We've been living here for generations!! We'd have no
+where else to go!@
+505/That's right! And if this is about ruining the mountain,
+look at yourselves for cutting down all those trees to make
+your fort...!!@
+13/Silence! Brigands!@
+508/B-Brigands...!?@
+13/For plaguing the mountains, and defying [Tosyu]'s
+[B80]...@
+13/You will make fine brigands.@
 [[000304@
 [[050000@
 [[030005@
-13/全員捕らえ…「枯」の刑に処します。@
+13/You will all be captured...and sentenced to "death".@
 [[000300@
-507/ひっ…！？@
-506/ま、負けるな！！俺たちの生活は…俺たちの手で取り戻すんだ！！@
+507/...!?@
+506/W-We won't surrender!! We'll get back our lives with our
+own hands!!@
 [[050070@
 [[000301@
 [[000304@
 [[060253@
 [[050080@
-508/ぐあっ！！？@
-505/ひいっ…！？@
-507/そ、そんな…あいつは一回切っただけなのに…@
-507/一瞬で四…いや、六人…！？@
-13/「寵愛」を受けた者とそうでない者には悲しいほど力の隔たりがある。@
+508/Gaah...!?@
+505/What...!?@
+507/I-I don't believe it... With just one cut she...@
+507/She...cut through four... No, six people...!?@
+13/The difference in power between those who have the 
+goddess's "love" and those that don't is so distant it's
+pitiful.@
 [[050010@
-13/力をわきまえない、あなたたちの愚かさは…罪深い！@
+13/Your foolishness, and lack of respect for power is...
+sinful!@
 [[000303@
 [[000500@
-507/う、うあわああああ！！！！@
+507/U-Uuhgaaaaaa!!!@
 [[009999@
 [[000300@
 [[[0006@
 [[000304@
-5011/…@
-5007/ぐすっ…うっ…@
-5011/村の人々はそうして山賊として捕らえられました。@
-5011/今も…「枯」の刑を受けているのかもしれません。@
+5011/...@
+5007/S-Sniff...@
+5011/The village people were captured as bandits.@
+5011/They're probably receiving the death penalty as we
+speak...@
 [[000304@
-102/………寵愛許すまじ……@
-5007/…！！@
-0/[me]も[Bibi]に用があってこの土地に来た。@
-0/かの者を…許すわけにはいかない。@
-0/「寵愛」をかさに弱者から奪う者は…決して！@
-5007/（[Player]様は…僕と同じほどの体なのに、とっても巨きく見えた）@
-5007/（巨きくて、黒くて、獰猛な、でも悲しいような優しいような、なにか…）@
-5007/（村に送ってもらった時にもそれを感じたけど、聞くことはできなかった…）
+102/...I won't allow this...@
+5007/...!!@
+0/I also came here to deal with [Bibi].@
+0/What she's done...is unforiveable.@
+0/Those who have the goddess's favour steal from the weak...
+But not if I have anything to say about it!@
+5007/（[Player]... He's only about the same size as me, but
+he's so strong and brave)@
+5007/（Huge, dark, ferocious, and yet emotional and kind...
+What kind of person is he...?）@
+5007/（I felt the same way when we left to the village, but no
+one would listen to me...）
 ="美々のところに突入"#
 
 10064=
-0/これはこの陣地のおおよその見取り図だ。@
-0/さっき軽く偵察した情報を元にかなりざっくりしたものだが…
-[Yasu]殿の姉上から聞いた話も参考にしている@
+0/This is a rough sketch of the enemy encampment.@
+0/It's pretty sketchy, based on the information I lightly
+scouted earlier...but it's based on the story I heard from
+[Yasu]-dono's elder sister@
 [[000300@
 [[000305@
 [[000600@
-0/ここが[me]が今いる場所。@
+0/I'm currently located here.@
 [[000601@
 [[000306@
-0/そしてここが多分[Bibi]がいる場所だ。@
-0/今回は調査が容易だったから目標敵の居場所も分かった…@
-0/しかし今後は目標敵を見極めるために工夫が必要な場合もあるだろう。@
+0/And here, is the location where [Bibi] should be.@
+0/The target's location was easy to detect this time...@
+0/But in the future, I'll probably need to be a bit more
+creative to find the targeted enemy location.@
 [[000300@
 [[000307@
-0/ここは「策戦」が採れる場所だ。@
-0/「策戦」を成功させれば戦いを有利に運べるだろう。@
-0/今回できそうなのは「偵察」ぐらいかな…@
-0/「策戦」は[me]が陣地のどこにいても実行できる。@
-0/敵が手強いと感じたら使ってみるべきだろう
-="地図"#
+0/Here, I can develop "battle stratergies".@
+0/Successful "battle stratergies" could potentially make
+fighting easier for me.@
+0/The only thing I can do right now is scout though...@
+0/But I can carrow out "battle stratergies" no matter where
+I am on the map.@
+0/I should probably use it when fighting strong enemies.
+="Map"#
 
 10065=
 [[000600@
 [[000308@
-100/（ここに来てから、いくらか時が経っている…）@
-100/（「寵愛」を受けた者は身体能力と生命力が恐ろしく向上する。）@
-100/（人の身で、そんな者らと対峙していられる時間はどうしても限られる）@
-100/（この「時間」が尽きるまでに…[Bibi]を仕留めなくてはならない！）
+100/(It's been some time since I got here...)@
+100/(The physical strength and vitality of those who have
+the "love of the goddess" rises dreadfully.)@
+100/(So it's critical I engage these people as soon as
+possible)@
+100/（I have to defeat [Bibi]...before time runs out!）
 ="時間"#
 
 10066=

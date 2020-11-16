@@ -1525,26 +1525,30 @@
 ="美々のところに突入"#
 
 10064=
-0/これはこの陣地のおおよその見取り図だ。@
-0/さっき軽く偵察した情報を元にかなりざっくりしたものだが…
-[Yasu]殿の姉上から聞いた話も参考にしている@
+0/This is a rough sketch of the enemy encampment.@
+0/It's pretty sketchy, based on the information I lightly
+scouted earlier...but it's based on the story I heard from
+[Yasu]-dono's elder sister@
 [[000300@
 [[000305@
 [[000600@
-0/ここが[me]が今いる場所。@
+0/I'm currently located here.@
 [[000601@
 [[000306@
-0/そしてここが多分[Bibi]がいる場所だ。@
-0/今回は調査が容易だったから目標敵の居場所も分かった…@
-0/しかし今後は目標敵を見極めるために工夫が必要な場合もあるだろう。@
+0/And here, is the location where [Bibi] should be.@
+0/The target's location was easy to detect this time...@
+0/But in the future, I'll probably need to be a bit more
+creative to find the targeted enemy location.@
 [[000300@
 [[000307@
-0/ここは「策戦」が採れる場所だ。@
-0/「策戦」を成功させれば戦いを有利に運べるだろう。@
-0/今回できそうなのは「偵察」ぐらいかな…@
-0/「策戦」は[me]が陣地のどこにいても実行できる。@
-0/敵が手強いと感じたら使ってみるべきだろう
-="地図"#
+0/Here, I can develop "battle stratergies".@
+0/Successful "battle stratergies" could potentially make
+fighting easier for me.@
+0/The only thing I can do right now is scout though...@
+0/But I can carry out "battle stratergies" no matter where
+I am on the map.@
+0/I should probably use it when fighting strong enemies.
+="Map"#
 
 10065=
 [[000600@
