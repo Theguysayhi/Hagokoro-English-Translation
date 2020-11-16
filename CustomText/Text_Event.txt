@@ -1210,17 +1210,19 @@ I should take him there for the time being.@
 0/...Hngh!@
 [[020000@
 1000/([B80], [Bibi]...)@
-1000/(She's a millitary commander who oversees various areas to
-prevent groups of bandits from uniting.)@
+1000/(She's a millitary commander who oversees various areas
+to prevent groups of bandits from uniting.)@
 0/(...I expect there are people like me in the country also
 with the intention of rebelling against [Tosyu].)@
 0/（But because of [Bibi]'s army, any kind of unity has been
 obstructed.)@
 0/（If [Bibi] is defeated, and the bandits unify, I expect it
 will be a great help leading to taking down [Tosyu].）@
-0/(I will never forgive the capital of [Tosyu] for what they did...)@
-0/(...As long as that person is in charge, others will continue to
-have things taken away from them like what was taken away from me.)@
+0/(I will never forgive the capital of [Tosyu] for what they
+did...)@
+0/(...As long as that person is in charge, others will
+continue to have things taken away from them like what was
+taken away from me.)@
 510/Oogh... ugh...@
 0/...Oh, you're awake?@
 510/Thank you... for what you did... back there...@
@@ -1229,8 +1231,10 @@ have things taken away from them like what was taken away from me.)@
 so just hold on a little longer.@
 510/Thank you... My village is over there...
 And I have to give these herbs....@
-0/Even though they were beating you up, you didn't let go of them.@
-0/...What you did was stronger than anything they could have done.@
+0/Even though they were beating you up, you didn't let go of
+them.@
+0/...What you did was stronger than anything they could have
+done.@
 510/Y-You mean it...?@
 [[000500@
 [[000300@
@@ -1244,8 +1248,8 @@ to take anything from anyone.@
 510/...@
 [[000304@
 [[040046@
-0/If the goddess's "love" causes people to lose the things they
-care about...@
+0/If the goddess's "love" causes people to lose the things
+they care about...@
 [[000304@
 [[040047@
 0/Then I will stop it. No matter the cost...!!@
@@ -1274,52 +1278,61 @@ medical herbs to [Yasu]'s sister.@
 [[000500@
 [[030005@
 1000/At [Bibi]'s camp ground, [B80]...@
-13/"This is already the eighteenth time I've written to you..."@
-13/"We hope dearly that your skills as a diviner will help us...@
+13/"This is already the eighteenth time I've written to
+you..."@
+13/"We hope dearly that your skills as a diviner will help
+us...@
 998/Mistress [Bibi]. There is a report for you.@
-13/"If you could only give a certain person the opportunity to do his work justice, I beg of you..."@
+13/"If you could only give a certain person the opportunity
+to do his work justice, I beg of you..."@
 998/Mistress [Bibi]!@
 13/Eh...!? Ah, sorry.@
 13/I was in the process or writing a short missive...@
 998/Again...?@
-13/I'd sooner wield my skills in the heart of the country than
-stand guard in this remote place!@
-13/For that reason, we need the help of Miss [Otome]'s abilities...@
-998/...There's evidence to suggest some [Ash] were attacked by
-someone.@
-13/[Ash]...? ...Ah, you mean the people who have just recently
-been "blessed".@
-13/I'm sure it could have been the doing of anyone with little
-bit of combat knowlege.@
-998/In addition, several soldiers under our direct control have
-also been defeated.@
+13/I'd sooner wield my skills in the heart of the country
+than stand guard in this remote place!@
+13/For that reason, we need the help of Miss [Otome]'s
+abilities...@
+998/...There's evidence to suggest some [Ash] were attacked
+by someone.@
+13/[Ash]...? ...Ah, you mean the people who have just
+recently been "blessed".@
+13/I'm sure it could have been the doing of anyone with
+little bit of combat knowlege.@
+998/In addition, several soldiers under our direct control
+have also been defeated.@
 13/...!?@
-13/Hmm... So it seems a powerful bandit has emerged, do you think?
+13/Hmm... So it seems a powerful bandit has emerged, is it?
 They don't have the slighest clue what they're doing...@
-998/According to eyewitness reports, this bandit was in possession
-of the "three weapons"...or something to that effect.@
+998/According to eyewitness reports, this bandit was in
+possession of the "three weapons"...or something to that
+effect.@
 13/...!?!?@
 13/Surely not...of the three sacred styles?@
-998/We've heard much about his skills. It appears they're not just
-carrying the three weapons just for show.@
+998/We've heard much about his skills. It appears they're
+not just carrying the three weapons for show.@
 13/It couldn't be...[Tennin]?@
 998/...The only on that could master the three styles...@
 13/And yet...according to legend, he attempted to assasinate
 [Tosyu] and failed.@
-13/Then, he was dealt with by the act of "[Gyaku]" and made powerless.@
+13/Then, he was dealt with by the act of "[Gyaku]" and made
+powerless.@
 13/No... Even so that story is many years old... It can't be...
 He's grown up to revolt once more...?@
 998/One final thing to report.@
-998/During the battle with our soldiers, it was clear he began to
-falter when presented with the "female body"...@
+998/During the battle with our soldiers, it was clear he
+began to falter when presented with the "female body"...@
 13/Interesting...@
-13/I heard in addition to being subjected to "[Gyaku]", [Tennin]
-also received an powerful "blessing".@
-13/I very much expect... There is no recovering from that flaw...@
+13/I heard in addition to being subjected to "[Gyaku]",
+[Tennin] also received an powerful "blessing".@
+13/I very much expect... There is no recovering from that
+flaw...@
 13/Fufufufu... It seems my luck is about to change.@
-13/If that weakness is exploited... And I get rid of [Tennin] myself...@
+13/If that weakness is exploited... And I get rid of
+[Tennin] myself...@
 13/A promotion will be all but mine!!@
-13/Eventually I'll even become one of the [Sanrei]... Ufu... Kuhuhuhu...♪@
+13/Eventually I'll even become one of the [Sanrei]... Ufu...
+Kuhuhuhu...♪@
 998/M-Mistress [Bibi]...?@
 13/[Tennin]... You'll soon be just rust on my sword!
 =「Bibi's introduction」#
@@ -1336,19 +1349,25 @@ also received an powerful "blessing".@
 10056=
 1000/You hear the voice of your [ba]...@
 3/[Player]. The weapon you are currently using is for [Yanagi] style.@
-3/It's fairly strong even when used for typical attacks, but to demonstrate the true power of the [Yanagi] style, you must wait patiently for your foe's movements.@
+3/It's fairly strong even when used for typical attacks, but
+to demonstrate the true power of the [Yanagi] style, you
+must wait patiently for your foe's movements.@
 3/"Strike when your foe is about to attack!"
-Do that, and you'll deal your foe a fatal wound with a devastating counterattack.
+Do that, and you'll deal your foe a fatal wound with a
+devastating counterattack.
 =「Serene」#
 
 10057=
 1000/You hear the voice of your [ba]...@
 3/[Player]. What you are using right now is for the [Speed] style.@
-3/Usually, swinging a weapon will consume energy, but for a [Speed] weapon,
-there is no such limitation. You may strike as many times as you please.@
-3/And by chaining your attacks, you can to perform even faster and more deadly attacks.
-In this state, it's possible to even become invincible!!@
-3/Essentially, it's game of who moves first. This is the essense of the [Speed] style.
+3/Usually, swinging a weapon will consume energy, but for a
+[Speed] weapon, there is no such limitation. You may strike
+as many times as you please.@
+3/And by chaining your attacks, you can to perform even faster
+and more deadly attacks. In this state, you may even become
+invincible!!@
+3/Essentially, it's game of who moves first.
+This is the essense of the [Speed] style.
 =「Speed」#
 
 10058=
@@ -1356,8 +1375,11 @@ In this state, it's possible to even become invincible!!@
 3/[Player]. What you are using right now is for the [Strong] style.@
 3/With the [Strong] style, you can store up power when attacking. 
 (Store power by holding down the attack button)@
-3/One of the benefits of this style is that you can use enemy attacks to power your own. Taking a hit from an enemy while the holding the attack button will increase your "anger".@
-3/Then, release it at the right time to unleash an explosive attack!
+3/One of the benefits of this style is that you can use enemy
+attacks to power your own. Taking a hit from an enemy while
+the holding the attack button will increase your "anger".@
+3/Then, release it at the right time to unleash an explosive
+attack!
 (Release the attack button for a "Stored Power Discharge")
 =「Power」#
 
@@ -1365,25 +1387,30 @@ In this state, it's possible to even become invincible!!@
 [[000018@
 101/(The enemy's stance... It's rather... intimate...
 Is she... trying to use her feminine wiles on me!?）@
-101/(If she succeeds, it's likely I'll be left unable to do anything...
-...I have to stop her no matter what!）
+101/(If she succeeds, it's likely I'll be left unable to do
+anything...I have to stop her no matter what!）
 =「Seduction」#
 
 10060=
 101/(U-Uh oh!! The enemy's clothing...）@
-102/（No, I need to calm down... In a crisis, I should use... Utsusemi Jutsu！)@
+102/（No, I need to calm down... In a crisis, I should use...
+Utsusemi Jutsu！)@
 [[000602@
 [[000600@
 [[000309@
 1000/（Utsusemi Jutsu can be activated even after taking damage.)@
-1000/(There is a limit to the number of times it can be used, but it can be an important trump card attack in the case of an emergency.）
+1000/(There is a limit to the number of times it can be used,
+but it can be an important trump card attack in the case of
+an emergency.）
 =「Utsusemi Jutsu」#
 
 10061=
 [[020000@
 [[009999@
-102/（[ba]...  Even when against foes under the influence of a blessing, I was able to fight without problems.）@
-102/（With this power... I'll get back everything [Tosyu] took away... No matter what!!）@
+102/（[ba]...  Even when against foes under the influence of
+a blessing, I was able to fight without problems.）@
+102/（With this power... I'll get back everything [Tosyu]
+took away... No matter what!!）@
 [[000300@
 993/...You!!@
 0/What was that...? I think it came from over there...
@@ -1391,23 +1418,24 @@ Though it's quite far away.@
 [[020000@
 [[030005@
 ]]8002@
-993/We, the soldiers of "[Bibi]", [B80], know you're causing a disturbance!!@
+993/We, the soldiers of "[Bibi]", [B80],
+know you're up to no good!!@
 510/I-I'm sorry...
 I had to go to the mountains to get medicinal herbs..@
 510/Please, please turn a blind eye. Just this once!@
 993/You speak nothing but lies.
 It's clear you're some sort of bandit～@
-993/You were leading your group here to attack the village at the foot
-of the mountain.@
+993/You were leading your group here to attack the village
+at the foot of the mountain.@
 993/But then we discovered you...
 Too bad for you, huh?@
 510/T-That's not it at all!
 I need this medicine to cure my sister's fever...!@
 993/Silence, bandit!@
-993/"Even those who have a possibility of being bandits must be
-punished severely..."@
-993/That is the law as was decreed by the great [Tosyu]. Don't say
-you don't know it.@
+993/"Even those who have a possibility of being bandits must
+be punished severely..."@
+993/That is the law as was decreed by the great [Tosyu].
+Don't say you don't know it.@
 993/So now, we'll carry out your punishment by crushing you
 under our feet♪@
 510/N-No... Someone help me! Please! Help me!@
@@ -1417,17 +1445,18 @@ They exist only to become used by us!@
 [[000001@
 510/H-Help me...!@
 [[000004@
-993/Here we go♪ Your punishement of being trampled under our feet.
-Twenty stomps. Begin!@
+993/Here we go♪ Your punishement of being trampled under our
+feet. Twenty stomps. Begin!@
 510/Aack...! Uugh...!@
 993/Look! Look! Look at this scawny little bandit!@
 510/S-Sister... I... I'm so... sorry...@
 993/Um, maybe this guy really has just come to get herbs...@
-993/Ufu- Well as long as we get the credit for arresting someone, it
-doesn't really matter either way～@
+993/Ufu- Well as long as we get the credit for arresting
+someone, it doesn't really matter either way～@
 993/If the story about the sister was true...@
 993/She should accept [Tosyu]'s love just like us.@
-993/Then her body would become immune to such trivial illnesses♪@
+993/Then her body would become immune to such trivial
+illnesses♪@
 993/So do you understand now? Vile little villain?♪@
 993/Oh? Can't reply can you? Hora! Hora!@
 [[000500@
@@ -1448,17 +1477,18 @@ Let's arrest him!@
 [[030001@
 [[000002@
 101/(Now I just need to slip away... oogh... 
-I can't believe I'm being forced to see the body of a woman like
-this...!）@
+I can't believe I'm being forced to see the body of a woman
+like this...!）@
 993/You were with that bandit brat earlier weren't you?
 Guess you were bandits after all, huh?@
-101/Hmph...! Apporached by and adult, and you all fabricate a story
-for your own benefit? Is this what [Bibi]'s soldiers do?@
+101/Hmph...! Apporached by an adult, and you all fabricate
+a story for your own benefit? Is this what [Bibi]'s soldiers
+do?@
 993/H-Huh?!
 Even while being stepped on, he's spluring outnonsense...!@
 [[000004@
-101/Oof! T-Their bodys are s-so... ough! But the twisted power of the
-goddess's love won't work... on me!@
+101/Oof! T-Their bodys are s-so... ough! But the twisted
+power of the goddess's love won't work... on me!@
 993/Still talking are you? Take this! And this!@
 101/(It's okay, if I concentrate... I can escape!!)
 ="Escape"#
@@ -1467,7 +1497,8 @@ goddess's love won't work... on me!@
 101/(I have two options for getting out of here!)@
 [[000600@
 [[040044@
-1000/（I can blind them and get an opening with Utsusemi Jutsu...)@
+1000/（I can blind them and get an opening with
+Utsusemi Jutsu...)@
 [[040045@
 1000/(Or stop attacking, and find a way to get free!）
 ="ハウトゥエスケープ"#

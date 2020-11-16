@@ -20,7 +20,7 @@ An essential tool in combat.#
 体幹に重く強い力が宿り、そしてそれに耐える強い脚力を得る。
 しばらくの間攻撃を受けても倒れず、損傷も減る。#
 
-21=Bonito Poder/Attack enemies without clothing/
+21=Bonito Powder/Attack enemies without clothing/
 A powder with a peculiar aroma. Hinders vision slightly 
 when used, allowing you to attack enemies with exposed
 clothing.#
@@ -66,13 +66,13 @@ enemies.#
 
 調剤「緑」は主に植物由来の物質だ#
 
-10001=Twisted Sickle/Serene Type, Defense Class: Normal/
-鎌と手甲を一組として使う武器。
-手甲には特殊な突起がついており、これで
-敵の攻撃を受け流す。
+10001=Crooked Sickle/Serene Type, Defense Class: Normal/
+A sickle and hand gauntlet weapon used as a set.
+The gauntlet has a special launcher mechanism, and can be
+used to drive away enemies.
 
-「柔」流派の武器は敵の攻撃を受ける直前に攻撃することで
-強烈な反撃が可能#
+"Serene" type weapons can unleash a powerful counterattack
+if used just before an enemy attack.#
 
 10002=Shino Katana/Speed　Type, Defense Class: Evasion/
 A short blade used by shinobi.
@@ -81,12 +81,14 @@ A short blade used by shinobi.
 enabling the use of consecutive attacks.
 Combo many attacks together for additional damage.#
 
-10003=梯棍/剛流派　防御タイプ：通常型/
-ていこん。高いところに登れるように足をひっかける突起がついている。
+10003=Ladder Cane/Power Type　Defense Class: Normal/
+The small protrutions on the side can be used to assist in
+climbing to high places.
 
-「剛」流派の武器を使っている間は敵の攻撃でのけぞらない。
-攻撃をする時に怒りの力を溜められる。敵の攻撃を受けるほど
-怒りの力は増大する。#
+When using "Power" type weapons, you won't be pused back by
+enemy attacks. When attacked, you'll store power and then
+unleash it in one devestating attack. The more attacks you
+recieve, the stronger the attack will be.#
 
 10004=反動銃・弩理流/速流派　防御タイプ：通常型/
 はんどうじゅう・どりる。形状は筒銃のようだが
