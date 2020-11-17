@@ -17,15 +17,15 @@ Sell goods for currency./10#
 Change equipped weapons and armour./42#
 27=  Items/ /
 Check held items and equipment./6#
-9997=「 策 」 町で情報収集/ /
-町中で人の話を聞きます。
-策戦に役立つ情報が得られることも…？/23#
-9998=拠点で下準備/拠点で下準備を行います/
+9997=「Plan」 Gather Info/ /
+Listen to the townspeople and hear their stories.
+You might even learn some helpful information.../23#
+9998=Prepare at base/Go to base to prepare./
 /11#
-10051=「Plan」 Scout enemy Territory/  Various benifits + New Plans/
-Head out to scout enemy territory. By scouting many times.
-You can learn more in-depth information about the enemy base./20#
-20052=「 策 」 装備品搬入/ 敵陣に装備品を持ち込め/
+10051=「Plan」  Scouting/  Various benifits + New Plans/
+Head out to scout enemy territory. By scouting many times,
+you can learn more details about the enemy base./20#
+20052=<策> 装備品搬入/ 敵陣に装備品を持ち込め/
 商人としての任務。実績を買われ装備品を搬入することになった。
 武器や防具に粗末なものを仕込めば敵軍の弱体化が狙えるかもしれない/19#
 20053=「 策 」 占術/ 占いを悪用せよ /
@@ -33,9 +33,9 @@ You can learn more in-depth information about the enemy base./20#
 市井の占術師をこっそり訪ねることもあるという。
 これまで培った占術師としての実績を活かしこちらが有利になるような
 情報を吹き込め/22#
-40054=「 策 」 兵糧輸送隊襲撃/ 敵が食糧不足になり、時間とともに弱体化するようになる /
-偵察により兵糧輸送を行っている隊の情報を掴んだ。
-襲撃することでこちらに有利な状況を作り出せるだろう/21#
+40054=「Plan」 Attack Convoy/ Weaken enemies by cutting off their food supply /
+Through scouting, information was obtained about a food transport convoy.
+It might be advantagous to attack here./21#
 20055=「 策 」 偽情報吹聴/ 偽情報で敵陣を撹乱せよ/
 美々はこまめに情報収集を行っているようだ。
 彼女が放っている偵察隊の一人を襲いなりすまし、

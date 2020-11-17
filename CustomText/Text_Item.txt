@@ -44,9 +44,9 @@ enemies.#
 腕をしならせて投げると鋭く飛ぶ武器。
 使い捨てだが遠くにいる敵にも有効である#
 
-501=兵糧/高く売れる/
-大量の食料。
-軍の力を維持するうえで欠かせない。#
+501=Provisions/Sells for a high price/
+A large amount of food.
+Critical for maintaining the strength of an army.#
 
 1001=調剤・赤/調合に使用する/
 自分で調合を行う時に必要となる。
@@ -99,11 +99,10 @@ recieve, the stronger the attack will be.#
 反りが強い刀。鍔の華美な装飾は敵の攻撃を
 受け流す技にも使える。#
 
-10006=足軽の嘴槍/剛流派　防御タイプ：通常型/
-都主カルラの寵愛を受けた兵が使う槍。
-その歪んだ剛力に合わせてか、下級の兵が使う得物でありながら
-造りはしっかりしている。#
-
+10006=Foot Soldier's Spear/Power Type　Defense Class: Normal/
+A spear used by a soldier blessed by lord Garuda.
+It's a little bent, but it's a solidly made weapon specially
+used by Foot Soldiers.#
 10007=楯と短槍/柔流派　防御タイプ：通常型/
 大きい木製の盾と片手で扱える槍で組となっている武器。
 防御能力に優れており、防御に成功すると気力が回復する。#
@@ -115,4 +114,4 @@ things like clothing.#
 20010=Ninja Outfit/Armour/
 Light, easy to move in clothing.
 It's said when worn by a trained person, the rusling sound
-of moment vanishes as they dissapear into the night.
+of moment vanishes as they disappear into the night.

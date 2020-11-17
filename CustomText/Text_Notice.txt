@@ -107,7 +107,7 @@ For those who have played the game before and want a fresh experience.#
 78=Rematch#
 79=Defeat Scenes#
 80=Surrender#
-81=拠点へ#
+81=Back to Base#
 82=これで体験版は終了となります。
 プレイしていただき、ありがとうございました。
 
@@ -191,13 +191,14 @@ you've unlocked.#
 999=Random
 10001=敵陣の偵察がどのぐらい進んでいるかを表します。
 偵察度が高いほど恩恵を得られます。#
-10002=敵陣を進む時にボーナスがつきます。#
-10003=敵陣を進む時にボーナスがつきます。#
-10004=敵陣を進む時にボーナスがつきます。#
-10005=敵陣の武装を把握した　敵軍の攻撃力・防御力低下#
+10002=Travel more map spaces when in the enemy camp.#
+10003=Travel more map spaces when in the enemy camp.#
+10004=Travel more map spaces when in the enemy camp.#
+10005=Understood army armaments.
+Enemy attack and defence has been lowered.#
 10006=「空蝉」使用後に逃走しやすくなります。#
 10007=敵陣進入時、「空蝉」の使用回数が増えます。#
-10008=近道を把握：残り時間増加#
+10008=Shortcut discovered: Remaining time increased.#
 10009=敵と対峙した時に自動で「空蝉」が発動する
 「奇襲先制」の発生率が上がります。
 （この場合「空蝉」の使用回数は減りません）#

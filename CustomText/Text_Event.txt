@@ -4,21 +4,22 @@
 制作元「excessm」は一切の責任を負いません。あらかじめご了承ください。
 =「カスタムテキストについて」#
 10=
-13/三つの流派を操る侵入者…
-物見の報告は本当のようですね。@
-13/天忍…一度[Tosyu]様に敗れながらもしぶとく
-復活していたなんて！@
-13/これ以上は好きにさせません。私の刃を受けなさい！
+13/The intruder who uses the three sacred types...
+So it seems the reports I heard were true.@
+13/The Tenin... Although defeated by the great [Tosyu], 
+he still lives on!@
+13/You won't have your way anymore.
+Taste my blade!
 =「美々・邂逅」#
 
 51=
 1000/You hear the voice of your [ba]...@
 3/[Player]. When scouting your enemy, it's vital you
 "check your suroundings".@
-3/If you find something suspitous, simply "point your
+3/If you find something suspicious, simply "point your
 gaze towards it!"@
 1000/(Or, you can push the [1],[2] keys)@
-3/However, don't scurry around too much, the enemy may
+3/However, don't scurry around too much, or the enemy may
 take notice of you.@
 3/If you think you're about to be noticed, stay still and
 "don't move".@
@@ -66,34 +67,35 @@ take notice of you.@
 =「三つ子の影武者」#
 
 102=
-2001/[Tosyu]様に代わってお仕置きよっ！
+2001/In the name of [Tosyu], we will punish you!
 =「御月隊」#
 
 103=
-0/影武者が一箇所に集まったら意味ないだろ
+0/What's the point in having body doubles in the same place?
 =「三つ子勝利」#
 
 104=
-101/…！@
-900/ふふふ…この身体を前にしてまともに戦える？
+101/...!@
+900/Fufufu... Will you be able to fight straight in front
+of bodies like these?
 =「裸部隊」#
 
 105=
 0/(This one is utilizing the speed style...!)@
 0/(Weapons that use the power style are effective against
-enemies with a red aura）
+enemies with a red aura.）
 =「流派速」#
 
 106=
 0/(This one is utilizing the serene style...!)@
 0/(Weapons that use the speed style are effective against
-enemies with a blue aura）
+enemies with a blue aura.）
 =「流派柔」#
 
 107=
 0/(This one is utilizing the power style...!)@
 0/(Weapons that use the serene style are effective against
-enemies with a green aura）
+enemies with a green aura.）
 =「流派剛」#
 
 1001=
@@ -228,14 +230,15 @@ enemies with a green aura）
 1003=
 ]]0012@
 [[020000@
-2006/はあっ…はっ…@
-2006/…いい勝負だったね。小柄な男にも
-キミみたいな骨のある戦士がいるなんて…驚いたな@
+2006/Haah...Haah...@
+2006/...That was a close match. Even for a small boy, I
+never thought someone like you would have so much fighting
+skill...you really surprised me.@
 ]]]|W1|H1|t0|Y0.82|S0.20@
-2006/っ…@
-101/ううっ…@
-100/(胸が…締め付けられるっ…)@
-2006/聞いたことがある。「祝福」を受けた男は
+2006/...@
+101/Ooh...@
+100/(I can feel my chest...tightening up...)@
+2006/I heard something. 「祝福」を受けた男は
 女に触れるだけでも身悶えする場合もあるってね@
 ]]]|W1|H1|t0|Y0.52|S0.20@
 2006/私…あなたのことが気になるの。
@@ -316,88 +319,97 @@ enemies with a green aura）
 ]]0051@
 [[020000@
 0/Uugh... Oough...@
-13/...Seems like you made it this far didn't you, Tenin-Dono?@
-0/（ここまで手強い、とは…）@
-13/一度「祝福」を受けた身でまた[Tosyu]様への反逆を企てるなんて…
-こんなことは前代未聞。@
-13/徹底的に痛めつける必要がありますね。
-この者を牢へ！@
+13/...It seems this is as far as you go hmm? Tenin-Dono?@
+0/(I underestimated how tough this would be...)@
+13/Rebelling against [Tosyu] after recieving her "blessing"
+once... This is unheard of.@
+13/We must tourment him harshly.
+Take him to prison!@
 [[000303@
-993/はっ！@
-100/…@
-993/こいつ…まだおっ勃ててるよ。@
-993/やだぁ…最低♪@
-100/くっ…@
-993/牢に行ったらいっぱい可愛がってやるから、我慢しなよ♪@
-993/そんなコト言ったらまたこいつ興奮しちゃうよ、ふふ♪@
+993/U-Understood!@
+100/...@
+993/T-This guy... He has an erection!@
+993/Wow, what a delinquent♪@
+100/Kh...@
+993/We'll have lots of fun with you when you go to jail,
+so hang in there♪@
+993/Don't say things like that. You'll arouse him even
+more. Fufu♪@
 [[000304@
-13/…さあ、さっそく始めましょう。@
-13/ちょっと、恥ずかしいけど…@
+13/...Now then. Let's begin at once.@
+13/It might be a little embarassing but...@
 [[000008@
-100/ぐっ！？@
-13/んっ…@
-993/女に負ける男には似合いの仕打ちよね。
-ほーらほーら…♪@
-993/この重さがあなたの罪の重さだと知りなさい♪@
-13/「祝福」を受けた男にとって愛撫は何よりの極楽であり、
-何よりの地獄…@
+100/Ugoh...!@
+13/Mmm...@
+993/A man submitting to a womman is fine punishment indeed.
+Ho-ra, ho-ra...♪@
+993/This weight you feel, is the weight of your crimes.
+Remember it well♪@
+13/For a man who's been "blessed" this caress is the
+ultimate heaven, or the ultimate hell...@
 [[000046@
-13/あなたはこうやってまた培った力を失うのです。@
-13/んっ…ふっ…♪@
-993/くふふ…おちんちんぬるぬるしてきてるわね。
-こんなの付けて戦ってるなんて間抜け～♪@
-993/やっちゃえやっちゃえ♪@
-993/さあ、我慢なんて無駄なあがき…出しちゃいなさい！@
+13/If we do this, your strength will never return.@
+13/Mmm...fufu...♪@
+993/Kufufu... Your penis is getting slippery with precum
+isn't it? It was foolish of you to challenge us～♪@
+993/Relax～ Submit～ Give in～♪@
+993/That's it, your struggles to resist us are futile...
+Cum for us!@
 [[000045@
-13/…！@
-993/あんっ…！ふふふ…♪@
-13/責めの手を緩めてはいけません。@
-993/はい！@
+13/...!@
+993/Ahnn...！ Fufufu...♪@
+13/Do not losen the torment of his punishement.@
+993/Yes!@
 [[000045@
-993/んっ…！ふッ♪@
-993/ふふふふ…♪@
-13/ふふ…@
-993/まだまだ♪@
+993/Mmm...! Fufu♪@
+993/Fufufufu...♪@
+13/Fufu...@
+993/We're not done yet♪@
 [[000045@
-13/さあっ…私も少しだけ…♪@
+13/That's it... Nearly there...♪@
 [[000303@
-13/みなさん、押さえつけておいてくださいね@
-993/はーい♪@
-13/ん…と…@
-993/ちんちん押さえてますね、[Bibi]様♪@
-13/ん…ありがとう。@
+13/Everyone, hold him down for me alright?@
+993/Understood♪@
+13/Mmmm... There.@
+993/His penis has been exposed for you, Mistress [Bibi]♪@
+13/Mm... Thank you.@
 [[000304@
 [[000009@
-13/んくっ…@
-13/んうっ…！@
-13/す、すごいっ…あんなに出したのに…！？@
-993/[Bibi]様が直々に気持ちよくしてくださるんだから
-幸せに思いなさいよね♪@
-993/ふふふ♪@
-13/はあっ…あっ…
-も、もう…♪@
+13/Mmgh...@
+13/Mmough...!@
+13/A-Amazing... Even though he just came...!?@
+993/You should be happy you're making Mistress [Bibi] feel
+good directly you know?♪@
+993/Fufu♪@
+13/Haah...haah...
+I-I Already...♪@
 [[000200@
-993/あっ…[Bibi]様を先にイかせるなんて生意気よ！@
-993/そーそ♪私達の身体の感触で、もっと気持ちよくさせたげる♪@
+993/Ooh... You're so cheeky Mistress [Bibi], Cumming before
+anyone else!@
+993/Yeah♪ We'll make you feel even better with the
+sensations of our bodies♪@
 [[000021@
-100/うああっ！？あ…っ！@
+100/Uaaah!? Ah...!@
 [[000050@
-13/んうっ…んっ…♪@
-993/ふふふ…いい気味♪これでまた天忍の力は失われた。@
+13/Mmm... Mm...♪@
+993/Fufufu... Serves you right♪ With this, you lost to the
+power of Tenin yet again.@
 ]]]|W0.4|H1|t0|Y0.24|S0.24@
-13/はふうぅ…ん…も、もっと…いじめてあげなきゃ…♪@
-13/んっ…ん…♪@
-993/[Bibi]様にも火がついちゃったみたいね、ふふ♪@
+13/Aaahh...M-More... Don't tease me...♪@
+13/Mmm... Mm...♪@
+993/It looks like even Mistress [Bibi] is getting into heat
+as well huh? Fufu～@
 [[000050@
-13/はあっ…あっ…@
-13/くうっ…ん…ふう…@
+13/Haah...ahh...@
+13/Uugh..mmm..ahh...@
 [[000050@
-13/いずれ…あなたは…[Tosyu]様の元へ送りますが…
-それまでしばらくは…@
+13/S-Sooner or later, we'll send him to [Tosyu]...
+But until then...@
 [[000099@
-13/私達っ…を…♪愉しませてもらいます♪@
-1000/こうして、かつて天忍とまで呼ばれた男は
-完全に敗北し、倒すべき敵の糧となった…
+13/L-Lets...have...♪ A little fun with him♪@
+1000/And so, the man who was once called Tenin, was completely
+defeated and turned into norishment for the enemies who
+defeated him...
 =「Bibi Defeat」#
 
 1005=
@@ -405,121 +417,129 @@ enemies with a green aura）
 [[020000@
 993/Seriously... You're such a fool to challenge us with 
 that level of skill～@
-993/…ま、そんなに「大きく」してるんだから
-勝てなくて当然だよね♪@
-993/…結構かわいい顔してるねぇ？@
-100/っ…！？@
+993/...Well, you've become so "big", it's only natural
+you couldn't win♪@
+993/...Lets make that adorable face of his squirm,
+shall we?@
+100/...!?@
 [[000008@
-993/ふふふ…♪@
-993/こうやって、横のケツで嫐ってあげるだけで
-なんにも考えられなくなるでしょ？@
-993/ふっ…うんっ…@
-993/[Boss]様に反逆しようなんて思い上がるからよ…
-いい気味♪@
-993/ふふっ…ん…@
-993/普段の任務で面白いコトなんて滅多に無いんだから…
-こういう時はいっぱい愉しまないとね♪@
-993/んっ…くうっ…@
-993/ふふっ…ぎゅーっと密着してるからね…
-力が抜けてるってよく分かる♪@
-993/おねえさんたちが支えててあげるから…
-安心してだらっとなさい♪@
-993/おーい、聞いてる～？@
-100/（あ…あ…だ…めだ…）@
+993/Fufufu...♪@
+993/Just a little side to side ass play like this, and
+you can barely think straight, isn't that right?@
+993/Fufu... That's right～@
+993/You thought you could defy Mistress [Boss]...
+This is what you deserve♪@
+993/Fufu... Kuhu...@
+993/It's rare that something interesting happens on duty...
+So we'd better take our sweet time with you♪@
+993/Mmm... Kuhuhu...@
+993/Fufu... We'll squeeze you real tight okay?
+We know your strength is fading away♪@
+993/You're being sandwiched between two sexy woman...
+So let go and relax♪@
+993/Heey- Can you hear us～?@
+100/(Aahh... Ah.. T-This isn't good...)@
 [[000046@
-993/むふふ♪おちんちんは良い返事、聞かせてくれそうだねぇ♪@
-993/にゅるにゅるしてきてるよ…？@
-993/もっとやったらどうなっちゃうのかな～？@
-993/ねぇ～え、おねえさんに教えて～？@
-100/（も、もう…耐えられない…）@
+993/Fufu♪ I see your penis is responding to us nicely♪@
+993/It's slipping in and out between our asses isn't it?～@
+993/If we kept doing this, I wonder what would happen?～@
+993/He～y, why don't you tell us～?@
+100/(I-I... Can't endure it anymore...)@
 [[000045@
-993/あんっ…！@
-993/あっ…あはっ…♪すっごい…♪@
-993/おっと、…ふふ。これで本当に力抜いてくれたね？
-今まで頑張って踏ん張ってたんだねぇ…？えらいえらい♪@
-993/でも、もう大丈夫よ？今度は寝てもらうから…ふふふふふ♪@
+993/Aahn...!@
+993/Ahh... Aha...♪ Amazing...♪@
+993/Whoops...Fufu. Now you're really relaxed for us aren't
+you? You've been doing your best to hold on I see...
+Good boy, good boy♪@
+993/But, don't get too comfy okay? Because the next one will
+put you to sleep...fufufufu♪@
 [[000009@
-993/んっ…しょ…っと♪@
-993/はふっ…うん…♪@
-993/出したばっかりのおちんちんだけど…まだまだ出し足りないでしょ？@
-993/この身体で…吸い尽くしてあげるからねぇ♪@
-993/はあっ…んっ…ふふふ…♪@
-993/気持ちよさそうな顔…嬉しいよ♪@
-993/さっきまで敵同士だったのにこうやって愛し合える…
-これが「寵愛」の素晴らしさよ♪@
+993/Mmm...And, t-there♪@
+993/Haah... M-Mmm♪@
+993/I know your penis just unloaded...but you have much
+more backed up in there don't you?@
+993/So with this body... I'll wring you dry, okay?♪@
+993/Haah... Mmm... Fufufu....♪@
+993/Your face has gone all slutty...I'm so happy♪@
+993/We're making love to each other, even though we were
+enemies just moment ago... The goddess's love is magnificent♪@
 [[000200@
-100/（い、嫌だ…[Tosyu]の寵愛を受けた敵に
-…されるがまま…なんて…）@
-100/（でもだめ…だ…頭が真っ白に…）@
+100/(N-No...! I-I don't want to do this with an enemy
+blessed with [Tosyu]'s love...)@
+100/(B-But It's no...use... My mind's going blank...)@
 [[000050@
-993/ふふ…んっ…♪んっ…！？@
+993/Fufu... Mmm...♪ Mm...!?@
 ]]]|W0.35|H1|t0|Y0.24|S0.24@
-993/すっごぉ…い…♪まだまだいっぱい…♪@
+993/A-Amazing...♪ There's still so much...♪@
 [[000050@
-993/あんっ…あ…！@
+993/Ahhn... Ahh...!@
 [[000052@
-993/ふふ。ありがと…♪いっぱいあなたの精魂もらっちゃった♪@
-993/みんなでひとしきり愉しんだら逃がしてあ・げ・る♪@
+993/Fufu. Thank you...♪
+You filled me to the brim with your spirit♪@
+993/Once you enjoy yourself with us for awhile we'll
+let. You. Go♪@
 [[000100@
 [[000099@
-993/どうせまた挑んでくるんでしょ？
-あなたがどんなに力を蓄えても勝手に負けてくれるんだもん…@
-993/こんなに効率よく強くなれる機会は無いからね～♪
-あははははっ…！@
-1000/こうして、かつて天忍とまで呼ばれた男は
-下級の兵にさえ勝てず「寵愛」の前に敗れた…
+993/But you'll challenge us again anyway won't you?
+Though even if you try to grind, you'll always
+fall for us...@
+993/So you'll never get the chance to become stronger～♪
+Ahahaha...!@
+1000/And so, the man who was once called Tenin was defeated
+by those with the "goddess's love", and couldn't win against
+the lower ranked foot soldiers...
 =「Foot Soldier Defeat」#
 
 2004=
 ]]0051@
 [[020000@
-13/まだやるつもりなのですか？
-…なぜそこまで…！@
-13/この執念、[Tosyu]様にとって災いになるかもしれません…
-こうなったら@
-993/[Boss]様！それなら私達が…@
-13/いえ、私がやります。この者の闘志を少しでも削ぐ…
-みんな、押さえてて！@
-993/はっ！@
+13/So you still intend to fight?
+...Impossible, how on earth can he...!@
+13/Your presistence may result in great travesties for 
+[Tosyu]... If that happens...@
+993/Mistress [Boss]! If that's the case, we can...@
+13/No. It must be me. If I can reduce his fighting spirit
+even a little... Everyone, hold him down!@
+993/Y-Yes!@
 [[000010@
-13/っ…@
+13/...@
 ]]]|W0.3|H1|t0|Y0.24|S0.24@
-13/さあ…この技を受けてもまだ
-立ち向かってくるおつもりですか？@
-13/ふうっ…んっ…@
-13/[Tosyu]様の呪い…いえ、「祝福」を受けたその体には
-これが何より効くでしょう？@
-100/（あ、あああ…！だめだ、もうっ…！！
-耐えられ…ない…！？）@
+13/Now tell me... Do you still intend to confront me after
+receiving this technique?@
+13/Fufu... Mm...@
+13/For a body that's been cursed... No, "Blessed" by [Tosyu],
+this is more effective than anything else, isn't it?@
+100/（Ah, aaah...! Not good, I'm a-already...!!
+W-Why can't... I resist...!?)@
 [[000050@
-13/あっ…@
+13/Ah...@
 [[000200@
-993/ふふふ…♪@
-13/まだまだ…！@
+993/Fufufu...♪@
+13/I'm not done yet...!@
 [[000050@
-993/いい格好ね、天忍様？@
-13/んっ…♪ん…@
-13/………@
+993/This appearance suits you well doesn't it, Mr. Tenin?@
+13/Mmm...♪ Mm...@
+13/......@
 [[000050@
-0/……@
+0/.......@
 [[000100@
-0/…（く、屈する…わけには…）…@
+0/...（I... musn't... G-Give in...）...@
 [[000050@
-13/はあっ……はっ…@
+13/Haah... Ahh..@
 [[000052@
-13/…まだ、やる気のようですね。
-仕方がありません@
+13/...So you still have the will to go on.
+I suppose it can't be helped then.@
 [[000011@
-13/みんな、取り囲んで！
-この者の闘志を力づくでそぎ取りましょう！@
+13/Everyone, surround him!
+We'll cut off his fighting spirit by force!@
 [[020000
 =「Bibi Rematch Fight」#
 
 2005=
 ]]0016@
 [[020000@
-999/まだやる気？
-しつこいわねぇ@
+999/Still wanting to fight?
+Aren't you stubborn～@
 999/いいけど、ただでやれるほど
 甘くないよ♪@
 [[000010@
@@ -561,72 +581,72 @@ that level of skill～@
 2006=
 ]]9999@
 [[020000@
-100/（くっ…は、早く立たないと…）@
+100/(G-Gah... If I don't stand up quickly...)@
 ]]]|W0.3|H1|t0|Y0.54|S0.28@
 900/[Dialog010]@
-100/（っ…だ、だめだ…敵の声だけで…もう体が…！）@
+100/(...N-Not good... Just the enemy's voice... Is already
+making my body...!)@
 ]]]|W1|H1|t0|Y0.38|S0.21@
 900/[Dialog020]@
 [[000009@
 900/[Dialog030]@
-100/あっ…ああ…っ！@
+100/Ahh... ahhh....!@
 900/[Dialog040]@
-100/（く、ああ…で、出てしまう…）@
+100/(Ugh, ahh... I-I'm gonna cum...)@
 [[000050@
 900/[Dialog050]@
 ]]]|W0.3|H1|t0|Y0.24|S0.24@
 [[000050@
 [[000200@
-100/（[me]は…この身体ではやはり…勝てない…のか…）@
+100/（Can... Can I really win... with this body...?)@
 [[000050@
 900/[Dialog060]@
 [[000050@
-100/（ま、負けるな…意識を…しっかり…）@
-900/ふふふ…@
+100/(C-Can't give in... I have to... Stay conscious...)@
+900/Fufufu...@
 [[000050@
 [[000052@
 900/[Dialog070]@
 [[000011@
 900/[Dialog080]@
-100/（息を…息を整えないと…！）@
+100/(I... I have to get my breath back...!)@
 ]]]|W0.3|H1|t0|Y0.54|S0.28@
 900/[Dialog090]
-=「再挑戦・汎用一・本番H」#
+=「Generic Refight H-Scene」#
 
 2007=
 ]]9999@
 [[020000@
-100/（くっ…まだ…だ…
-でも…）@
+100/(U-Ugh... I'm... not out yet...!)@
 ]]]|W0.3|H1|t0|Y0.54|S0.28@
 [[000015@
 900/[Dialog110]@
 [[000015@
-100/（うっ…！！胸が…締め付けられる…）@
+100/(Uaah...!! My chest, is tightening up...)@
 ]]]|W0.3|H1|t0|Y0.38|S0.21@
 900/[Dialog120]@
-100/（だ、だめだ…眼の前にいるのは倒すべき
-敵なんだぞ…なのに…）@
+100/（N-Not good... I'm have to defeat them...
+B-But...）@
 900/[Dialog130]@
 [[000010@
 900/[Dialog140]@
 ]]]|W0.3|H1|t0|Y0.24|S0.24@
-100/（あ、あああ…あ…）@
+100/（Ah, aaahh, ahhh...）@
 [[000050@
 900/[Dialog150]@
 [[000200@
-100/（く、悔しい…抵抗…できない…
-力が…）@
+100/(S-So... humiliating...I... I can't resist...
+My strength... is...）@
 [[000050@
 900/[Dialog160]@
 [[000050@
-100/はあっ…はあ…@
+100/Haah... Haah...@
 [[000052@
 900/[Dialog170]@
 [[000011@
 ]]]|W0.4|H1|t0|Y0.54|S0.25@
 900/[Dialog180]
-=「再挑戦・汎用二・裏H」#
+=「Generic Refight H-Scene 2」#
 
 3002=
 [[[00000@
@@ -762,25 +782,29 @@ that level of skill～@
 =「偵察2」#
 
 9000=
-0/（特に有力な情報は得られなかったな）
+0/(No particularly interesting info was obtained.)
 =「聞き込み無」#
 
 9001=
-0/（あそこの町人たちの立ち話を盗み聞きしよう。
-一人は狩人のようだが…）@
+0/(Let's have a listen to those villagers talking over there.
+That one seems to be a lone hunter...)@
 [[020000@
-505/はあ…焦った。ふもとのところに都主様の軍がいて
-慌てて逃げてきたよ@
-508/やけに早い帰りだと思ったらそういうことかい。
-だがなんで都主様の軍が鏃山にいるんだ？@
-505/でかい荷車がいっぱいあったし…輸送隊だろうな。
-ひとつが壊れてるせいでもたついてるみたいだったけど@
-505/方角からして多分[Boss]殿の陣に
-行くところだったんだろうな。@
-508/でも逃げてこられて良かったな。見つかったら何されるか…@
-505/ああ…絞り尽くされて干し物になるのは勘弁だ@
-0/…@
-0/（[Boss]の所に向かう輸送隊か…）
+505/Haah... I rushed over as soon as I could. The lord's
+army from the capital is at the foot of the mountain.
+So I ran away in a hurry.@
+508/I thought you came home a little early, but I suppose
+that's how things are sometimes. But, what's the Lord's 
+army doing at the foot of Arrowhead mountain?@
+505/But there were lots of huge carts there...
+Maybe it was a transporttion convoy. Though, one of the 
+cars had a broken wheel, and wouldn't move properly.@
+505/From the direction it was going, it was probably heading
+to [Boss]-dono's camp.@
+508/Thank goodness you got away. What if they found you...?@
+505/Yeah... I wouldn't want to get crushed alive and left
+out to dry.@
+0/...@
+0/（So a transport convoy is heading to [Boss]'s location...)
 =「美々聞き込み・輸送隊」#
 
 9002=
@@ -801,43 +825,45 @@ that level of skill～@
 =「美々聞き込み・商人」#
 
 9003=
-0/（…このあたりではこれ以上情報は得られないかもしれないな）
-=「聞き込みの限界」#
+0/(...I don't think there's anymore information I can get
+here.)
+=「Information gathering limit」#
 
 9004=
-504/鍛冶屋が少しの間だけ「値下げ」するそうな。@
-505/へえ…勇気あるなあ。無断でそんなことしたら
-何されるか分かったもんじゃないのに@
-504/まあ、こっそりとほんの少しの間ってことなんだろうな@
-0/（鍛冶屋が値下げ…）
-=「うわさ・鍛冶値下げ」#
+504/It seems the blacksmith has been "cutting prices" recently.@
+505/Really...? That's brave of him. If he does that without
+permission who knows what will happen.@
+504/Well, I guess we'd better keep this to ourselves then.@
+0/（The blacksmith has cut their prices...）
+=「Rumour: Blacksmith price cut」#
 
 9005=
-506/おい、そんなに急いでどこ行くんだ？@
-507/[shop_b]が「値下げ」してるってよ！@
-506/おお！こうしちゃおれん！！@
-0/（道具屋が値下げ…）
-=「うわさ・値下げ」#
+506/Hey! Where are you off to in such a hurry?@
+507/They're offering discounts at [shop_b]!@
+506/Ooh! W-Wait for me!!@
+0/(The item shop is offering discount prices...）
+=「Rumour: Price Cut」#
 
 9006=
-503/[shop_s]が片っ端から物資を集めているようだ。
-今なら少し高めに売ってしまえるかもしれないぞ@
-504/ふーん…ま、俺には関係ないな。
-売りさばく物なんて何もないし@
-0/（物資が高く売れる…）
-=「うわさ・売値」#
+503/[shop_s] seems to be collecting goods one after the
+other. I might be able to get a bit more money for my
+items now.@
+504/Sigh... Well, I suppose that doesn't affect me.
+I don't have anything I can sell.@
+0/（Goods can be sold at higher prices...）
+=「Rumour: Price Increase」#
 
 9007=
-504/件の鍛冶屋、さらに値下げするってよ@
-505/な、何があったんだ！？@
-0/（鍛冶屋がさらに値下げ…）
-=「うわさ・鍛冶値下げ」#
+504/Hey, the blacksmith is offering even cheaper items!@
+505/W-Whaaaat!?@
+0/（Blacksmith prices have dropped even further...）
+=「Rumour: Blacksmith Price cut」#
 
 9008=
-507/[shop_b]、さらに値下げするってよ@
-506/おいおい…やけになっちまったのかな@
-0/（道具屋がさらに値下げ…）
-=「うわさ・値下げ」#
+507/[shop_b], is offering even more discounted items!@
+506/Good grief... They must be getting desperate.@
+0/（The item shop has discounted prices again..）
+=「Rumour: Price cut」#
 
 9009=
 503/[shop_s]はまだまだ物を集めているみたいだ。
@@ -1144,9 +1170,9 @@ that level of skill～@
 =「偽情報報告」#
 
 10031=
-994/な、何者！？賊！？@
-994/でも兵糧を奪われるわけには…
-みんな、いくわよ！
+994/W-Who is that!? Bandits!?@
+994/But we need to protect the food...
+Everyone, go!
 =「輸送隊邂逅」#
 
 10051=
@@ -1208,7 +1234,7 @@ attacked them, I could take away some of their rations.
 10054=
 [[[0001@
 510/Ooh... ough...@
-0/Be still... You're safe now.@
+0/Rest easy... You're safe now.@
 [[000303@
 1000/[Player] gave the boy some medical treatment.@
 [[000304@
@@ -1357,7 +1383,7 @@ Kuhuhuhu...♪@
 
 10056=
 1000/You hear the voice of your [ba]...@
-3/[Player]. The weapon you are currently using is for [Yanagi] style.@
+3/[Player]. The style you are currently using is [Yanagi].@
 3/It's fairly strong even when used for typical attacks, but
 to demonstrate the true power of the [Yanagi] style, you
 must wait patiently for your foe's movements.@
@@ -1368,20 +1394,20 @@ devastating counterattack.
 
 10057=
 1000/You hear the voice of your [ba]...@
-3/[Player]. What you are using right now is for the [Speed] style.@
+3/[Player]. The style you are currently using is [Speed].@
 3/Usually, swinging a weapon will consume energy, but for a
 [Speed] weapon, there is no such limitation. You may strike
 as many times as you please.@
 3/And by chaining your attacks, you can to perform even faster
 and more deadly attacks. In this state, you may even become
-invincible!!@
+invincible!@
 3/Essentially, it's game of who moves first.
 This is the essense of the [Speed] style.
 =「Speed」#
 
 10058=
 1000/You hear the voice of your [ba]...@
-3/[Player]. What you are using right now is for the [Strong] style.@
+3/[Player]. The style you are currently using is [Strong].@
 3/With the [Strong] style, you can store up power when attacking. 
 (Store power by holding down the attack button)@
 3/One of the benefits of this style is that you can use enemy
@@ -1793,12 +1819,13 @@ possible)@
 10071=
 [[020000@
 [[009999@
-0/はあっ…はあっ…ま、まずい…@
-0/（「寵愛」の者と長く対峙しすぎた…時間が…！）@
+0/Haah... Haah... I was clumsy...@
+0/(I've spent too much time battleing people with "love"...!@
 [[020000@
 ]]-010@
-1001/ふふふ…@
-1000/その時、[Player]の限界を見計らい[Boss]が姿を現した…
+1001/Fufufu...@
+1000/In that moment, [Boss] appeared, seeing
+[Player] at his limit.
 ="時間切れ"#
 
 999999=

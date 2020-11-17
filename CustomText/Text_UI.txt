@@ -5,8 +5,8 @@
 1=Start#
 2=Quit#
 3=Demo Version#
-4=Departure#
-5=Prepare#
+4=Depart#
+5=Prepare for Battle#
 6=Check Abilities#
 7=Items#
 8=Equipment#
@@ -123,7 +123,7 @@
 113=敵部隊の殲滅に成功、敵戦力を減少させた。
 （敵軍の攻撃、防御が低下）#
 114=敵追加#
-115=Invincible#
+115=Invul#
 116=Sex H-Attack#
 117=Under H-Attack#
 118=Trampling#
@@ -178,14 +178,15 @@ Amass your strength into one devestating blow. Rather powerful.#
 421=美々オリジナル#
 999=色Random#
 10001=偵察度：#
-10002=マス移動力追加#
-10003=マス移動力追加 + 2#
-10004=マス移動力追加 + 3#
+10002=Map movement power increased.#
+10003=Map movement power increased by 2#
+10004=Map movement power increased by 3#
 10005=敵陣の武装を把握した　敵軍の攻撃力・防御力低下#
 10006=Remaining time increased#
-10007=The number of times "Utsusemi Jutsu" can be used has increased#
-10008=近道を把握：残り時間増加　＆　マス移動力追加#
-10009="Surprise attack" probablilty increased#
+10007=The number of times "Utsusemi Jutsu" can be used has increased.#
+10008=Shortcut discovered: Remaining time increased.
+Also, map movement power has increased.#
+10009="Surprise attack" probablilty increased.#
 10010=入手　お金#
 10011=入手　道具#
 10012=入手　装備品#

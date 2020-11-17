@@ -1,25 +1,25 @@
-100010=まだやるつもり？
-いいよ、かかってらっしゃい！#
-100020=ふん…と言いたいところだけどその前に♪
-少しだけ愉しませてもらうよ#
-100030=わ、私の体も…熱くなっちゃってて…！#
-100040=その絶対に成し遂げなきゃって悲壮な目…
-すごく胸がうずくんだっ…♪#
-100050=はあっ…ああっ…♪#
-100060=ふふふっ…♪#
-100070=んっ…♪んん…♪すごっ…♪#
-100080=さっ…元気回復。始めよっか♪#
-100090=手加減しないよ！いざ勝負！#
-100110=まだやる気？しっつこいなぁ…#
-100120=ガッチガチにおちんちん大きくしちゃってさ…
-天忍さんの呪いって本当だったんだね♪#
-100130=ふふ…また勝負してあげる。ただし…#
-100140=んっ…んっ…♪#
-100150=んふっ…♪#
-100160=んっ…♪#
-100170=くうっ…♪すごっ…♪#
-100180=さ、いざ尋常に、勝負！#
-200010=はあっ…はっ…
+100010=Still wanting to fight?
+Come on, give it your best shot!#
+100020=Fufu... Well I say that, but for now...♪
+Let's have a little fun～#
+100030=M-My body... It getting flustered too...!#
+100040=Those determined, pathetic eyes..
+They're making my heart pound...♪#
+100050=Haah... Ahhh...♪#
+100060=Fufufu...♪#
+100070=Mmm♪ Mm...♪ Amazing...♪#
+100080=Ahh... That was refreshing. Let's begin♪#
+100090=I won't go easy on you! Let's go!#
+100110=Still determined? How stubborn...#
+100120=His twitching penis is has become so hard...
+I guess what they said about Tenin's curse was true～♪#
+100130=Fufu... We'll fight you again. However...#
+100140=Mmmph.. Mm...♪#
+100150=Mmmph...♪#
+100160=Mm...♪#
+100170=Kuhu...♪ Amazing...♪#
+100180=Now, come on! Fight us like you normally do!#
+200010=Haah... Haah...
 くっ…まだ立てるなんて、大した気力ね。#
 200020=こうなったらもう手段は選ばない！#
 200030=んくっ…うふっ…♪#
@@ -31,19 +31,20 @@
 200070=んっ…♪んん…♪はあっ…はっ…#
 200080=かわいそうだけど、これも戦いよ。#
 200090=私は逃げも隠れもしない。またぶちのめしてあげる！#
-200110=さっきは手加減してあげたのに…
-今度はお姉さんも本気出しちゃうよ？#
-200120=でも、私も堂々と戦いたいし…
-まずはその大きくしてるのをなんとかしないとね？#
-200130=ほーら、動いちゃだめ…ふふふっ#
-200140=んふっ…♪
-これですっきりすれば、キミも心置きなく戦えるよ…
-ん♪#
-200150=んっ…ふふっ…♪#
-200160=ふあっ…あ…♪いっぱい…♪#
-200170=ふうっ…ちょーっと、やりすぎちゃったかしら？
-立てるぅ？ふふふっ#
-200180=さあ、「正々堂々」勝負よ！あはははっ♪#
+200110=I was only going easy on you earlier...
+Now I'm goin to get serious!#
+200120=But, I do want to fight in a dignified manner...
+So I'd better do something about that swolen thing down 
+between your legs first huh?#
+200130=Ho-ra, you'd better not move... Ufufu～#
+200140=Ufu...♪
+After this, it'll be all nice and clean.
+You'll be able to fight clearly too... Mmm♪#
+200150=Mmmm...ufufu♪#
+200160=Fuu...aaah♪ So much...♪#
+200170=Ahh... Did I... go a little overboard?
+Can stand? Fufufu#
+200180=Now then, let's fight, "fair and square"! Ahahaa♪#
 300010=ふん…ま、まだやる気か？
 呆れたしぶとさだな。そんなにモノを大きくして…#
 300020=くっ…だめだ…私の体も…うずいて…！#
@@ -68,29 +69,30 @@
 これでもまだ戦うか？#
 300180=いや…答えを聞く必要は無いな。
 今度こそとどめを刺してあげる♪#
-400010=な、なんで…？なんであんなに痛めつけたのに
-おちんちんが…#
-400020=私もなんだかぼーっとして…ううっ…#
-400030=だ、だめっ…我慢…できないよぉ…
-ごめんなさいっ！#
-400040=んううっ…す、すごいよぉ…！#
-400050=はあっ…ああっ…ご、ごめんなさいぃ♪#
-400060=ふっ…ごめん…うっ…なさい…♪#
-400070=んっ…♪んん…♪はあっ…はっ…#
-400080=はあっ…あっ…私が…天忍の力を…弱らせられた…♪#
-400090=そ、その弱った体でまだ…来るの…！？
-うう…こ、来ないでっ！#
-400110=ひいっ…ま、まだ来るの…！？
-ご、ごめんなさいっごめんなさい！#
-400120=あっ…う、うそ…すごく…大きく…#
-400130=っ…私も…なんだか……う…#
-400140=も、もうだめ…んっ♪#
-400150=ううっ…ん…♪と、止められない…んっ♪#
-400160=んふっ…！？んんっ…！？#
-400170=ご、ごめんなさい…いっぱい…出させちゃって…#
-400180=すごく…弱ってる…！？私、戦いの役に立てたのかな…？#
-500010=へぇ～、まだ向かってくる気？
-えらいえらい♪#
+400010=H-How...? He's been beaten up so much, and yet his
+penis is...#
+400020=And I'm also feeling a little funny... Ooh...#
+400030=N-No... I-I can't fight the urge...
+I'm sorry!#
+400040=Mmm... A-Amazing...!#
+400050=Haah...Ahhh...S-Sorry♪#
+400060=Ahh..s...soo...rry...♪#
+400070=Mmm...♪ Mm...♪ Haah... Haah...#
+400080=Haah...Ahh... I... I weakened the Tenin..♪#
+400090=I-I weakened him but he's still... standing...!?
+Ooh... C-Come no closer!#
+400110=Eeep...! H-He's still going...!?
+I-I'm sorry! I'm sorry!#
+400120=Ah... N-No way...He's gotten...so big...#
+400130=And...I, also feel kinda...#
+400140=I-I can't take it anymore... Mm♪#
+400150=Oooh..ooh♪ I-I can't stop myself... Mm♪#
+400160=Mmph...!? Mmmph...!?#
+400170=I-I'm sorry... You came...so much...#
+400180=Wait...Are you weaker somehow...!? W-Was I doing the
+right thing after all...?#
+500010=Ehh?～ You can still fight?
+Good boy. Good boy♪#
 500020=あはっ…それじゃあ、ご褒美…あげる♪#
 500030=ふふふっ…どーお？ご褒美…♪
 みんなが気持ちよくなれるなんて素敵でしょ？#
@@ -101,33 +103,33 @@
 技に似合わず、体は素直でかわいいわね♪#
 500080=ふふふふ…これで準備は完璧！#
 500090=いっぱいかわいがってあげる♪#
-500110=ふふふ…困ったぼうやね♪
-しつこい男は嫌われるわよ？#
-500120=それに…すっかり戦う気なんて無いように
-見えるけどぉ？「祝福」のせいかしら？#
-500130=うふふ…かわいい子だし、ちょっと
-意地悪したくなっちゃった♪それっ…#
-500140=んふっ…どーかしら♪ふふふ♪
-んっ…#
-500150=んっ…んぅ…♪んふふっ#
-500160=んっ…！うふふ♪
-た～っぷり、出ちゃったわね？#
-500170=「祝福」と「寵愛」が交わる時、男は跪く…
-とっても甘くて素敵な言い伝えよね♪#
-500180=さ、おねえさんがかわいがってあげる。
-精々頑張って手柄になってちょうだいねぇ♪#
-600010=まだやるつもりなんて…その胆力、
-敵ながらあっぱれです。#
-600020=その燃えるような…心意気…
-わ、私の体で…鎮めさせていただきます！#
-600030=くうっ…んん…♪#
-600040=寵愛を受けたこの体で…あなたの力を
-削がせて…いただきますっ！#
-600050=ううんっ…ふう…っ！#
-600060=ああっ…あっ…#
-600070=あ、あなたの目…まだまだやる気みたいですね。#
-600080=でも、その状態で…私とまともに戦えますか？#
-600090=いざ、尋常に勝負です！#
+500110=Fufufu... What a hopeless boy♪
+Don't you know we hate stubborn boys?#
+500120=Besides... You look like you don't even want to fight
+anymore. Is that because of your "blessing"?#
+500130=Fufu... But you're so adorable, a simply can't
+stay mad at you♪ Here...#
+500140=MMmm... You like that?♪ふふふ♪
+Mmm...#
+500150=Mmm... Mm...♪ Ufufufu#
+500160=Mmph...! Ufufu♪
+You shot out a who～le lot didn't you?#
+500170=When "Blessing" and "Love" meet, a man kneels...
+A very sweet and dreamy fact♪#
+500180=Now, I'll be gentle～
+So give me your best shot okay?♪#
+600010=I can't believe you still want to continue...
+Despite being my enemy, I admire your guts.#
+600020=That fired up spirit of yours...
+I-I shall calm it down, with my body!#
+600030=Kuhu... Mm...♪#
+600040=With this body blessed by the goddess... I will
+dampen your power!#
+600050=Oooh... Fufu...#
+600060=Ahhh... Ah...#
+600070=Ah, it seems your eyes still have some life in them.#
+600080=But, can you really still fight me...as you are now?#
+600090=Now, the real match begins!#
 600110=「祝福」を受けたる忍…
 そ、その体の反応…まさに教わった通り…です…#
 600120=こういう時にどうすべきかも教わりましたが…
