@@ -6,7 +6,7 @@
 10=
 13/The intruder who uses the three sacred types...
 So it seems the reports I heard were true.@
-13/The Tenin... Although defeated by the great [Tosyu], 
+13/The Tennin... Although defeated by the great [Tosyu], 
 he still lives on!@
 13/You won't have your way anymore.
 Taste my blade!
@@ -176,7 +176,7 @@ Those who defy [Tosyu] must be punished♪@
 2003/Take that!@
 2002/Eei! Eei...!@
 ]]]|W0.4|H1|t4|Y1.45|S0.35@
-2005/They say you were the heavily "blessed" tenin, and
+2005/They say you were the heavily "blessed" Tennin, and
 this proves it!@
 2005/I've never seen someone try to fight us with a blessed
 body... It's subborn, but I admire your dedication.@
@@ -209,7 +209,7 @@ combined might.@
 2001/But we're not done yet♪ Fufufu...@
 [[000040@
 ]]]|W0.4|H1|t1|Y0.82|S0.30@
-2002/Even the legendary Tenin is under our feet...♪@
+2002/Even the legendary Tennin is under our feet...♪@
 2002/But even though it feels so good, you were going to avenge
 someone weren't you? Is what you're doing really okay?@
 ]]]|W0.4|H1|t2|Y0.82|S0.30@
@@ -227,7 +227,7 @@ as our personal stress relief footboy♪@
 [[000099@
 2001/Ahahaha...♪@
 [[000302@
-1000/And so, the man who was called Tenin was captivated by
+1000/And so, the man who was called Tennin was captivated by
 the enemy forces wrapped in multi-coloured clothing, and
 submitted to their feet...
 =「Mizuki Squad Defeat:Feet」#
@@ -324,7 +324,7 @@ touched by a woman he writhes in agony.@
 ]]0051@
 [[020000@
 0/Uugh... Oough...@
-13/...It seems this is as far as you go hmm? Tenin-Dono?@
+13/...It seems this is as far as you go hmm? Tennin-Dono?@
 0/(I underestimated how tough this would be...)@
 13/Rebelling against [Tosyu] after recieving her "blessing"
 once... This is unheard of.@
@@ -398,7 +398,7 @@ with the sensations of our bodies♪@
 [[000050@
 13/Mmm... Mm...♪@
 993/Fufufu... Serves you right♪ With this, the power of the
-Tenin will be lost once again.@
+Tennin will be lost once again.@
 ]]]|W0.4|H1|t0|Y0.24|S0.24@
 13/Aaahh...It feels soo good...♪@
 13/Mmm... Mm...♪@
@@ -412,7 +412,7 @@ as well huh? Fufu～@
 But until then...@
 [[000099@
 13/L-Lets...have...♪ A little fun with him♪@
-1000/And so, the man who was once called Tenin, was completely
+1000/And so, the man who was once called Tennin, was completely
 defeated and turned into norishment for the enemies who
 defeated him...
 =「Bibi Defeat」#
@@ -490,7 +490,7 @@ Though even if you try to grind, you'll always
 fall for us...@
 993/So you'll never get the chance to become stronger～♪
 Ahahaha...!@
-1000/And so, the man who was once called Tenin was defeated
+1000/And so, the man who was once called Tennin was defeated
 by those with the "goddess's love", and couldn't win against
 the lower ranked foot soldiers...
 =「Foot Soldier Defeat」#
@@ -522,7 +522,7 @@ W-Why can't... I resist...!?)@
 993/Fufufu...♪@
 13/I'm not done yet...!@
 [[000050@
-993/This appearance suits you well doesn't it, Mr. Tenin?@
+993/This appearance suits you well doesn't it, Mr. Tennin?@
 13/Mmm...♪ Mm...@
 13/......@
 [[000050@
