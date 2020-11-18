@@ -85,10 +85,9 @@ Combo many attacks together for additional damage.#
 The small protrutions on the side can be used to assist in
 climbing to high places.
 
-When using "Power" type weapons, you won't be pused back by
-enemy attacks. When attacked, you'll store power and then
-unleash it in one devestating attack. The more attacks you
-recieve, the stronger the attack will be.#
+When using "Power" type weapons, you won't flinch when
+attacked. The more attacks you recieve, the more powered up
+your attack will become.#
 
 10004=反動銃・弩理流/速流派　防御タイプ：通常型/
 はんどうじゅう・どりる。形状は筒銃のようだが

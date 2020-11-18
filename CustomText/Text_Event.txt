@@ -60,10 +60,10 @@ take notice of you.@
 =「チュートリアル・防御」#
 
 101=
-999/ワーオ♪ここまで来るなんてがんばったねぇ。
-でもわたい達は影武者よ@
-999/せっかく来てくれたんだしいっぱい
-かわいがってあげる♪くふふ♪
+999/Whoa♪ You've done well to make it this far haven't you?
+But we are her body doubles.@
+999/You've done well to make it this far, so now we'll
+give you lots of attention♪ Ufufu♪
 =「三つ子の影武者」#
 
 102=
@@ -76,8 +76,8 @@ take notice of you.@
 
 104=
 101/...!@
-900/Fufufu... Will you be able to fight straight in front
-of bodies like these?
+900/Fufufu... I wonder if you'll be able to fight properly
+while looking at with our sexy bodies?
 =「裸部隊」#
 
 105=
@@ -152,80 +152,85 @@ enemies with a green aura.）
 1002=
 ]]0013@
 [[020000@
-2001/ふふ…そのちっちゃい体でよく頑張ったけど、
-限界のよーね。@
+2001/Fufu... You tried your best with that tiny body of
+yours, but now you're at your limit aren't you?@
 ]]]|W1|H1|t0|Y0.43|S0.20@
-2001/ほらっ@
-0/(くっ…！？)@
-2003/ふふっ、こうやって無理やり立たせるのも簡単。@
-2004/立っても私達の腰ぐらいにしか頭が来ないなんて…
-可愛そうなくらい小さいね～@
-2005/でも、おちんちんだけはすっごく大きくしちゃって…
-かわいい♪@
+2001/Hora～@
+0/(A-Ah...!?)@
+2003/Fufu. By doing this, we can you pick you up
+whether you like it or not, it's easy.@
+2004/Even when you stand, your head barely comes up to
+our hips...what a poor little boy～@
+2005/Although, your penis is getting really big...it's so
+cute♪@
 ]]]|W1|H1|t0|Y0.22|S0.20@
-2001/私達の脚ばーっかり見てたもんね。丸わかり♪@
-100/ううっ…@
-2003/最低な人ね…。それならこっちにも考えがあるわ。@
+2001/You're at our legs aren't you?
+You're so easy to read♪@
+100/Uugh...@
+2003/You're the lowest of the low aren't you...?
+In that case, I have an idea～@
 [[000001@
-2001/この脚でいじめてあげる…！
-[Tosyu]様に歯向かう者にはお仕置きよっ♪@
+2001/We'll tease him with our feet...!
+Those who defy [Tosyu] must be punished♪@
 [[000002@
-2003/そらっ！@
-2002/えいっ！えいっ…！@
+2003/Take that!@
+2002/Eei! Eei...!@
 ]]]|W0.4|H1|t4|Y1.45|S0.35@
-2005/あなたがかつて濃厚な「祝福」を受けた天忍だって
-調べはついているのよ。@
-2005/祝福を受けた体で戦うなんて前例がないこと…
-その執念だけは立派だけど、これが現実。@
+2005/They say you were the heavily "blessed" tenin, and
+this proves it!@
+2005/I've never seen someone try to fight us with a blessed
+body... It's subborn, but I admire your dedication.@
 ]]]|W0.4|H1|t3|Y1.45|S0.35@
-2004/[Tosyu]様どころか、[Boss]様にも私達にも
-勝てない…それがあんたの正体よ。@
-2004/そのくせちんぽだけは一人前…
-なっさけないこと。@
+2004/You'd never win against Mistress [Boss], let alone
+[Tosyu]...that's just who you are.@
+2004/Your penis is you're only defining feature...How sad.@
 ]]]|W0.4|H1|t0|Y0.65|S0.22@
-2001/ふふふっ♪本当のこと言っちゃかわいそうだよ。@
-2001/でもいっぱい正直なコト言ってもらって体は
-すっごく喜んでるみたい♪@
+2001/Fufufu♪ It's sad, but it's true.@
+2001/But your body is being very honest with us...it looks
+so happy♪@
 [[000100@
 [[000302@
-2001/ほらぁっ…こうやっておちんちん踏みにじられると、
-愉しい思い出が蘇ってくるんじゃないかしら？@
+2001/Hora...next time when your penis is trambled,
+this'll bring up some nice memories for won't it?@
 ]]]|W1|H1|t0|Y0.65|S0.25@
-2001/どんどん硬くなってるし。おかげで踏みやすいもん♪@
+2001/Thanks to us, you'll get harder even faster♪@
 ]]]|W1|H1|t0|Y0.35|S0.22@
-2002/…ねえ、そろそろ出しちゃうんじゃないのかな？@
-2003/そうね。私達の連携に耐えられる筈は無い…！@
+2002/...hey, you're about to cum aren't you?@
+2003/Oh well. I should have known there's no enduring our
+combined might.@
 [[000100@
-2001/さあ、出しちゃいなよ！@
+2001/Now, cum for us!@
 [[000040@
-2001/んっ！ふふふふ…♪うふふ♪@
-2002/すごい…@
-2004/こんなに♪@
+2001/Ooh! Fufufu...♪ Ufufu♪@
+2002/Amazing...@
+2004/So much♪@
 ]]]|W0.4|H1|t4|Y1.45|S0.35@
-2005/これであなたの力は私達のもの。@
-2001/でもまだまだ♪ふふふ…@
+2005/Now all your power belongs to us.@
+2001/But we're not done yet♪ Fufufu...@
 [[000040@
 ]]]|W0.4|H1|t1|Y0.82|S0.30@
-2002/伝説にもなった天忍が私の足元に…♪@
-2002/こんな清々しい気持ちなのに、敵を討った
-手柄まで頂戴できるだなんて…いいのかな？@
+2002/Even the legendary Tenin is under our feet...♪@
+2002/But even though it feels so good, you were going to avenge
+someone weren't you? Is what you're doing really okay?@
 ]]]|W0.4|H1|t2|Y0.82|S0.30@
-2003/悔しいだろうけど、これがあなたの本当の力よ♪@
+2003/It might be frustrating, but this is as far as you go♪@
 [[000040@
-2004/私達の力を甘く見た報い、受けなさい！@
+2004/This is your punishment for underestimating our power!@
 [[000100@
-2005/こうやって踏まれ続けてるのにうっとりした顔…
-情けないわね@
+2005/Even though we're continuing to step on him like this,
+he still has that blissed-out face...so miserable～@
 [[000040@
-2001/ふっふふふ…♪@
-2001/[Tosyu]様の寵愛がもたらす力の美しさが分かったかしら？
-これからは私達の脚を慰める玩具として生きていくのよ♪@
+2001/Fufu, fufufu...♪@
+2001/Maybe now you understand the empowering beauty [Tosyu]'s
+love brings? After this, you can live the rest of your life
+as our personal stress relief footboy♪@
 [[000099@
-2001/あははは…♪@
+2001/Ahahaha...♪@
 [[000302@
-1000/こうして、かつて天忍とまで呼ばれた男は
-色とりどりの衣装に身を包んだ敵部隊に心を奪われ、その脚に敗北した…
-=「美月隊に敗北・脚」#
+1000/And so, the man who was called Tenin was captivated by
+the enemy forces wrapped in multi-coloured clothing, and
+submitted to their feet...
+=「Mizuki Squad Defeat:Feet」#
 
 1003=
 ]]0012@
@@ -238,8 +243,8 @@ skill...you really surprised me.@
 2006/...@
 101/Ooh...@
 100/(I can feel my chest...tightening up...)@
-2006/I heard something. 「祝福」を受けた男は
-女に触れるだけでも身悶えする場合もあるってね@
+2006/I heard that if a "blessed" man is even so much as
+touched by a woman he writhes in agony.@
 ]]]|W1|H1|t0|Y0.52|S0.20@
 2006/私…あなたのことが気になるの。
 その体…慰めてあげたい@
@@ -313,7 +318,7 @@ skill...you really surprised me.@
 [[000302@
 1000/こうして、かつて天忍とまで呼ばれた男は
 敵の執拗で陰湿な愛に敗北した…
-=「こころに敗北」#
+=「Kokoro Defeat」#
 
 1004=
 ]]0051@
@@ -348,7 +353,7 @@ Remember it well♪@
 13/For a man who's been "blessed" this caress is the
 ultimate heaven, or the ultimate hell...@
 [[000046@
-13/If we do this, your strength will never return.@
+13/As long as we do this, your strength will never return.@
 13/Mmm...fufu...♪@
 993/Kufufu... Your penis is getting slippery with precum
 isn't it? It was foolish of you to challenge us～♪@
@@ -371,31 +376,31 @@ Cum for us!@
 13/Everyone, hold him down for me alright?@
 993/Understood♪@
 13/Mmmm... There.@
-993/His penis has been exposed for you, Mistress [Bibi]♪@
-13/Mm... Thank you.@
+993/His penis is ready for you Mistress [Bibi]♪@
+13/...Thank you.@
 [[000304@
 [[000009@
 13/Mmgh...@
 13/Mmough...!@
 13/A-Amazing... Even though he just came...!?@
-993/You should be happy you're making Mistress [Bibi] feel
-good directly you know?♪@
+993/You should be happy. You're making Mistress [Bibi]
+feel good directly♪@
 993/Fufu♪@
 13/Haah...haah...
 I-I Already...♪@
 [[000200@
-993/Ooh... You're so cheeky Mistress [Bibi], Cumming before
-anyone else!@
-993/Yeah♪ We'll make you feel even better with the
-sensations of our bodies♪@
+993/Ooh... You're going to cum in front of Mistress [Bibi]...
+Naughty child.@
+993/Ooh♪ But don't worry, we'll make you feel even better
+with the sensations of our bodies♪@
 [[000021@
 100/Uaaah!? Ah...!@
 [[000050@
 13/Mmm... Mm...♪@
-993/Fufufu... Serves you right♪ With this, you lost to the
-power of Tenin yet again.@
+993/Fufufu... Serves you right♪ With this, the power of the
+Tenin will be lost once again.@
 ]]]|W0.4|H1|t0|Y0.24|S0.24@
-13/Aaahh...M-More... Don't tease me...♪@
+13/Aaahh...It feels soo good...♪@
 13/Mmm... Mm...♪@
 993/It looks like even Mistress [Bibi] is getting into heat
 as well huh? Fufu～@
@@ -494,7 +499,7 @@ the lower ranked foot soldiers...
 ]]0051@
 [[020000@
 13/So you still intend to fight?
-...Impossible, how on earth can he...!@
+...Well I never...!@
 13/Your presistence may result in great travesties for 
 [Tosyu]... If that happens...@
 993/Mistress [Boss]! If that's the case, we can...@
@@ -504,8 +509,8 @@ even a little... Everyone, hold him down!@
 [[000010@
 13/...@
 ]]]|W0.3|H1|t0|Y0.24|S0.24@
-13/Now tell me... Do you still intend to confront me after
-receiving this technique?@
+13/Tell me... Do you still intend to confront me, even after
+receiving a technique like this?@
 13/Fufu... Mm...@
 13/For a body that's been cursed... No, "Blessed" by [Tosyu],
 this is more effective than anything else, isn't it?@
@@ -782,7 +787,7 @@ My strength... is...）@
 =「偵察2」#
 
 9000=
-0/(No particularly interesting info was obtained.)
+0/(No information of note was obtained.)
 =「聞き込み無」#
 
 9001=
@@ -795,9 +800,9 @@ So I ran away in a hurry.@
 508/I thought you came home a little early, but I suppose
 that's how things are sometimes. But, what's the Lord's 
 army doing at the foot of Arrowhead mountain?@
-505/But there were lots of huge carts there...
-Maybe it was a transporttion convoy. Though, one of the 
-cars had a broken wheel, and wouldn't move properly.@
+505/But there were lots of huge carts there...maybe it was a
+transportation convoy? Alhough, one of the cars had a broken
+wheel, it wouldn't move properly.@
 505/From the direction it was going, it was probably heading
 to [Boss]-dono's camp.@
 508/Thank goodness you got away. What if they found you...?@
@@ -1287,7 +1292,7 @@ to take anything from anyone.@
 they care about...@
 [[000304@
 [[040047@
-0/Then I will stop it. No matter the cost...!!@
+0/Then I will put a stop to it. No matter the cost...!!@
 [[049999@
 510/U-Um...@
 [[000300@
@@ -1399,9 +1404,8 @@ devastating counterattack.
 [Speed] weapon, there is no such limitation. You may strike
 as many times as you please.@
 3/And by chaining your attacks, you can to perform even faster
-and more deadly attacks. In this state, you may even become
-invincible!@
-3/Essentially, it's game of who moves first.
+and more deadly attacks. You may even become invincible!@
+3/Ultimately, it's game of who moves first.
 This is the essense of the [Speed] style.
 =「Speed」#
 
@@ -1656,9 +1660,9 @@ one would listen to me...）
 
 10064=
 0/This is a rough sketch of the enemy encampment.@
-0/It's pretty sketchy, based on the information I lightly
+0/It's pretty sketchy-- based on the information I lightly
 scouted earlier...but it's based on the story I heard from
-[Yasu]-dono's elder sister@
+[Yasu]-dono's elder sister.@
 [[000300@
 [[000305@
 [[000600@
@@ -1684,10 +1688,10 @@ I am on the map.@
 [[000600@
 [[000308@
 100/(It's been some time since I got here...)@
-100/(The physical strength and vitality of those who have
-the "love of the goddess" rises dreadfully.)@
-100/(So it's critical I engage these people as soon as
-possible)@
+100/(Battling those with the "love of the goddess" really
+takes a toll on my physical and mental ability...)@
+100/(So, it's critical I engage my target as soon as
+possible.)@
 100/（I have to defeat [Bibi]...before time runs out!）
 ="時間"#
 

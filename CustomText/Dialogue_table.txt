@@ -20,31 +20,32 @@ I guess what they said about Tenin's curse was true～♪#
 100170=Kuhu...♪ Amazing...♪#
 100180=Now, come on! Fight us like you normally do!#
 200010=Haah... Haah...
-くっ…まだ立てるなんて、大した気力ね。#
-200020=こうなったらもう手段は選ばない！#
-200030=んくっ…うふっ…♪#
-200040=その痛々しいくらい大きくしてる男根…それが
-ある限りあなたは絶対私達には勝てないわよ#
-200050=こうやるだけでっ…あなたは力を…♪
-あっけなく失う…♪#
-200060=ふふっ…んくうっ…♪#
-200070=んっ…♪んん…♪はあっ…はっ…#
-200080=かわいそうだけど、これも戦いよ。#
-200090=私は逃げも隠れもしない。またぶちのめしてあげる！#
-200110=I was only going easy on you earlier...
-Now I'm goin to get serious!#
+Dammit...You're still standing! You're pretty head strong,
+you know that?#
+200020=Time for me to pull out all the stops!#
+200030=Mmm...ufu...♪#
+200040=It's pathetic how swollen you're penis has become...
+As long as you're like this, you'll never defeat us～#
+200050=Just by doing this...your strength...vanishes in an
+instant...♪#
+200060=Fufu...Kuhu...♪#
+200070=Mm...♪ Mmm...♪ Haah...Hah...#
+200080=I feel sorry for you, but this is also a battle.#
+200090=I won't hide or run away. I will defeat you again!#
+200110=I was only going easy on you earlier...I'm only just
+getting started!#
 200120=But, I do want to fight in a dignified manner...
-So I'd better do something about that swolen thing down 
-between your legs first huh?#
-200130=Ho-ra, you'd better not move... Ufufu～#
+So I'd better do something about that swolen thing between
+your legs first huh?#
+200130=Ho-ra...don't move now... Ufufu～#
 200140=Ufu...♪
 After this, it'll be all nice and clean.
 You'll be able to fight clearly too... Mmm♪#
 200150=Mmmm...ufufu♪#
 200160=Fuu...aaah♪ So much...♪#
 200170=Ahh... Did I... go a little overboard?
-Can stand? Fufufu#
-200180=Now then, let's fight, "fair and square"! Ahahaa♪#
+Can you stand? Fufufu～#
+200180=Now then, let's fight, "fair and square"! Aha#
 300010=ふん…ま、まだやる気か？
 呆れたしぶとさだな。そんなにモノを大きくして…#
 300020=くっ…だめだ…私の体も…うずいて…！#
@@ -71,7 +72,7 @@ Can stand? Fufufu#
 今度こそとどめを刺してあげる♪#
 400010=H-How...? He's been beaten up so much, and yet his
 penis is...#
-400020=And I'm also feeling a little funny... Ooh...#
+400020=And I'm also feeling a little funny...ooh...#
 400030=N-No... I-I can't fight the urge...
 I'm sorry!#
 400040=Mmm... A-Amazing...!#
