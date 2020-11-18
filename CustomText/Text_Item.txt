@@ -99,7 +99,7 @@ your attack will become.#
 受け流す技にも使える。#
 
 10006=Foot Soldier's Spear/Power Type　Defense Class: Normal/
-A spear used by a soldier blessed by lord Garuda.
+A spear used by a soldier blessed by lord Karula.
 It's a little bent, but it's a solidly made weapon specially
 used by Foot Soldiers.#
 10007=楯と短槍/柔流派　防御タイプ：通常型/
