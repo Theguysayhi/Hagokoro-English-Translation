@@ -181,7 +181,8 @@ Amass your strength into one devestating blow. Rather powerful.#
 10002=Map movement power increased.#
 10003=Map movement power increased by 2#
 10004=Map movement power increased by 3#
-10005=敵陣の武装を把握した　敵軍の攻撃力・防御力低下#
+10005=Understood army armaments.
+Enemy attack and defence has been lowered.#
 10006=Remaining time increased#
 10007=The number of times "Utsusemi Jutsu" can be used has increased.#
 10008=Shortcut discovered: Remaining time increased.

@@ -108,12 +108,12 @@ For those who have played the game before and want a fresh experience.#
 79=Defeat Scenes#
 80=Surrender#
 81=Back to Base#
-82=これで体験版は終了となります。
-プレイしていただき、ありがとうございました。
+82=The demo version of the game has ended.
+Thank you very much for playing!
 
-＜ひみつの情報＞：拠点メニュー画面で
-「左上の隠しボタン」を押すとライブラリが解放されます
-2回目以降のプレイングで活用してくださいね♪#
+＜Secret Info＞: Push the secret top right button
+on the base menu to unlock the library. Feel free to use it
+when playing through the game a second time, okay?♪#
 83=View enemy information and browse through scenes
 you've unlocked.#
 84=Enemy Information#

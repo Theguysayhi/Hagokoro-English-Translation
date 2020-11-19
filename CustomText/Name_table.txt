@@ -12,7 +12,7 @@
 11=Yumeku#
 12=Karula#
 13=Bibi#
-14=熊姫#
+14=Princess Kuma#
 15=Azusa#
 16=花忍隊#
 17=おりん#
@@ -35,7 +35,7 @@
 34=Ninja Sword#
 35=Laddler Club#
 36=Hit#
-37=怒#
+37=Rage#
 38=Gen（占術師）#
 39=Gen（情報屋）#
 40=Gen（商人）#
@@ -71,9 +71,9 @@
 991=Kunoichi#
 992=Law Enforcer#
 993=Foot Soldier#
-994=Travel Squad#
+994=Transport Squad#
 995=Scouting Squad#
-996=仕入れ担当#
+996=Merchant Dealer#
 997=Town Girl#
 998=Imperial Guard#
 999=Fake General#
@@ -88,7 +88,7 @@
 5007=Yatsuke#
 5008=Ashes#
 5009=Retrograde#
-5010=Three Renown Beauties#
+5010=Three Reinnin#
 5011=Yatsuke's Sister#
 5012=むっく#
 5013=おとめっち#

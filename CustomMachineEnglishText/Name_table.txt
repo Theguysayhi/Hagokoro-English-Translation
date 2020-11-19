@@ -87,7 +87,7 @@
 2006=Kokoro#
 5007=Yasuke#
 5008=Ash-Army#
-5009="Retrograde"#
+5009="retrograde"#
 5010="Triple-Blade"#
 5011=Yasuke's Sister#
 5012=Mukuru#

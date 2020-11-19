@@ -6,9 +6,9 @@
 10=
 13/The intruder who uses the three sacred types...
 So it seems the reports I heard were true.@
-13/The Tennin... Although defeated by the great [Tosyu], 
+13/The Tennin...although defeated by the great [Tosyu], 
 he still lives on!@
-13/You won't have your way anymore.
+13/Your rien of doing as you please ends here.
 Taste my blade!
 =「美々・邂逅」#
 
@@ -101,53 +101,56 @@ enemies with a green aura.）
 1001=
 ]]0016@
 [[020000@
-999/くふふっ、わたい達は[Boss]様の影武者。
-残念だけどはずれ♪@
+999/Kufufu, we are Mistress [Boss]'s body doubles.
+Terribly sorry, but we're not who you're looking for♪@
 [[000001@
-999/[Boss]様が三人もいるわけないじゃんねー！
-それで分かりなよ！きゃははっ♪@
-999/きっちりいじめ抜いて、わたい達の手柄の種に
-してあげる♪くふふ♪@
+999/You were wondering why there were three Mistress [Boss]s
+weren't you? Well that's why! Kyahaha♪@
+999/Let's make him ejaculate and tease him, then take the
+credit for it♪ Kufufu♪@
 [[000004@
-999/どーん♪@
-999/くふふぅ♪いい眺めでしょ。@
-999/ほらぁ！@
-999/くふっ♪悪い奴を踏み潰すのってサイコー♪@
-999/わたい達は[Boss]様の技を受け継ぐことを許された
-「えりいと」なんだからねっ…？ありがたくわたい達の
-足を楽しみなさい♪@
+999/Smack♪@
+999/Kufufu♪ It's a wonderful view don't you think?@
+999/Hora!@
+999/Kufu♪ Only the lowest of the low would end up being
+trampled like this♪@
+999/After all, we know all of Mistress [Boss]'s techniques
+you know...? So you should be happy to experience our feet.@
 [[000002@
-999/くふふふ♪@
-999/ほれっ、ほれぇ…♪くふ♪@
-999/あっ…こいつぅ…@
+999/Kufufufu♪@
+999/Hora...hora...♪ Kufu♪@
+999/Aha...this guy...@
 [[000003@
-999/あーあ♪さっすが天忍様。女の子に乱暴されるのが
-好きってホントだったんだぁ@
-999/みんなでもっとグリグリしちゃお♪くふふ♪@
-999/くふふ♪@
-999/どうなっちゃうのかなぁ…？きゃは♪@
-999/観念しちゃいなよぉ…♪@
+999/Oh dear♪ As expected of the great Tennin. He loves to
+be knocked around by sexy woman@
+999/Everyone, let's rub our soles over his body even more♪
+Kufufu♪@
+999/Kufufu♪@
+999/I wonder what will happen...? Kyaha♪@
+999/It's about time you gave up...♪@
 [[000040@
-999/あっ！@
-999/ワーオ♪@
-999/あはっ…♪@
-999/どくどくいってるよ…くふふ♪@
+999/Ah!@
+999/Whoa♪@
+999/Aha...♪@
+999/It's just all flowing out... Kufufu♪@
 [[000040@
-999/まんまと影武者に騙されて、汚いの撒き散らしちゃったね？
-気分はいかが？くふふっ♪@
-999/返事をなさい、負け犬くん♪@
+999/You were successfully coaxed into spraying your seed
+everwhere by the body doubles of the person you tried to
+defeat. How does it feel? Kufufu♪@
+999/Well? Tell us, little doggy♪@
 [[000040@
-999/くふっ…♪@
-100/うああ、あ…@
+999/Kufu...♪@
+100/Uaah...ahh...@
 [[000099@
-999/んふっ…♪@
-999/きゃは♪ホンットに変態だよ…♪
-踏めば踏むほど出しちゃうんだもん@
-999/いっぱいかわいがってあげる。
-わたい達って優しい♪@
-1000/こうして、かつて天忍とまで呼ばれた男は
-標的の影武者たちにあざ笑われながら果てていった…
-=「三つ子の影武者に敗北・脚」#
+999/Mmm...♪@
+999/Kyaha♪ You really are a pervert...♪
+Because the more we step on you, the more you cum.@
+999/Let's take good care of him.
+We'll be kind♪@
+1000/And so, the man who was called Tennin was perished
+while ridiculed by the body doubles of the general he
+tried to defeat...
+=「Fake Generals Defeat・Feet」#
 
 1002=
 ]]0013@
@@ -158,27 +161,27 @@ yours, but now you're at your limit aren't you?@
 2001/Hora～@
 0/(A-Ah...!?)@
 2003/Fufu. By doing this, we can you pick you up
-whether you like it or not, it's easy.@
+whether you like it or not. It's easy.@
 2004/Even when you stand, your head barely comes up to
 our hips...what a poor little boy～@
 2005/Although, your penis is getting really big...it's so
 cute♪@
 ]]]|W1|H1|t0|Y0.22|S0.20@
-2001/You're at our legs aren't you?
-You're so easy to read♪@
+2001/You're staring at our legs aren't you?
+You really are simple♪@
 100/Uugh...@
 2003/You're the lowest of the low aren't you...?
 In that case, I have an idea～@
 [[000001@
-2001/We'll tease him with our feet...!
+2001/Let's torment him with our feet...!
 Those who defy [Tosyu] must be punished♪@
 [[000002@
 2003/Take that!@
 2002/Eei! Eei...!@
 ]]]|W0.4|H1|t4|Y1.45|S0.35@
-2005/They say you were the heavily "blessed" Tennin, and
+2005/They say you were the heavily "enlightened" Tennin, and
 this proves it!@
-2005/I've never seen someone try to fight us with a blessed
+2005/I've never seen someone try to fight us with a enlightened
 body... It's subborn, but I admire your dedication.@
 ]]]|W0.4|H1|t3|Y1.45|S0.35@
 2004/You'd never win against Mistress [Boss], let alone
@@ -186,12 +189,12 @@ body... It's subborn, but I admire your dedication.@
 2004/Your penis is you're only defining feature...How sad.@
 ]]]|W0.4|H1|t0|Y0.65|S0.22@
 2001/Fufufu♪ It's sad, but it's true.@
-2001/But your body is being very honest with us...it looks
-so happy♪@
+2001/And your body is being very honest with us...
+It looks so happy♪@
 [[000100@
 [[000302@
 2001/Hora...next time when your penis is trambled,
-this'll bring up some nice memories for won't it?@
+this'll bring up some nice memories for you won't it?@
 ]]]|W1|H1|t0|Y0.65|S0.25@
 2001/Thanks to us, you'll get harder even faster♪@
 ]]]|W1|H1|t0|Y0.35|S0.22@
@@ -218,12 +221,12 @@ someone weren't you? Is what you're doing really okay?@
 2004/This is your punishment for underestimating our power!@
 [[000100@
 2005/Even though we're continuing to step on him like this,
-he still has that blissed-out face...so miserable～@
+he still has that blissed-out face...he's so miserable～@
 [[000040@
 2001/Fufu, fufufu...♪@
-2001/Maybe now you understand the empowering beauty [Tosyu]'s
-love brings? After this, you can live the rest of your life
-as our personal stress relief footboy♪@
+2001/Maybe now you understand the powerful beauty that [Tosyu]'s
+empowerment brings? After this, you'll live the rest of your
+life as our personal stress relief footboy♪@
 [[000099@
 2001/Ahahaha...♪@
 [[000302@
@@ -243,81 +246,86 @@ skill...you really surprised me.@
 2006/...@
 101/Ooh...@
 100/(I can feel my chest...tightening up...)@
-2006/I heard that if a "blessed" man is even so much as
-touched by a woman he writhes in agony.@
+2006/I heard something. If a "enlightened" man is even so much as
+touched by a woman, he can't help but writhe in agony right?@
 ]]]|W1|H1|t0|Y0.52|S0.20@
-2006/私…あなたのことが気になるの。
-その体…慰めてあげたい@
+2006/I...care about you.
+I want to indulge...in your body...@
 [[000100@
 [[000303@
-100/…！？@
-2006/キミは捕虜。…私の部屋に来てもらうから@
-2006/ふう。抱えてみて改めて思ったけど、
-本当に小さい体。@
-2006/でも、姫様みたいにだっこされてる間もずっと
-おちんちん大きくしてたね…@
-2006/恥ずかしい？…ふふ、かわいいね@
-2006/恐いくらい大きくなってる…苦しいんじゃない？@
+100/...!?@
+2006/Welcome to my room...prisoner.@
+2006/Gee. I was thinking about it when I was picking you up,
+but you really do have a small body.@
+2006/But, while I slung you over my shoulder like a
+kidnapped princess, your penis was hard for the entire
+time...@
+2006/Does that embarass you? ...Fufu, that's so cute.@
+2006/It's swelling up so much...it's not painful is it?@
 [[000304@
 [[000008@
-2006/私が…鎮めてあげる。@
+2006/I'll...calm it down for you.@
 [[000302@
-2006/んっ…@
-2006/股にごりごり擦れてるよっ…
-キミの…かわいいモノが…♪@
-2006/敵同士なのに、なんて考えないで。
-キミのこと、私の体でいっぱい愛してあげたいの@
-2006/んっ…んっ…@
-100/くうっ…うう…！@
-2006/戦ってる時の精悍なお顔とは大違い…かわいい♪@
+2006/Mmm...@
+2006/I can feel it rub against my crotch...
+And...he's so cute...♪@
+2006/I don't care that we're enemies.
+I want to take care of your thing with my body as much
+as possible.@
+2006/Mmm...mmm...@
+100/Oogh...ooh...!@
+2006/Your face is so different now compared to when you
+were fighting...it's so cute♪@
 [[000046@
-2006/んふっ…あっ…@
-2006/んんっ…ぬるぬるしてきてっ…！@
-2006/いいよ…私の胸に埋もれながら…いっぱい出してぇっ…！@
+2006/Kuhu...ahh...@
+2006/Mmm...it's getting all slippery...!@
+2006/It's OK... Bury your face in my chest...
+Let it all out...!@
 [[000045@
-2006/っ…！…！ふうぅん…んっ…♪@
-2006/はあっ…はあ…すご…い…♪@
+2006/...!...! Oohh...ooh♪@
+2006/Haah...haah...amaz..ing...♪@
 [[000046@
-2006/私も「寵愛」を受けた身…寵愛と祝福が交わる時…
-男の力は失われる。@
+2006/I also have been "empowered"...and when the empowerement
+and enlightenement meet...a man loses their strength.@
 ]]]|W1|H1|t0|Y0.34|S0.20@
 [[000302@
-2006/ごめんなさい…あなたの力を奪うのは心苦しいけど、
-あなたを愛してあげたくてしょうがないの。@
+2006/I'm sorry... It hurts me to take away your power,
+but I want to make love to you so much I can't help it.@
 [[000045@
-2006/こんなふうに…ね？@
-100/…@
-2006/さあ、床に…@
+2006/Like this...right?@
+100/...@
+2006/Now, lie on the floor...@
 [[000100@
 [[000009@
 [[000302@
-2006/んふっ…ん…♪@
-2006/はああっあ…！あ…@
-100/あううっ…！？@
-2006/ひとつに…なっちゃったね…♪@
+2006/Aooh...mmm..♪@
+2006/A-Aahh...! Ahh...@
+100/Aaoouh...!?@
+2006/We're going to...become one...okay...?♪@
 ]]]|W0.3|H1|t0|Y0.11|S0.25@
-2006/おねえさんの大きい体…しっかり受け止めてくれててえらいね♪@
-2006/大好きだよっ…だーいすき♪@
-2006/んっ…ん…♪@
-2006/さっき出したばかりなのにどんどん大きくなってる…
-嬉しい♪@
-2006/はあっ…はっ…うふっ…う…♪@
-2006/さあ、溶け合いましょう…♪@
+2006/Sink into my voluptuous body...you're doing great...♪@
+2006/I love you... I love you so much♪@
+2006/Mm...mm...♪@
+2006/Even though you just came you're still throbbing...
+I'm so happy♪@
+2006/Haah...hah...ufu...♪@
+2006/Now, let us melt together in pleasure...♪@
 [[000050@
-2006/あんっ…！ああっ…はあっ…あふ…♪@
-2006/はあ…はあ…@
-2006/…呆けた顔もかわいいね…♪@
+2006/Ahhn...! Ahhh...Haah...Ufu...♪@
+2006/Hah...hah...@
+2006/...Your blissed-out face is cute too♪@
 ]]]|W1|H1|t0|Y0.34|S0.28|R-53@
 [[000302@
 [[000051@
-2006/泣いてるの？目的が果たせなくても心配しないで。
-ずっと私が一緒だよ…ふふふ♪@
+2006/Are you crying? Even if you can't furfil what you
+wanted to do, don't worry.
+I'll be with you together...forever...ufufu♪@
 [[000050@
-2006/ふふ…ふふふ…♪@
+2006/Fufu...fufufu♪@
 [[000099@
 [[000302@
-1000/こうして、かつて天忍とまで呼ばれた男は
-敵の執拗で陰湿な愛に敗北した…
+1000/And so, the man who was called Tennin was defeated by
+a passionate loving enemy...
 =「Kokoro Defeat」#
 
 1004=
@@ -326,7 +334,7 @@ touched by a woman he writhes in agony.@
 0/Uugh... Oough...@
 13/...It seems this is as far as you go hmm? Tennin-Dono?@
 0/(I underestimated how tough this would be...)@
-13/Rebelling against [Tosyu] after recieving "the blessing"
+13/Rebelling against [Tosyu] after having being "enlightened"
 once... This is unheard of.@
 13/We must tourment him harshly.
 Take him to prison!@
@@ -350,7 +358,7 @@ more. Fufu♪@
 Ho-ra, ho-ra...♪@
 993/This weight you feel, is the weight of your crimes.
 Remember it well♪@
-13/For a man who's been "blessed" this caress is the
+13/For men who have been "enlightened" this caress is the
 ultimate heaven, or the ultimate hell...@
 [[000046@
 13/As long as we do this, your strength will never return.@
@@ -456,8 +464,8 @@ So let go and relax♪@
 993/Whoops...Fufu. Now you're really relaxed for us aren't
 you? You've been doing your best to hold on I see...
 Good boy, good boy♪@
-993/But, don't get too comfy okay? Because the next one will
-put you to sleep...fufufufu♪@
+993/But, don't get too comfy okay? Because you'll need to
+lie down for this next one...fufufufu♪@
 [[000009@
 993/Mmm...And, t-there♪@
 993/Haah... M-Mmm♪@
@@ -467,10 +475,11 @@ more backed up in there don't you?@
 993/Haah... Mmm... Fufufu....♪@
 993/Your face has gone all slutty...I'm so happy♪@
 993/We're making love to each other, even though we were
-enemies just moment ago... The goddess's love is magnificent♪@
+enemies moments ago... Oh, the wonderfulness
+of "empowerment"♪@
 [[000200@
-100/(N-No...! I-I don't want to do this with an enemy
-blessed with [Tosyu]'s love...)@
+100/(N-No...! I-I can't be doing this with enemies empowered 
+by [Tosyu]!)@
 100/(B-But It's no...use... My mind's going blank...)@
 [[000050@
 993/Fufu... Mmm...♪ Mm...!?@
@@ -491,7 +500,7 @@ fall for us...@
 993/So you'll never get the chance to become stronger～♪
 Ahahaha...!@
 1000/And so, the man who was once called Tennin was defeated
-by those with the "goddess's love", and couldn't win against
+by his "empowered" foes, and couldn't win against
 the lower ranked foot soldiers...
 =「Foot Soldier Defeat」#
 
@@ -512,8 +521,9 @@ even a little... Everyone, hold him down!@
 13/Tell me... Do you still intend to confront me, even after
 receiving a technique like this?@
 13/Fufu... Mm...@
-13/For a body that's been cursed... No, "Blessed" by [Tosyu],
-this is more effective than anything else, isn't it?@
+13/For a body that's been cursed...no, "enlightened" by
+[Tosyu], this is more effective than anything else,
+isn't it?@
 100/（Ah, aaah...! Not good, I'm a-already...!!
 W-Why can't... I resist...!?)@
 [[000050@
@@ -545,43 +555,44 @@ We'll cut off his fighting spirit by force!@
 [[020000@
 999/Still wanting to fight?
 Aren't you stubborn～@
-999/いいけど、ただでやれるほど
-甘くないよ♪@
+999/Very well, but you must be quite naive if you think
+we'll just let you off for free♪@
 [[000010@
-999/くふふ…♪んっ♪@
+999/Kufufu...♪ Mmm♪@
 ]]]|W0.3|H1|t0|Y0.24|S0.24@
-999/あはっ…♪@
-100/（あ、あああ…！だめだ、もう…！
-耐えられ…ない…！？）@
+999/Aha...♪@
+100/（Ah, ahhh...! Not good, I-I'm already...!
+I...I can't...resist!?)@
 [[000050@
 [[000200@
-999/この世界で男に生まれた時点で
-あんたはわたい達には勝てないのよ。@
-999/やっちゃえやっちゃえ♪@
+999/It was unfortunate for you to be born as you are at
+this point in time. You cannot win against us.@
+999/Just relax as my feet subdue your thoughts and mind♪@
 [[000050@
-999/あいあいさー♪@
-999/くふふ♪@
+999/It's pointless to resist. Just give up♪@
+999/Kufufu♪@
 [[000050@
-100/（く…ああ…意識…が…）@
+100/(Agh..aahh...my conciousness...is...）@
 [[000050@
 [[000021@
-999/コイツ、まだやる気っぽいよ。@
+999/This guy...he's still trying to resist.@
 [[000050@
-999/もしかしてホントのバカ？@
+999/Perhaps he's some kind of idiot?@
 [[000050@
 [[000099@
 [[0000100@
-999/いーよいーよ♪
-ひっさびさの獲物だしいっぱい楽しんじゃお♪@
-999/あははっ出る出るぅ♪@
+999/It's no trouble, not at all♪
+It's been awhile since I had a war trophy, so let's have
+some fun with him♪@
+999/Ahaha! Squirt～ Squirt～♪@
 [[000201@
 [[000052@
-999/くふふ…♪これで準備はカーンペキ♪@
+999/Kufufu...♪ Now the preperations are complete♪@
 [[000011@
-999/さあ、ケチョンケチョンにしてあげる。
-くっふふ♪@
+999/Now, let's make him like putty in our hands.
+Kuhuhu♪@
 [[020000
-=「再挑戦・三つ子影武者」#
+=「Refight・Fake Generals」#
 
 2006=
 ]]9999@
@@ -1078,7 +1089,7 @@ I don't have anything I can sell.@
 10012=
 [[[00003@
 ]]6250@
-996/ふーん…@
+996/Hmmph...@
 40/手前どもとしてはこれぐらいの値で何卒…と思います@
 996/いいでしょ。これで手を打ってあげる。@
 1000/こちらが提案した値より割り引かれてしまった。@
@@ -1222,18 +1233,19 @@ attacked them, I could take away some of their rations.
 =「偵察・美々一」#
 
 10053=
-998/何！？兵糧が…！？@
-995/…はい。輸送隊は全滅しておりました。
-…兵糧も全て奪われています@
-998/馬鹿な…@
-998/くっ…賊にしては鮮やかすぎる…
-まさか何者かがここを狙って…？@
-995/いかがいたしましょうか。@
-998/食糧自体はまた届けてもらえるだろうが、
-仕方がないな…しばらくの間食事を減らして切り詰めるしかない@
-998/陣地を作っている私達にとっての生命線を
-的確に…敵は一体誰なの…？@
-1000/兵糧強奪により、時間とともに敵は弱体化していく！
+998/What!? Our provisions are...!?@
+995/Yes... The transport convoy was annihilated.
+...And the all the food provisions along with it.@
+998/Out of all the...@
+998/Tch...this is too calculated to be the work of a
+mere thief...is it possible they snuck in here...?@
+995/What should we do?@
+998/We'll need to have the food delieved again, we have
+no choice... We'll have to cut back on army food
+porportions for awhile.@
+998/That was critical for our encampment...
+Just...who are we dealing with...?@
+1000/(Stealing their food made the enemy army weaker!)
 =「隊長狼狽・食料不足」#
 
 10054=
@@ -1278,17 +1290,17 @@ done.@
 510/Y-You mean it...?@
 [[000500@
 [[000300@
-0/...Soldiers who recieve [Tosyu]'s "love" gain immense power,
-but it causes their heart and mind to become warped somehow.@
-0/Whether it's due to pride, I don't know. But...@
+0/...Soldiers who recieve [Tosyu]'s "empowerment" gain
+immense power, but it somehow warps their heart and mind.@
+0/Whether it's because of their own pride, I don't know. But...@
 [[000303@
 0/Their soul becomes twisted to the point they won't hesitate
-to take anything from anyone.@
+to take anything they can from people.@
 0/...So in that sense, they aren't really "human" anymore.@
 510/...@
 [[000304@
 [[040046@
-0/If the goddess's "love" causes people to lose the things
+0/If "empowerment" causes people to lose the things
 they care about...@
 [[000304@
 [[040047@
@@ -1336,7 +1348,7 @@ abilities...@
 998/...There's evidence to suggest some [Ash] were attacked
 by someone.@
 13/[Ash]...? ...Ah, you mean the people who have just
-recently been "blessed".@
+recently been "empowered".@
 13/I'm sure it could have been the doing of anyone with
 little bit of combat knowlege.@
 998/In addition, several soldiers under our direct control
@@ -1357,22 +1369,21 @@ styles...?@
 13/And yet...according to legend, he attempted to assasinate
 [Tosyu] and failed.@
 13/Then, he was subjected to "[Gyaku]" and made powerless.@
-13/No... Even so that story is many years old... It can't be...
+13/No...even so that story is many years old...it can't be...
 He's grown up to revolt once more...?@
 998/One final thing to report.@
 998/During the battle with our soldiers, it was clear he
 began to falter when presented with the "female body"...@
 13/Interesting...@
 13/I heard in addition to being subjected to "[Gyaku]",
-[Tennin] also received the powerful "blessing".@
-13/I very much expect... There is no recovering from that
-flaw...@
+[Tennin] also received a powerful "enlightenement".@
+13/A weakness that will never go away...I expect...@
 13/Fufufufu... It seems my luck is about to change.@
-13/If that weakness is exploited... And I get rid of
+13/If that weakness is exploited...and I get rid of
 [Tennin] myself...@
 13/A promotion will be all but mine!!@
-13/Eventually I'll even become one of the [Sanrei]... Ufu...
-Kuhuhuhu...♪@
+13/Eventually I'll even become one of the
+[Sanrei]... Ufu... Kuhuhuhu...♪@
 998/M-Mistress [Bibi]...?@
 13/[Tennin]... Soon you will be mere rust on my sword!
 =「Bibi's introduction」#
@@ -1446,8 +1457,8 @@ an emergency.）
 10061=
 [[020000@
 [[009999@
-102/（[ba]...  Even when against foes under the influence of
-the goddess's love, I was able to fight without problems.）@
+102/（[ba]... I was able to fight without problems,
+even against foes empowered by Karula）@
 102/（With this power... I'll get back everything [Tosyu]
 took away... No matter what!!）@
 [[000300@
@@ -1479,7 +1490,7 @@ Don't say you don't know it.@
 under our feet♪@
 510/N-No... Someone help me! Please! Help me!@
 993/Kuhuhu...♪@
-993/Men cannot revieve [Tosyu]'s "blessing"...
+993/Men cannot revieve [Tosyu]'s "empowerment"...
 They exist only to become used by us!@
 [[000001@
 510/H-Help me...!@
@@ -1493,7 +1504,7 @@ feet. Twenty stomps. Begin!@
 993/Ufu- Well as long as we get the credit for arresting
 someone, it doesn't really matter either way～@
 993/If the story about the sister was true...@
-993/She should accept [Tosyu]'s love just like us.@
+993/She should accept [Tosyu]'s empowerment just like us.@
 993/Then her body would become immune to such trivial
 illnesses♪@
 993/So do you understand now? Vile little villain?♪@
@@ -1527,7 +1538,7 @@ do?@
 Even while being stepped on, he's spluring out nonsense...!@
 [[000004@
 101/Oof! T-Their bodys are s-so... ough! But the twisted
-power of the goddess's love won't work... on me!@
+power of their empowerment won't work... on me!@
 993/Still talking are you? Take this! And this!@
 101/(It's okay, if I concentrate... I can escape!!)
 ="Escape"#
@@ -1583,8 +1594,8 @@ How barberic.@
 505/Our village has always lived with nature, and...!!@
 13/Yeah yeah... It seems your predecessors were pretty
 guillable people, is that right?@
-13/The [B80]'s duty is to block off
-any form of unity at the mountain border.@
+13/The [B80]'s duty is
+to block off any form of unity at the mountain border.@
 13/Additionally, we are also tasked with the responsibiliy of
 protecting the mountain itself.@
 13/The reason being, [Tosyu] has come to love the beautiful
@@ -1625,8 +1636,8 @@ own hands!!@
 505/What...!?@
 507/I-I don't believe it... With just one cut she...@
 507/She...cut through four... No, six people...!?@
-13/The difference in power between those who have the 
-goddess's "love" and those that don't is so distant it's
+13/The difference in power between those who have recieved
+the "empowerment" and those that don't is so distant it's
 pitiful.@
 [[050010@
 13/Your foolishness, and lack of respect for power is...
@@ -1688,7 +1699,7 @@ I am on the map.@
 [[000600@
 [[000308@
 100/(It's been some time since I got here...)@
-100/(Battling those with the "love of the goddess" really
+100/(Battling those that have been "empowered" really
 takes a toll on my physical and mental ability...)@
 100/(So, it's critical I engage my target as soon as
 possible.)@
@@ -1697,8 +1708,8 @@ possible.)@
 
 10066=
 [[[0006@
-0/[Yasu]殿！姉上殿！@
-5007/[Player]様！その荷車は…？@
+0/[Yasu]-Dono! 姉上殿！@
+5007/[Player]! Is that cart...?@
 0/囚われていた人々を連れてきた。@
 0/「枯」の刑を受けた者もいるが…手当でなんとかなる。@
 5011/よかった…！[Yasu]！残っているみんなをここに…@
@@ -1824,7 +1835,7 @@ possible.)@
 [[020000@
 [[009999@
 0/Haah... Haah... I was clumsy...@
-0/(I've spent too much time battleing people with "love"...!@
+0/(I've spent too much time battling...!@
 [[020000@
 ]]-010@
 1001/Fufufu...@
