@@ -326,7 +326,7 @@ touched by a woman he writhes in agony.@
 0/Uugh... Oough...@
 13/...It seems this is as far as you go hmm? Tennin-Dono?@
 0/(I underestimated how tough this would be...)@
-13/Rebelling against [Tosyu] after recieving her "blessing"
+13/Rebelling against [Tosyu] after recieving "the blessing"
 once... This is unheard of.@
 13/We must tourment him harshly.
 Take him to prison!@
@@ -1364,7 +1364,7 @@ He's grown up to revolt once more...?@
 began to falter when presented with the "female body"...@
 13/Interesting...@
 13/I heard in addition to being subjected to "[Gyaku]",
-[Tennin] also received an powerful "blessing".@
+[Tennin] also received the powerful "blessing".@
 13/I very much expect... There is no recovering from that
 flaw...@
 13/Fufufufu... It seems my luck is about to change.@
