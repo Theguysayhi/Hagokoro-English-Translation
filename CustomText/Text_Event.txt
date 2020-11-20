@@ -1538,7 +1538,7 @@ do?@
 Even while being stepped on, he's spluring out nonsense...!@
 [[000004@
 101/Oof! T-Their bodys are s-so... ough! But the twisted
-power of their empowerment won't work... on me!@
+power of the empowerment won't work... on me!@
 993/Still talking are you? Take this! And this!@
 101/(It's okay, if I concentrate... I can escape!!)
 ="Escape"#
@@ -1659,7 +1659,7 @@ speak...@
 5007/...!!@
 0/I also came here to deal with [Bibi].@
 0/What she's done...is unforiveable.@
-0/Those who have the goddess's favour steal from the weak...
+0/Those who have the empowerment steal from the weak...
 But not if I have anything to say about it!@
 5007/（[Player]... He's only about the same size as me, but
 he's so strong and brave)@

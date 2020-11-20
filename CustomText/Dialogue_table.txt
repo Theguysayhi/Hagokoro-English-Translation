@@ -1,8 +1,8 @@
-100010=Still wanting to fight?
+100010=So you still wanna fight?
 Come on, give it your best shot!#
 100020=Fufu... Well I say that, but for now...♪
 Let's have a little fun～#
-100030=M-My body... It getting flustered too...!#
+100030=M-My body... Is getting flustered too...!#
 100040=Those determined, pathetic eyes..
 They're making my heart pound...♪#
 100050=Haah... Ahhh...♪#
@@ -22,9 +22,9 @@ I guess what they said about Tennin's curse was true～♪#
 200010=Haah... Haah...
 Dammit...You're still standing! You're pretty head strong,
 you know that?#
-200020=Time for me to pull out all the stops!#
+200020=Time to pull out all the stops!#
 200030=Mmm...ufu...♪#
-200040=It's pathetic how swollen you're penis has become...
+200040=It's pathetic how swollen your penis has become...
 As long as you're like this, you'll never defeat us～#
 200050=Just by doing this...your strength...vanishes in an
 instant...♪#
@@ -46,30 +46,33 @@ You'll be able to fight clearly too... Mmm♪#
 200170=Ahh... Did I... go a little overboard?
 Can you stand? Fufufu～#
 200180=Now then, let's fight, "fair and square"! Aha#
-300010=ふん…ま、まだやる気か？
-呆れたしぶとさだな。そんなにモノを大きくして…#
-300020=くっ…だめだ…私の体も…うずいて…！#
-300030=くうっ…♪あふっ…お前なんか…ここでいいように
-陵辱されるのが似合いだぞっ！#
-300040=さあっ…お前の力の源をいただく…♪#
-300050=す、すごいっ…天忍の力が私の中に…！#
-300060=ふっ…んうっ…♪#
-300070=んっ…♪んん…♪はあっ…はっ…#
-300080=ふふ…さあ、この力で稽古をつけてやる。#
-300090=私の本当の実力、思い知るがいいわ！#
-300110=ちっ…その目、窮鼠の目だな。
-こういう奴は厄介なんだがな…ふん#
-300120=ふん…だが哀れだな。くふふっ…
-私の体に釘付けか。#
-300130=この状況、有効に使わせてもらうぞ？#
-300140=ふふふ…どうだ？んっ…♪#
-300150=祝福を…んっ♪受けた身で…これには…ふっ♪
-抗えまい…♪んっ…んっ…#
-300160=んくっ…！？ん…ふふぅ♪#
-300170=ふふふふ…これでお前の俊敏さは封じたぞ。
-これでもまだ戦うか？#
-300180=いや…答えを聞く必要は無いな。
-今度こそとどめを刺してあげる♪#
+300010=Ooh...s-still feeling determined?
+I'm shocked. And with such a big thing down there too...#
+300020=Guh...on no...my body...is aching too...!#
+300030=Uguh...♪ Aaah...you there. Sit still, so I can
+pleasure myself with your body!#
+300040=Now...to get the power right from the source...♪#
+300050=A-Amazing...I can feel the power of the
+Tennin...flowing through me...!#
+300060=Ooh... Mmm♪#
+300070=Mm...♪ Mmm...♪ Haah...Ah...#
+300080=Fufu...Now then, let's put this new power into
+practise.#
+300090=Time to unleash my true abilties!#
+300110=Tch... Those eyes are like those of a stubborn
+rat. People like that really get on my nerves...hmph.#
+300120=But...there is something pitiful about it all.
+Kufufu... You can't stop looking at my body.#
+300130=In that case, perhaps something like this would be
+effective, yes?#
+300140=Fufufu...you like that? Mmmm...♪#
+300150=Mmm♪ This feeling of enlightened man's body...mmm♪
+I can't resist it...♪ Mmm...Mmm...#
+300160=Ack...!? Mm...fufufu♪#
+300170=Fufufu...that ought to take care of your cockyness.
+Still want to fight?#
+300180=No...there's no need to hear your answer.
+I'm going to finish you off right now♪#
 400010=H-How...? He's been beaten up so much, and yet his
 penis is...#
 400020=And I'm also feeling a little funny...ooh...#
@@ -94,16 +97,17 @@ I-I'm sorry! I'm sorry!#
 right thing after all...?#
 500010=Ehh?～ You can still fight?
 Good boy. Good boy♪#
-500020=あはっ…それじゃあ、ご褒美…あげる♪#
-500030=ふふふっ…どーお？ご褒美…♪
-みんなが気持ちよくなれるなんて素敵でしょ？#
-500040=んくっ…！？もう…！？んっ♪#
-500050=まだまだぁ…♪愉しませてねっ#
-500060=ふふふ…んっ…ふ…♪#
-500070=くふふ♪た～っぷり出しちゃったね…♪
-技に似合わず、体は素直でかわいいわね♪#
-500080=ふふふふ…これで準備は完璧！#
-500090=いっぱいかわいがってあげる♪#
+500020=Aha...Alright then, here's your reward♪#
+500030=Fufufu...well? It's your reward...♪
+Isn't it wonderful when everyone makes you feel good?#
+500040=Mmm...？ Already...!? Mmm♪#
+500050=We're not done yet...♪ I want to enjoy myself okay?#
+500060=Fufufu...mm..fu...♪#
+500070=Kufufu♪ You let out so much～ didn't you...?♪
+Incontrast to your skills, your body is so easy to
+manipulate♪#
+500080=Fufufu... With this, the preparations are complete!#
+500090=I'll show you a real good time♪#
 500110=Fufufu... What a hopeless boy♪
 Don't you know we hate stubborn boys?#
 500120=Besides... You look like you don't even want to fight
@@ -129,38 +133,39 @@ I'll calm it down with my body!#
 dampen your power!#
 600050=Oooh... Fufu...#
 600060=Ahhh... Ah...#
-600070=Ah, it seems your eyes still have some life in them.#
+600070=Ah, I see your eyes still have some life in them.#
 600080=But, can you really still fight me...as you are now?#
 600090=Now, the real match begins!#
-600110=「祝福」を受けたる忍…
-そ、その体の反応…まさに教わった通り…です…#
-600120=こういう時にどうすべきかも教わりましたが…
-ま、まさか本当にやる事になるなんて…！#
-600130=…ええい、武士に迷いは無用ですっ！#
-600140=んくっ…♪す、すごい…固い感触があっ…♪#
-600150=んふ！？ん…なんだか…甘い…
-とろけ…そう…です…♪#
-600160=ふうんっ♪ん…♪#
-600170=こんなに…いっぱい…#
-600180=…はあっ…はっ…ふふふ…
-これでも向かってくる元気が、おありのようですね？#
-700010=ふふ…ふふふ…いい格好ね…#
-700020=あなたの大きくしてる…そこ…#
-700030=わたしがっ…おとなしくさせて…あげる…#
-700040=こうやって…いっぱい…#
-700050=出させて…っ♪弱りきったあなたを…♪#
-700060=じわじわ…ちくちくと…ふふ…んふふふふふ♪#
-700070=はあっ…ん…#
-700080=い～っぱい…いただいたわ…むふふふ♪#
-700090=さあ…いじめて…あげる…♪#
-700110=ん～？……目つきが生意気ぃ…#
-700120=どーしたのー…？ふふふ…ねーえ…
-前かがみさん…♪#
-700130=だんまり…？じゃあ…こっちに聞くからぁ…#
-700140=ふふ…ふ…ふふふ…♪#
-700150=んふっ…くぅ…ふ…#
-700160=んくっ…これ…で…あなたの…力…は…♪
-ふふふふふ…♪#
-700170=もらった力…ためしてあげる…♪#
-700180=もう…逃さない…ふふふ…♪#
+600110=So this is the Shinobi who recieved "enlightenment"...
+Y-Your body is reacting exactly how I expected it...to...#
+600120=I was trained for what to do in situations like
+these...b-but I never thought I'd actually be doing it...!#
+600130=...Gee! You're not much of a warrior!#
+600140=M-Mm...♪ A-Amazing...it's so stiff...♪#
+600150=Mmph!? And...somewhat...sweet...?
+I-I feel...like I'm melting...♪#
+600160=Mmph♪ Mm...♪#
+600170=So...so much...#
+600180=Haah...Haah... Fufufu～
+So even with this, it seems you still have the energy to
+fight me?#
+700010=Fufu...fufufu...what a nice look...#
+700020=And you've become so big...down there...#
+700030=I'll...I'll make you submit....#
+700040=By doing this...#
+700050=The more you release...♪ The weaker you get...♪#
+700060=Slowly..gently...fufu...fufufufu♪#
+700070=Haah..aah...#
+700080=Mmm...there's so much...! Ufufufu♪#
+700090=Now then...time to...tease you...♪#
+700110=Hmm～?...You still have that cocky look...#
+700120=Whatever should we do about that...?♪#
+700130=Not talking huh...? Well then... maybe you'll
+listen to this...#
+700140=Fufu..fu....fufufu...♪#
+700150=Mmm...Kuhu...fufu...#
+700160=Mmm...now...all your power is mine...♪
+Fufufufu...♪#
+700170=Let's try out this new power…♪#
+700180=You can't run away...any longer...fufufu...♪#
 1000000=system
