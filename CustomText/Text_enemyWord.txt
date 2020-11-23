@@ -11,8 +11,8 @@
 115=What's the matter? We're still battling～#
 116=Kuhuhu... What a fool～#
 117=Kuhuhu... What a fool～#
-118=I-I did it...! I was able to be of use...#
-119=I-I did it...! I was able to be of use...#
+118=Y-Yes...! I was able to be of use...#
+119=Y-Yes...! I was able to be of use...#
 120=What a cute boy... Ufufu#
 121=Lookie lookie- Over here-#
 122=Is it really okay to be so absent minded...?#
@@ -56,8 +56,8 @@
 1096=You have an excuse for staring so much?#
 1097=Everything okay? You're full of openings you know?#
 1098=Ahaha... His face has gone bright red♪#
-1099=Now then... Time to get serious#
-1100=Fufu... Please stare at me just like that～#
+1099=Now then... Time to get serious～#
+1100=Fufu... That's it. Just keep staring～#
 1101=You've become completely submissive haven't you?#
 1102=I so love obedient boys...♪#
 1103=You're so naive♪ It's cute～#
@@ -75,7 +75,7 @@
 1115=Everything okay? You're full of openings you know?#
 1116=Ahaha... His face has gone bright red♪#
 1117=Now then... Time to get serious～#
-1118=Fufu... Please stare at me just like that#
+1118=Fufu... That's it. Just keep staring～#
 1119=You've become completely submissive haven't you?#
 1120=I so love obedient boys...♪#
 1121=You're so naive♪ It's cute～

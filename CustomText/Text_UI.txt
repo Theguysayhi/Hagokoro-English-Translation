@@ -83,13 +83,14 @@
 78=Rematch#
 79=Retreat (Defeat Ev)#
 80=Surrender#
-81=拠点へ#
-82=これで体験版は終了となります。
-プレイしていただき、ありがとうございました。
+81=To base#
+82=This concludes the trial of the game, translated by
+Giratena Productions.
+Thank you very much for playing!
 
-＜ひみつの情報＞：拠点メニュー画面で
-「左上の隠しボタン」を押すとライブラリが解放されます
-2回目以降のプレイングで活用してくださいね♪#
+<Secret Info>:Press the hidden top right button at the base
+menu to unlock the gallery. Please enjoy it during second
+time playthroughs of the game♪#
 83=Treasure Archive#
 84=Enemy Information#
 85=Event Viewer#

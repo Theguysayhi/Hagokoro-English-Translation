@@ -136,7 +136,7 @@ dampen your power!#
 600070=Ah, I see your eyes still have some life in them.#
 600080=But, can you really still fight me...as you are now?#
 600090=Now, the real match begins!#
-600110=So this is the Shinobi who recieved "enlightenment"...
+600110=So this is the shinobi who recieved "enlightenment"...
 Y-Your body is reacting exactly how I expected it...to...#
 600120=I was trained for what to do in situations like
 these...b-but I never thought I'd actually be doing it...!#

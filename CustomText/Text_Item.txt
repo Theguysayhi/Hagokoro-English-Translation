@@ -74,7 +74,7 @@ used to drive away enemies.
 "Serene" type weapons can unleash a powerful counterattack
 if used just before an enemy attack.#
 
-10002=Shino Katana/Speed Type, Defense Class: Evasion/
+10002=Shinobi Katana/Speed Type, Defense Class: Evasion/
 A short blade used by shinobi.
 
 "Speed" type weapons don't consume energy when attacking,

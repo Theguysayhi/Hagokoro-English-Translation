@@ -162,19 +162,19 @@ yours, but now you're at your limit aren't you?@
 0/(A-Ah...!?)@
 2003/Fufu. By doing this, we can you pick you up
 whether you like it or not. It's easy.@
-2004/Even when you stand, your head barely comes up to
+2004/But even when standing, your head barely comes up to
 our hips...what a poor little boy～@
-2005/Although, your penis is getting really big...it's so
-cute♪@
+2005/Although, your penis is getting quite big...
+It's rather cute♪@
 ]]]|W1|H1|t0|Y0.22|S0.20@
 2001/You're staring at our legs aren't you?
 You really are simple♪@
 100/Uugh...@
-2003/You're the lowest of the low aren't you...?
+2003/You really are the lowest of the low...
 In that case, I have an idea～@
 [[000001@
-2001/Let's torment him with our feet...!
-Those who defy [Tosyu] must be punished♪@
+2001/Those who defy [Tosyu] must be punished♪
+Let's torment him with our feet...!@
 [[000002@
 2003/Take that!@
 2002/Eei! Eei...!@
@@ -428,7 +428,7 @@ defeated him...
 1005=
 ]]9999@
 [[020000@
-993/Seriously... You're such a fool to challenge us with 
+993/Seriously... You were such a fool to challenge us with 
 that level of skill～@
 993/...Well, you've become so "big", it's only natural
 you couldn't win♪@
@@ -443,7 +443,7 @@ you can barely think straight, isn't that right?@
 993/You thought you could defy Mistress [Boss]...
 This is what you deserve♪@
 993/Fufu... Kuhu...@
-993/It's rare that something interesting happens on duty...
+993/It's rare something interesting happens on duty...
 So we'd better take our sweet time with you♪@
 993/Mmm... Kuhuhu...@
 993/Fufu... We'll squeeze you real tight okay?
@@ -668,105 +668,116 @@ My strength... is...）@
 [[[00000@
 ]]6250@
 [[020000@
-996/ふーん…@
-996/その値、本気で言ってるの？
-随分強気っていうかバカっていうか…@
-996/悪いけどあんたのとこでは買ってあげられないわね。
-交渉は決裂。@
-100/（し、しまった…）@
-996/…にしても、怪しい…@
-100/…！@
-996/…@
+996/Hmm...@
+996/So that's the price you think it should be?
+I can't tell if you're either stubborn or stupid...@
+996/I'm sorry, but I have no intention of buying from you
+at that price. Negotiations are over.@
+100/(D-Dammit...)@
+996/...but, something's off...@
+100/...!@
+996/...@
 [[000017@
 [[000015@
 ]]]|W0.3|H1|t0|Y0.3|S0.28@
-996/…ほいっ！@
-101/うわ、わああ…！？@
-996/あっ！こ、こいつっ…！@
+996/...Ha!@
+101/Wa...aah!?@
+996/Aha! It is you...!@
 [[000015@
-101/く、来るなっ…@
-996/ふふ…腕だけはいいけど女体にめっぽう弱い
-忍びの噂は聞いたことがあるけど、まさかの当たりとはね。@
-996/うろたえちゃって…どうしたの～？@
+101/D-Don't come any closer...@
+996/Fufu...I heard a rumour about a shinobi skilled with
+weapons, but helplessly weak to women...
+I never thought he'd be here～@
+996/You've become so flustered...What's the matter?～@
 [[000015@
-100/ううっ…@
-996/商人なんかになりすまして何しようとしてたのかしら…
-お仕置きしてあげないとね。みんな、押さえてて！@
+100/Oough...@
+996/I wonder what you were doing posing as a merchant...
+Looks like I'd better punish you～
+Everyone, hold him down!@
 [[000303@
-993/はいっ！@
-100/く、うっ…@
-996/あはっ！肌押し付けられただけで金縛りみたいに
-なっちゃったよ。@
-996/下のほうも…すっかり大きくなっちゃって…@
-996/大した度胸ね。敵陣の真っ只中だっていうのに。@
-993/最低…@
-100/…@
-996/うふふ…こんなのはいかが？@
+993/OK!@
+100/G-uugh...@
+996/Aha! Just our bodies pushing down you is enough
+to completely bind you.@
+996/And already, you're starting to get bigger
+down here too...@
+996/You've got guts. But now you're in the middle
+of an enemy camp.@
+993/He's so silly...@
+100/...@
+996/Ufufu...How about this?@
 [[000304@
 [[000010@
-100/くああっ…あっ…！@
-996/いい気持ちでしょ…♪
-カルラ様の寵愛を受けた私達に女体が弱点のあなたが
-歯向かうなんて…とっても愚か♪@
-993/ふふふ…@
-993/くすくす…♪@
+100/Gaaah...! Ahhh...!@
+996/Feels nice doesn't it...?♪
+Trying to oppose us with Karula's empowerement while
+you're so weak to woman...you really are an idiot♪@
+993/Fufufu...@
+993/Kuhuhu...♪@
 ]]]|W0.3|H1|t0|Y0.24|S0.24@
-996/このままもっといたぶってあげたら
-どうなってしまうのかしら？ふふふ…@
-100/うう…ぐっ…
-（も、もうだめ…だ…）@
+996/If I were to keep teasing you a little more,
+I wonder what would happen? Fufu...@
+100/Ooug..oogh...
+(I, I can't take it...anymore...)@
 [[000050@
-996/んっ…♪ふふふ…♪@
-100/あああっ！！あっ…！@
-996/んふっ…♪いっぱい…♪@
-996/あーあ…無様にいっちゃったねぇ…凄腕忍者くん♪@
-100/…@
-993/とろけた顔、かわいい♪@
-993/こんなかわいい敵ならいくらでも相手してあげるよね♪@
+996/Mmm...♪ Fufufu...♪@
+100/Aaaah!! Ahhh...!@
+996/Kuhu...♪ So much...♪@
+996/Oh dear... You've really succumbed haven't you...
+Aren't you some kind of great ninja?♪@
+100/...@
+993/You're entranced expression is so cute♪@
+993/I wouldn't mind having a cute enemy like you as a
+partner♪@
 [[000051@
-996/休ませないよ、残念♪@
+996/But we won't let you rest, what a shame♪@
 [[000200@
-100/ああっ！あ…！！@
-996/ほらぁ…ほらっ！@
-993/もっと情けない顔、しちゃうの？@
-993/みーんな見てるよ…集まってきてるよ♪@
-996/さあ、イきなさい！@
+100/Aah!！ Ahh...!@
+996/Hora...hora!@
+993/Show us more of that pathetic expression, okay?@
+993/Gather around everyone...come see!♪@
+996/Now, cum!@
 [[000050@
-100/っ…！う…！！@
-996/んふっ…！まだまだこれからよ！@
-100/ああっ…！もう…これ以上は…！！@
+100/Ooh...! Ogh...!!@
+996/Mmmm...! But we're not done yet!@
+100/Ahhh...! Please! Anymore than this and I'll...!@
 [[000050@
-996/うふふふ…♪@
-100/……！！…………@
+996/Ufufu...♪@
+100/.....! !.........@
 [[000052@
-996/ふうっ…さあ、やめてほしかったら企んでることを
-全て白状なさい。そうすれば嫐るのをやめてあげる。@
+996/Fufu... Well, if you want it to stop, confess all your
+plans and secrets to us. Then I'll stop teasing
+your penis～@
 100/…@
-1000/Genは敵の女達の責めに耐えきれず、
-策戦のことを全て白状した。@
-996/なるほどねぇ…もっと責めなくちゃだめかと思ったけど
-あっさり白状してくれたわね。ありがと、情けない忍者くん♪@
+1000/Gen, unable to resist the woman's coercion, confessed
+all his battle stratergies and plans.@
+996/I see... I thought I'd have to tease the information
+out of you a little more but you gave in faster than I
+thought. Thanks, pathetic ninja♪@
 [[000051@
-996/ご褒美にもっといじめてあげる♪@
-100/そ、そんな…！@
+996/As your reward, I'll tease you even more♪@
+100/B-But you said...!@
 [[000021@
-993/情けない声出さないの♪男子でしょ？@
-993/観念なされませ♪@
+993/I don't want to hear your pathetic excuses♪
+You are a guy right?@
+993/Just let go and give in♪@
 [[000050@
-996/ほらぁ…ほーら…♪@
+996/Hora...hora...♪@
 [[000050@
-996/ふふふふふ…♪@
+996/Fufufufufu....♪@
 [[000099@
-1000/Genは敵の執拗な責めを受け…半死半生にまで追い込まれた。@
+1000/Gen was tormented endlessly...to the point of
+near death.@
 [[000011@
 ]]]|W1|H1|t0|Y0.3|S0.22@
-996/ふうっ…面白かったぁ♪@
-993/いかがしましょうか。始末しますか？@
-996/いいんじゃない？そのへんに捨てとけば。
-また何かやってたら私達が横取りしちゃえばいいし♪@
-1000/敵によってゴミクズのように打ち捨てられた…。
-(策戦が全て消滅してしまった！)
-=「商人看破・一」#
+996/Fufu...that was fun♪@
+993/What do we do now? Get rid of him?@
+996/Why not? We'll throw him over there. If he tries
+something, we'll just put him in his place again♪@
+1000/Gen was struck down by the enemy like a piece
+of trash...
+(All plans have been destoryed!)
+=「Spotted by Merchant・1」#
 
 5001=
 993/天忍のうわさ、聞いた？@
@@ -810,7 +821,7 @@ army from the capital is at the foot of the mountain.
 So I ran away in a hurry.@
 508/I thought you came home a little early, but I suppose
 that's how things are sometimes. But, what's the Lord's 
-army doing at the foot of Arrowhead mountain?@
+army doing at the foot of Arrowhead Mountain?@
 505/But there were lots of huge carts there...maybe it was a
 transportation convoy? Alhough, one of the cars had a broken
 wheel, it wouldn't move properly.@
@@ -1220,16 +1231,16 @@ transporting food provisions?@
 998/Fuu... If it was because it was attacked by a thief,
 It'll be a good look for us soldiers to camp out here to 
 keep watch for any brigands.@
-995/It's coming to the foot of arrowhead mountain right now.
+995/It's coming to the foot of Arrowhead Mountain right now.
 It might be a little late, but it should arrive soon.@
 998/There's no way we won't have enough food to go around.
 It would be a huge issue.@
 [[020000@
-0/So a "Transport Squad" is at the base of arrowhead
-mountain... That's towards the east.@
+0/So a "Transport Squad" is at the base of Arrowhead
+Mountain... That's towards the east.@
 0/If they came over the mountain road and there was a delay,
 they must be very tired. Maybe if I took a detour and
-attacked them, I could take away some of their rations.
+attacked them, I could take away the army's rations.
 =「偵察・美々一」#
 
 10053=
@@ -1255,9 +1266,9 @@ Just...who are we dealing with...?@
 [[000303@
 1000/[Player] gave the boy some medical treatment.@
 [[000304@
-0/(He's firmly grasping the medicinal herbs...
-He probably wanted to bring this home at any cost.）@
-0/There's a village in the south... around here.
+0/(He's firmly grasping the medicinal herbs.
+He must have needed them badly...）@
+0/There's a village in the south...around here.
 I should take him there for the time being.@
 0/...Hngh!@
 [[020000@
@@ -1282,7 +1293,7 @@ taken away from me.)@
 0/You'll be able to take a long rest when we get there...
 so just hold on a little longer.@
 510/Thank you... My village is over there...
-And I have to give these herbs....@
+And I have to give these herbs to....@
 0/Even though they were beating you up, you didn't let go of
 them.@
 0/...What you did was stronger than anything they could have
@@ -1291,7 +1302,8 @@ done.@
 [[000500@
 [[000300@
 0/...Soldiers who recieve [Tosyu]'s "empowerment" gain
-immense power, but it somehow warps their heart and mind.@
+immense power and beauty, but it somehow causes their heart
+and mind to become warped.@
 0/Whether it's because of their own pride, I don't know. But...@
 [[000303@
 0/Their soul becomes twisted to the point they won't hesitate
@@ -1300,7 +1312,7 @@ to take anything they can from people.@
 510/...@
 [[000304@
 [[040046@
-0/If "empowerment" causes people to lose the things
+0/If the "empowerment" causes people to lose the things
 they care about...@
 [[000304@
 [[040047@
@@ -1438,7 +1450,8 @@ attack!
 101/(The enemy's stance... It's so sexy...
 She can't be... doing it on purpose...!?）@
 101/(If she catches my attention, it's likely I'll be left
-unable to do anything...I have to stop her no matter what!）
+unable to do anything...I should interrupt her before she
+does anything distracting!）
 =「Seduction」#
 
 10060=
@@ -1566,7 +1579,7 @@ I-I see you've recovered...@
 5011/I don't normally get fevers, so I can only think that
 my brother was panicking very much.@
 101/Oh um, is that so...? I, err. I see...@
-5007/Mr. [Player], are you always this shy?@
+5007/Mr. [Player], are you normally this shy?@
 101/...Anyways!!@
 0/There are so few people in this village!! What's the deal
 with that!?@
@@ -1672,7 +1685,7 @@ one would listen to me...）
 10064=
 0/This is a rough sketch of the enemy encampment.@
 0/It's pretty sketchy-- based on the information I lightly
-scouted earlier...but it's based on the story I heard from
+scouted earlier...but it's lines up with what I heard from
 [Yasu]-dono's elder sister.@
 [[000300@
 [[000305@
@@ -1690,16 +1703,16 @@ creative to find the targeted enemy location.@
 0/Successful "battle stratergies" could potentially make
 fighting easier for me.@
 0/The only thing I can do right now is scout though...@
-0/But I can carrow out "battle stratergies" no matter where
+0/But I can carry out "battle stratergies" no matter where
 I am on the map.@
-0/I should probably use it when fighting strong enemies.
+0/I should probably use it when fighting stronger enemies.
 ="Map"#
 
 10065=
 [[000600@
 [[000308@
 100/(It's been some time since I got here...)@
-100/(Battling those that have been "empowered" really
+100/(Battling those that have been "empowered"
 takes a toll on my physical and mental ability...)@
 100/(So, it's critical I engage my target as soon as
 possible.)@
@@ -1708,122 +1721,147 @@ possible.)@
 
 10066=
 [[[0006@
-0/[Yasu]-Dono! 姉上殿！@
+0/[Yasu]-Dono! Sister-Dono!@
 5007/[Player]! Is that cart...?@
-0/囚われていた人々を連れてきた。@
-0/「枯」の刑を受けた者もいるが…手当でなんとかなる。@
-5011/よかった…！[Yasu]！残っているみんなをここに…@
-5011/みんなで手当てしましょう！@
-5007/うん！@
-0/[me]も手伝う。応急処置くらいなら心得がある…@
-5011/[Player]様…本当にありがとう。@
-101/…@
+0/I brought along everyone that was captured.@
+0/Some have been "withered"...but they should make it with
+proper treatment.@
+5011/Thank goodness...! [Yasu]！ Bring everyone else here...@
+5011/...and let's help everyone together!@
+5007/Yeah!@
+0/I'll help too. I know first aid.@
+5011/Mr. [Player]... Thank you. I really mean it.@
+101/...@
 [[000300@
-0/（…ここからだ…）@
-0/（これを足がかりに、[me]は今度こそ[Tosyu]を倒す…！）@
-0/（そして[Otuu]も必ず…！）@
+0/(...This is it...)@
+0/（With this as my foothold, I'll defeat [Tosyu] next...!）@
+0/（And then, [Otuu]...!）@
 [[[0008@
 [[000500@
-1000/或るところの詰め所…@
-11/…遅いわよ！@
-9/ゴメンって、「[Muku]」…だってさあ、こないだ集まったばっかじゃん？@
-9/ま、この会議最後に美味しいの出るからいいんだけどね～♪@
-11/あとは…[Otome]は？@
-9/[Muku]のうしろ～。@
-11/うお！？@
-10/ふふ…ふふふ…[Sanrei]が一人、[Otome]…見…参……ふふ…@
-11/どこが見参よ！もっと堂々と出てこいっての…@
-9/で、どうしたんですかー？@
-11/…[Bibi]が倒されたそうよ。@
-9/…[Bibi]！！@
-9/って誰だっけ？@
-11/[B80]よ！！味方の幹部の名前くらい覚えておきなさいよね！@
-10/[Bibi]………私のもとに…何度も…申し文を送ってきていた…@
-10/何度も…何度も！！何度も何度も何度も！！！@
-11/お、[Otome]…@
-10/彼女の占いは…十九度目の申し文を受けた段階で行うのが…！@
-10/天文によると最良であった…！！@
+1000/Meanwhile...@
+11/...You're late!@
+9/Sorry, "[Muku]"...but come'on, didn't we just catch up
+the other day?@
+9/Well, assuming something tasty comes out after this 
+meeting I suppose it's okay～♪@
+11/Now all that's left is...[Otome]?@
+9/She's behind you.@
+11/Wah!?@
+10/Fufu...fufufu....The last of the [Sanrei],
+[Otome]...has arrived...fufu...@
+11/Where the heck did you come from!
+I wish you'd come in properly like normal person...@
+9/So, what's going on?@
+11/...it appears [Bibi] has been defeated.@
+9/...Oh no! Not [Bibi]!!@
+9/...who was she again?@
+11/She was the [B80]!!
+You would do well to at least remember the names of your
+allies!@
+10/[Bibi]......she has been...sending me...many letters...@
+10/Many, many letters...!! Over and over and over and over
+and over again!!!!@
+11/Uh, [Otome]...@
+10/I was conducting her fortune...because of her 19th
+letter request...!@
+10/Fortune telling is not something taken lightly...!@
 [[000300@
-10/それを…あの女はアァァァァァ！！！！@
-9/お、[Otto]…落ち着いてって！その[Bibi]ちゃんはもういないみたいよ@
-10/…何故…？@
-11/ある忍びに倒された。@
-11/下手人は…[Tennin]。@
-9/！！@
-10/…！@
-11/ご丁寧に書き置きがあったそうよ。@
-11/近くに村があるようだけど、そこは今回の件とは無関係のようね。@
+10/That... that woman is so...AAaaaaaa!!!!！@
+9/O-[Otto]... settle down! [Bibi] may not be around anymore!@
+10/...what do you mean...?@
+11/She was defeated. By a certain Shinobi.@
+11/And the perpetrator was...the [Tennin].@
+9/!!@
+10/...!@
+11/It seems she left behind a note.@
+11/She talks about a nearby village, but that doesn't seem
+related.@
 [[000300@
-11/流派を三つ操る…髪に栗色が混じった男の忍び。@
-9/おんなじじゃん…何年前だっけ？五年前？@
-10/[Tosyu]様の[Gyaku]を受け…@
-10/私達が…「祝福」を施したあの忍びが…@
-10/性懲りも…なく…！！！@
-9/でも[Tennin]がなんで辺境のよくわかんない奴からヤるわけ？@
-11/（よくわかんない奴じゃなくて味方の幹部だっつーの）@
-11/…奴が討ったのは北方の[B80]。@
-11/賊との呼応を狙っているのかもしれないわ。@
-11/北側は土地そのものが広い分、未知の要素も多い。@
-10/…混乱が…広がる…@
-10/おのれ…[Tosyu]様が作りし平穏を乱すとは…@
-10/許せぬ…恨めしい…！！！[Tennin]、[Player]…！！！@
-9/でも、面白くなってきたじゃん？@
-9/あいつから奪った力で、返り討ちにしてやろーよ♪@
-9/あたしの[Speed]、@
-9/[Otto]の[Strong]、@
-9/[Muku]の[Yanagi]でさ♪ふふふっ♪@
-9/それにそれにっ♪みんなの力総動員してさっ！@
-9/私達[Sanrei]だけじゃなくて、@
-9/「[B81]」の「[Yuki]」ちゃんに、
-「[B82]」の「[Azusa]」さん…@
-9/「[B83]」の「[Orin]」ちゃんと「[Orei]」ちゃんにぃ、
-それにそれに…ふふふ♪@
-11/（コイツなんで[Bibi]だけ覚えてないの…）@
-9/みーんなで、[Tennin]のこといじめてやろーよ♪@
-9/あなたもそれがいいと思うよね、[Otuu]ちゃん？@
-1/…@
-1/…御意にございます…
+11/A shinobi with chestnut-coloured hair...wielder of the
+three sacred styles.@
+9/The same as...how many years ago? Five years ago?@
+10/And recieved [Tosyu]'s [Gyaku]...@
+10/The Shinobi that we..."enlightened"...@
+10/Does he not know his persistance...is meaningless...!!@
+9/But why would the [Tennin] off some rando at the border?@
+11/(And by "rando", I assume you mean one of our top allied
+leaders...）@
+11/...He defeated the northern [B80].@
+11/Maybe he's intending unify the bandits.@
+11/The northen land is vast. There are many unknown factors
+to consider as well.@
+10/...confusion...increases...@
+10/How dare he destory the peace and tranquility that
+[Tosyu] created...@
+10/Unforgiveable...despicable！！！[Tennin], [Player]...!!!@
+9/But, it could be fun, don't you think?@
+9/With the power we took from him, we could turn the
+tables easy♪@
+9/With my [Speed],@
+9/[Otto]'s[Strong],@
+9/...and [Muku]'s [Yanagi]♪ Yes? Fufufu♪@
+9/Not only that..♪ We'll mobilize all our forces!@
+9/I'm not talking just us, the [Sanrei],@
+9/"[Yuki]" of the "[B81]",
+"[Azusa]" of the "[B82]".@
+9/[B83] "[Orin]" and "[Orei]",
+And then...and then...fufufu♪@
+11/（Poor [Bibi]... I guess she remembered everyone but
+her...）@
+9/Let's make everyone tease the [Tennin]♪@
+9/You think so too right, [Otuu]?@
+1/...@
+1/...if that's what you wish...
 ="三麗忍集う"#
 
 10067=
 [[020000@
 1000/You hear the voice of your [ba]...@
-3/[Player]、防御修練の場によくぞ来た。@
-3/敵からの攻撃をどうしても受けなくてはいけない時に役立つのが「防御」じゃ。@
-3/防御には種類がある。@
-3/「通常型」と「回避型」。@
-3/どの防御ができるかは武器によって決まっておる。@
-3/つまり…同じ「柔」型の武器でも防御方式が違う事があるわけじゃ。@
-3/ややこしいが頑張って覚えてくれ。@
+3/[Player], I see you came to defensive training prepared.@
+3/In the event you must recieve an enemy attack, you must
+"defend".@
+3/There are a variety of ways to defend.@
+3/"Normal Type" and "Evasion Type".@
+3/The type you use to defend is dependant on the weapon
+you are currently using.@
+3/In otherwords...even if two weapon use the same "style",
+they may have different defense types.@
+3/It might be a little confusing, but try to keep it in
+mind.@
 [[000300@
 [[040049@
-1000/防御はこの六角形のボタンにカーソルを合わせている間発動します。@
-1000/それかキーの「↓」を押しても防御状態になります。@
+1000/Hover the mouse of the hexagon shown here to defend.@
+1000/Alternatively, you can also press the "↓" arrow key.@
 [[049999@
-3/…敵が来るぞ。防御の練習をしてみるのじゃ。
-="防御修練"#
+3/...an enemy apporaches. Try practise defending.
+="Defense Training"#
 
 10068=
 1000/「回避型」で敵の攻撃を防ぐと一定時間、無敵状態になります。@
 1000/敵の攻撃を受ける寸前に回避するとより多く無敵時間が増加します。
-="回避修練"#
+="Evasion Training"#
 
 10069=
 [[020000@
 1000/You hear the voice of your [ba]...@
 [[000304@
 [[040048@
-3/[Yanagi]、[Speed]、[Strong]…三つの流派は三すくみの関係にある。@
-3/攻撃を受け流せる[Yanagi]は一撃特化の[Strong]に勝ち、@
-3/息もつかせぬ連撃の[Speed]は[Yanagi]に攻撃を受け流す機会を与えぬ。@
-3/そして攻撃を受けるほど強くなる[Strong]は手数重視の[Speed]と相性が良い。@
-3/そなたは[Tennin]、史上稀に見る三つの流派を操る者。@
-3/もし流派を持つ敵が現れても臨機応変に対応できる。@
+3/There are three main styles...[Yanagi], [Speed], and [Strong].@
+3/The [Yanagi] specialises in counterattacking wins against
+the [Strong] style...@
+3/The swift attacks of the [Speed] overpower the [Yanagi] style...@
+3/And finally, the [Strong] style can block the weaker attacks
+of the [Speed] style.@
+3/You are the [Tennin], the master of all three styles.@
+3/So even if an enemy with one style apporaches, you can
+counter with an opposing style that's more effective.@
 [[049999@
 [[000300@
-3/そなたなら流派を持つ敵特有の「気」が見えるはずじゃ…@
-3/よいか、敵の気と「同じ色」の流派で攻めよ！@
-3/それが勝つ近道じゃ…「同じ色」じゃぞ！
+3/If an enemy is using a particular style, you should be
+able to tell their weakness by sensing their "chi"...@
+3/Do you understand? When that happens, switch your weapon
+to match their chi!@
+3/Switch to the same colour...that's the key to victory!
 ="流派修練"#
 
 10070=
